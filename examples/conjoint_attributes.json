@@ -1,0 +1,20 @@
+{
+  "apy": [
+    "3%",
+    "6%",
+    "9%"
+  ],
+  "lockup": [
+    "none",
+    "30 days",
+    "90 days"
+  ],
+  "custody": [
+    "self-custody",
+    "exchange"
+  ],
+  "insurance": [
+    "no",
+    "yes"
+  ]
+}

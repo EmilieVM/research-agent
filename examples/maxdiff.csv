@@ -1,0 +1,6401 @@
+resp_id,task,item,best,worst
+R0000,1,insurance cover,1,0
+R0000,1,staking rewards,0,0
+R0000,1,instant withdrawal,0,0
+R0000,1,auto-compounding,0,1
+R0000,2,copy trading,0,0
+R0000,2,price alerts,0,1
+R0000,2,hardware wallet support,0,0
+R0000,2,auto-compounding,1,0
+R0000,3,insurance cover,0,0
+R0000,3,instant withdrawal,1,0
+R0000,3,tax reports,0,0
+R0000,3,staking rewards,0,1
+R0000,4,auto-compounding,0,0
+R0000,4,hardware wallet support,0,1
+R0000,4,tax reports,1,0
+R0000,4,copy trading,0,0
+R0000,5,insurance cover,0,0
+R0000,5,staking rewards,0,1
+R0000,5,auto-compounding,1,0
+R0000,5,hardware wallet support,0,0
+R0000,6,hardware wallet support,0,0
+R0000,6,insurance cover,0,0
+R0000,6,instant withdrawal,1,0
+R0000,6,staking rewards,0,1
+R0000,7,instant withdrawal,1,0
+R0000,7,staking rewards,0,0
+R0000,7,tax reports,0,1
+R0000,7,auto-compounding,0,0
+R0000,8,hardware wallet support,1,0
+R0000,8,tax reports,0,1
+R0000,8,staking rewards,0,0
+R0000,8,price alerts,0,0
+R0001,1,instant withdrawal,1,0
+R0001,1,copy trading,0,1
+R0001,1,insurance cover,0,0
+R0001,1,hardware wallet support,0,0
+R0001,2,staking rewards,0,0
+R0001,2,auto-compounding,1,0
+R0001,2,insurance cover,0,0
+R0001,2,hardware wallet support,0,1
+R0001,3,tax reports,0,0
+R0001,3,price alerts,0,0
+R0001,3,insurance cover,0,1
+R0001,3,staking rewards,1,0
+R0001,4,copy trading,0,1
+R0001,4,auto-compounding,0,0
+R0001,4,price alerts,0,0
+R0001,4,hardware wallet support,1,0
+R0001,5,instant withdrawal,1,0
+R0001,5,insurance cover,0,0
+R0001,5,tax reports,0,0
+R0001,5,copy trading,0,1
+R0001,6,price alerts,0,1
+R0001,6,hardware wallet support,0,0
+R0001,6,staking rewards,0,0
+R0001,6,instant withdrawal,1,0
+R0001,7,staking rewards,0,0
+R0001,7,tax reports,1,0
+R0001,7,price alerts,0,0
+R0001,7,copy trading,0,1
+R0001,8,copy trading,0,0
+R0001,8,price alerts,0,1
+R0001,8,insurance cover,1,0
+R0001,8,staking rewards,0,0
+R0002,1,insurance cover,0,0
+R0002,1,instant withdrawal,1,0
+R0002,1,copy trading,0,1
+R0002,1,tax reports,0,0
+R0002,2,tax reports,0,0
+R0002,2,instant withdrawal,1,0
+R0002,2,auto-compounding,0,0
+R0002,2,copy trading,0,1
+R0002,3,insurance cover,0,0
+R0002,3,instant withdrawal,1,0
+R0002,3,price alerts,0,1
+R0002,3,auto-compounding,0,0
+R0002,4,auto-compounding,1,0
+R0002,4,hardware wallet support,0,0
+R0002,4,staking rewards,0,0
+R0002,4,price alerts,0,1
+R0002,5,instant withdrawal,0,0
+R0002,5,tax reports,0,1
+R0002,5,price alerts,0,0
+R0002,5,hardware wallet support,1,0
+R0002,6,instant withdrawal,1,0
+R0002,6,price alerts,0,0
+R0002,6,copy trading,0,1
+R0002,6,tax reports,0,0
+R0002,7,copy trading,0,1
+R0002,7,staking rewards,1,0
+R0002,7,price alerts,0,0
+R0002,7,insurance cover,0,0
+R0002,8,tax reports,0,0
+R0002,8,insurance cover,1,0
+R0002,8,price alerts,0,0
+R0002,8,copy trading,0,1
+R0003,1,copy trading,0,0
+R0003,1,price alerts,0,1
+R0003,1,hardware wallet support,0,0
+R0003,1,instant withdrawal,1,0
+R0003,2,instant withdrawal,0,0
+R0003,2,hardware wallet support,0,1
+R0003,2,insurance cover,1,0
+R0003,2,auto-compounding,0,0
+R0003,3,tax reports,0,0
+R0003,3,auto-compounding,1,0
+R0003,3,staking rewards,0,1
+R0003,3,hardware wallet support,0,0
+R0003,4,instant withdrawal,1,0
+R0003,4,hardware wallet support,0,1
+R0003,4,price alerts,0,0
+R0003,4,tax reports,0,0
+R0003,5,staking rewards,0,0
+R0003,5,price alerts,0,0
+R0003,5,tax reports,0,1
+R0003,5,instant withdrawal,1,0
+R0003,6,insurance cover,1,0
+R0003,6,price alerts,0,1
+R0003,6,hardware wallet support,0,0
+R0003,6,copy trading,0,0
+R0003,7,hardware wallet support,1,0
+R0003,7,copy trading,0,0
+R0003,7,tax reports,0,0
+R0003,7,price alerts,0,1
+R0003,8,auto-compounding,1,0
+R0003,8,copy trading,0,1
+R0003,8,price alerts,0,0
+R0003,8,tax reports,0,0
+R0004,1,copy trading,0,1
+R0004,1,instant withdrawal,1,0
+R0004,1,price alerts,0,0
+R0004,1,auto-compounding,0,0
+R0004,2,staking rewards,0,0
+R0004,2,instant withdrawal,0,0
+R0004,2,insurance cover,1,0
+R0004,2,copy trading,0,1
+R0004,3,hardware wallet support,0,0
+R0004,3,tax reports,1,0
+R0004,3,instant withdrawal,0,1
+R0004,3,staking rewards,0,0
+R0004,4,copy trading,0,0
+R0004,4,insurance cover,0,0
+R0004,4,auto-compounding,1,0
+R0004,4,tax reports,0,1
+R0004,5,instant withdrawal,0,0
+R0004,5,copy trading,0,0
+R0004,5,insurance cover,1,0
+R0004,5,price alerts,0,1
+R0004,6,tax reports,0,0
+R0004,6,insurance cover,0,1
+R0004,6,auto-compounding,0,0
+R0004,6,instant withdrawal,1,0
+R0004,7,copy trading,0,1
+R0004,7,instant withdrawal,0,0
+R0004,7,price alerts,0,0
+R0004,7,staking rewards,1,0
+R0004,8,price alerts,1,0
+R0004,8,copy trading,0,1
+R0004,8,tax reports,0,0
+R0004,8,instant withdrawal,0,0
+R0005,1,instant withdrawal,1,0
+R0005,1,insurance cover,0,1
+R0005,1,staking rewards,0,0
+R0005,1,price alerts,0,0
+R0005,2,price alerts,0,1
+R0005,2,auto-compounding,1,0
+R0005,2,tax reports,0,0
+R0005,2,staking rewards,0,0
+R0005,3,tax reports,0,0
+R0005,3,insurance cover,1,0
+R0005,3,price alerts,0,0
+R0005,3,hardware wallet support,0,1
+R0005,4,tax reports,0,1
+R0005,4,insurance cover,0,0
+R0005,4,staking rewards,0,0
+R0005,4,instant withdrawal,1,0
+R0005,5,price alerts,0,0
+R0005,5,insurance cover,1,0
+R0005,5,copy trading,0,1
+R0005,5,hardware wallet support,0,0
+R0005,6,copy trading,0,1
+R0005,6,tax reports,0,0
+R0005,6,auto-compounding,0,0
+R0005,6,instant withdrawal,1,0
+R0005,7,tax reports,0,0
+R0005,7,insurance cover,1,0
+R0005,7,price alerts,0,0
+R0005,7,copy trading,0,1
+R0005,8,staking rewards,0,0
+R0005,8,auto-compounding,1,0
+R0005,8,copy trading,0,0
+R0005,8,hardware wallet support,0,1
+R0006,1,instant withdrawal,0,0
+R0006,1,insurance cover,0,0
+R0006,1,auto-compounding,0,1
+R0006,1,tax reports,1,0
+R0006,2,price alerts,0,1
+R0006,2,staking rewards,0,0
+R0006,2,insurance cover,0,0
+R0006,2,tax reports,1,0
+R0006,3,instant withdrawal,0,0
+R0006,3,hardware wallet support,1,0
+R0006,3,tax reports,0,1
+R0006,3,auto-compounding,0,0
+R0006,4,staking rewards,1,0
+R0006,4,price alerts,0,1
+R0006,4,auto-compounding,0,0
+R0006,4,tax reports,0,0
+R0006,5,auto-compounding,0,1
+R0006,5,hardware wallet support,1,0
+R0006,5,price alerts,0,0
+R0006,5,tax reports,0,0
+R0006,6,price alerts,1,0
+R0006,6,instant withdrawal,0,1
+R0006,6,insurance cover,0,0
+R0006,6,auto-compounding,0,0
+R0006,7,price alerts,0,0
+R0006,7,copy trading,0,1
+R0006,7,insurance cover,1,0
+R0006,7,instant withdrawal,0,0
+R0006,8,insurance cover,1,0
+R0006,8,auto-compounding,0,0
+R0006,8,instant withdrawal,0,0
+R0006,8,copy trading,0,1
+R0007,1,instant withdrawal,1,0
+R0007,1,staking rewards,0,0
+R0007,1,tax reports,0,1
+R0007,1,auto-compounding,0,0
+R0007,2,price alerts,0,0
+R0007,2,tax reports,1,0
+R0007,2,auto-compounding,0,0
+R0007,2,copy trading,0,1
+R0007,3,instant withdrawal,0,0
+R0007,3,staking rewards,0,1
+R0007,3,tax reports,0,0
+R0007,3,auto-compounding,1,0
+R0007,4,tax reports,0,0
+R0007,4,hardware wallet support,0,0
+R0007,4,instant withdrawal,1,0
+R0007,4,price alerts,0,1
+R0007,5,tax reports,0,0
+R0007,5,staking rewards,0,1
+R0007,5,hardware wallet support,0,0
+R0007,5,auto-compounding,1,0
+R0007,6,insurance cover,0,0
+R0007,6,instant withdrawal,0,0
+R0007,6,price alerts,0,1
+R0007,6,staking rewards,1,0
+R0007,7,insurance cover,0,1
+R0007,7,instant withdrawal,1,0
+R0007,7,auto-compounding,0,0
+R0007,7,hardware wallet support,0,0
+R0007,8,tax reports,0,1
+R0007,8,staking rewards,0,0
+R0007,8,hardware wallet support,0,0
+R0007,8,instant withdrawal,1,0
+R0008,1,instant withdrawal,0,0
+R0008,1,auto-compounding,1,0
+R0008,1,hardware wallet support,0,1
+R0008,1,insurance cover,0,0
+R0008,2,insurance cover,0,0
+R0008,2,hardware wallet support,0,1
+R0008,2,price alerts,1,0
+R0008,2,tax reports,0,0
+R0008,3,copy trading,0,0
+R0008,3,tax reports,0,0
+R0008,3,price alerts,0,1
+R0008,3,auto-compounding,1,0
+R0008,4,staking rewards,0,0
+R0008,4,tax reports,0,0
+R0008,4,auto-compounding,1,0
+R0008,4,price alerts,0,1
+R0008,5,insurance cover,0,0
+R0008,5,staking rewards,0,0
+R0008,5,instant withdrawal,1,0
+R0008,5,hardware wallet support,0,1
+R0008,6,copy trading,0,0
+R0008,6,auto-compounding,0,0
+R0008,6,insurance cover,1,0
+R0008,6,instant withdrawal,0,1
+R0008,7,tax reports,0,0
+R0008,7,staking rewards,0,1
+R0008,7,price alerts,0,0
+R0008,7,auto-compounding,1,0
+R0008,8,price alerts,0,0
+R0008,8,copy trading,0,1
+R0008,8,auto-compounding,1,0
+R0008,8,hardware wallet support,0,0
+R0009,1,copy trading,0,1
+R0009,1,price alerts,0,0
+R0009,1,tax reports,0,0
+R0009,1,auto-compounding,1,0
+R0009,2,hardware wallet support,0,0
+R0009,2,auto-compounding,1,0
+R0009,2,insurance cover,0,0
+R0009,2,copy trading,0,1
+R0009,3,staking rewards,1,0
+R0009,3,price alerts,0,1
+R0009,3,hardware wallet support,0,0
+R0009,3,auto-compounding,0,0
+R0009,4,auto-compounding,0,0
+R0009,4,price alerts,0,0
+R0009,4,copy trading,0,1
+R0009,4,staking rewards,1,0
+R0009,5,copy trading,1,0
+R0009,5,tax reports,0,0
+R0009,5,instant withdrawal,0,0
+R0009,5,staking rewards,0,1
+R0009,6,instant withdrawal,1,0
+R0009,6,hardware wallet support,0,0
+R0009,6,price alerts,0,1
+R0009,6,insurance cover,0,0
+R0009,7,copy trading,0,1
+R0009,7,instant withdrawal,1,0
+R0009,7,hardware wallet support,0,0
+R0009,7,auto-compounding,0,0
+R0009,8,insurance cover,0,1
+R0009,8,staking rewards,1,0
+R0009,8,instant withdrawal,0,0
+R0009,8,auto-compounding,0,0
+R0010,1,insurance cover,1,0
+R0010,1,tax reports,0,1
+R0010,1,hardware wallet support,0,0
+R0010,1,auto-compounding,0,0
+R0010,2,copy trading,0,1
+R0010,2,insurance cover,0,0
+R0010,2,price alerts,0,0
+R0010,2,auto-compounding,1,0
+R0010,3,insurance cover,0,1
+R0010,3,auto-compounding,0,0
+R0010,3,price alerts,1,0
+R0010,3,hardware wallet support,0,0
+R0010,4,tax reports,0,0
+R0010,4,copy trading,0,1
+R0010,4,hardware wallet support,0,0
+R0010,4,insurance cover,1,0
+R0010,5,insurance cover,1,0
+R0010,5,copy trading,0,1
+R0010,5,instant withdrawal,0,0
+R0010,5,tax reports,0,0
+R0010,6,copy trading,0,1
+R0010,6,instant withdrawal,1,0
+R0010,6,staking rewards,0,0
+R0010,6,auto-compounding,0,0
+R0010,7,hardware wallet support,0,1
+R0010,7,staking rewards,1,0
+R0010,7,tax reports,0,0
+R0010,7,instant withdrawal,0,0
+R0010,8,tax reports,0,1
+R0010,8,insurance cover,1,0
+R0010,8,copy trading,0,0
+R0010,8,price alerts,0,0
+R0011,1,auto-compounding,0,0
+R0011,1,tax reports,0,1
+R0011,1,hardware wallet support,0,0
+R0011,1,insurance cover,1,0
+R0011,2,hardware wallet support,0,1
+R0011,2,auto-compounding,0,0
+R0011,2,tax reports,1,0
+R0011,2,insurance cover,0,0
+R0011,3,insurance cover,1,0
+R0011,3,instant withdrawal,0,0
+R0011,3,auto-compounding,0,1
+R0011,3,hardware wallet support,0,0
+R0011,4,insurance cover,1,0
+R0011,4,tax reports,0,0
+R0011,4,price alerts,0,1
+R0011,4,instant withdrawal,0,0
+R0011,5,staking rewards,0,1
+R0011,5,insurance cover,0,0
+R0011,5,auto-compounding,0,0
+R0011,5,hardware wallet support,1,0
+R0011,6,staking rewards,0,0
+R0011,6,auto-compounding,0,0
+R0011,6,insurance cover,1,0
+R0011,6,price alerts,0,1
+R0011,7,auto-compounding,0,0
+R0011,7,hardware wallet support,0,0
+R0011,7,instant withdrawal,1,0
+R0011,7,copy trading,0,1
+R0011,8,insurance cover,0,0
+R0011,8,hardware wallet support,0,1
+R0011,8,auto-compounding,1,0
+R0011,8,staking rewards,0,0
+R0012,1,auto-compounding,1,0
+R0012,1,staking rewards,0,1
+R0012,1,copy trading,0,0
+R0012,1,insurance cover,0,0
+R0012,2,instant withdrawal,1,0
+R0012,2,price alerts,0,0
+R0012,2,copy trading,0,1
+R0012,2,tax reports,0,0
+R0012,3,hardware wallet support,0,0
+R0012,3,staking rewards,1,0
+R0012,3,copy trading,0,1
+R0012,3,tax reports,0,0
+R0012,4,auto-compounding,0,0
+R0012,4,tax reports,0,1
+R0012,4,copy trading,1,0
+R0012,4,insurance cover,0,0
+R0012,5,tax reports,1,0
+R0012,5,copy trading,0,1
+R0012,5,insurance cover,0,0
+R0012,5,instant withdrawal,0,0
+R0012,6,tax reports,1,0
+R0012,6,auto-compounding,0,0
+R0012,6,price alerts,0,1
+R0012,6,hardware wallet support,0,0
+R0012,7,instant withdrawal,1,0
+R0012,7,auto-compounding,0,0
+R0012,7,price alerts,0,1
+R0012,7,hardware wallet support,0,0
+R0012,8,instant withdrawal,0,0
+R0012,8,copy trading,0,1
+R0012,8,auto-compounding,0,0
+R0012,8,insurance cover,1,0
+R0013,1,auto-compounding,0,0
+R0013,1,instant withdrawal,1,0
+R0013,1,copy trading,0,0
+R0013,1,hardware wallet support,0,1
+R0013,2,insurance cover,1,0
+R0013,2,price alerts,0,1
+R0013,2,copy trading,0,0
+R0013,2,hardware wallet support,0,0
+R0013,3,insurance cover,0,0
+R0013,3,auto-compounding,1,0
+R0013,3,price alerts,0,1
+R0013,3,hardware wallet support,0,0
+R0013,4,staking rewards,0,0
+R0013,4,price alerts,0,1
+R0013,4,insurance cover,1,0
+R0013,4,auto-compounding,0,0
+R0013,5,auto-compounding,1,0
+R0013,5,tax reports,0,0
+R0013,5,hardware wallet support,0,1
+R0013,5,staking rewards,0,0
+R0013,6,price alerts,0,0
+R0013,6,hardware wallet support,0,1
+R0013,6,instant withdrawal,0,0
+R0013,6,auto-compounding,1,0
+R0013,7,hardware wallet support,1,0
+R0013,7,staking rewards,0,0
+R0013,7,copy trading,0,1
+R0013,7,tax reports,0,0
+R0013,8,auto-compounding,0,0
+R0013,8,insurance cover,1,0
+R0013,8,price alerts,0,0
+R0013,8,hardware wallet support,0,1
+R0014,1,instant withdrawal,1,0
+R0014,1,price alerts,0,0
+R0014,1,copy trading,0,0
+R0014,1,tax reports,0,1
+R0014,2,auto-compounding,1,0
+R0014,2,insurance cover,0,0
+R0014,2,staking rewards,0,0
+R0014,2,copy trading,0,1
+R0014,3,tax reports,1,0
+R0014,3,hardware wallet support,0,0
+R0014,3,insurance cover,0,0
+R0014,3,price alerts,0,1
+R0014,4,insurance cover,1,0
+R0014,4,auto-compounding,0,0
+R0014,4,hardware wallet support,0,0
+R0014,4,tax reports,0,1
+R0014,5,insurance cover,0,0
+R0014,5,hardware wallet support,1,0
+R0014,5,staking rewards,0,1
+R0014,5,tax reports,0,0
+R0014,6,instant withdrawal,1,0
+R0014,6,auto-compounding,0,0
+R0014,6,tax reports,0,1
+R0014,6,insurance cover,0,0
+R0014,7,hardware wallet support,0,0
+R0014,7,price alerts,0,1
+R0014,7,tax reports,0,0
+R0014,7,instant withdrawal,1,0
+R0014,8,hardware wallet support,0,0
+R0014,8,tax reports,0,0
+R0014,8,insurance cover,1,0
+R0014,8,staking rewards,0,1
+R0015,1,instant withdrawal,1,0
+R0015,1,copy trading,0,1
+R0015,1,tax reports,0,0
+R0015,1,auto-compounding,0,0
+R0015,2,price alerts,0,1
+R0015,2,auto-compounding,0,0
+R0015,2,tax reports,0,0
+R0015,2,hardware wallet support,1,0
+R0015,3,hardware wallet support,0,1
+R0015,3,insurance cover,0,0
+R0015,3,tax reports,1,0
+R0015,3,auto-compounding,0,0
+R0015,4,price alerts,0,0
+R0015,4,hardware wallet support,0,1
+R0015,4,tax reports,0,0
+R0015,4,insurance cover,1,0
+R0015,5,hardware wallet support,0,0
+R0015,5,auto-compounding,1,0
+R0015,5,insurance cover,0,0
+R0015,5,copy trading,0,1
+R0015,6,copy trading,0,0
+R0015,6,auto-compounding,0,0
+R0015,6,instant withdrawal,1,0
+R0015,6,hardware wallet support,0,1
+R0015,7,price alerts,0,0
+R0015,7,copy trading,0,1
+R0015,7,tax reports,1,0
+R0015,7,staking rewards,0,0
+R0015,8,auto-compounding,1,0
+R0015,8,copy trading,0,1
+R0015,8,staking rewards,0,0
+R0015,8,hardware wallet support,0,0
+R0016,1,auto-compounding,1,0
+R0016,1,hardware wallet support,0,0
+R0016,1,price alerts,0,0
+R0016,1,copy trading,0,1
+R0016,2,price alerts,0,0
+R0016,2,tax reports,0,1
+R0016,2,insurance cover,0,0
+R0016,2,copy trading,1,0
+R0016,3,staking rewards,0,0
+R0016,3,tax reports,0,1
+R0016,3,auto-compounding,0,0
+R0016,3,price alerts,1,0
+R0016,4,price alerts,0,1
+R0016,4,hardware wallet support,0,0
+R0016,4,instant withdrawal,0,0
+R0016,4,auto-compounding,1,0
+R0016,5,copy trading,0,1
+R0016,5,staking rewards,0,0
+R0016,5,tax reports,1,0
+R0016,5,hardware wallet support,0,0
+R0016,6,auto-compounding,1,0
+R0016,6,hardware wallet support,0,0
+R0016,6,insurance cover,0,1
+R0016,6,price alerts,0,0
+R0016,7,price alerts,0,0
+R0016,7,staking rewards,0,1
+R0016,7,auto-compounding,1,0
+R0016,7,copy trading,0,0
+R0016,8,price alerts,0,1
+R0016,8,instant withdrawal,0,0
+R0016,8,tax reports,0,0
+R0016,8,staking rewards,1,0
+R0017,1,copy trading,0,1
+R0017,1,tax reports,0,0
+R0017,1,auto-compounding,1,0
+R0017,1,price alerts,0,0
+R0017,2,tax reports,1,0
+R0017,2,copy trading,0,1
+R0017,2,insurance cover,0,0
+R0017,2,staking rewards,0,0
+R0017,3,price alerts,0,0
+R0017,3,auto-compounding,0,0
+R0017,3,staking rewards,1,0
+R0017,3,copy trading,0,1
+R0017,4,hardware wallet support,0,1
+R0017,4,copy trading,1,0
+R0017,4,instant withdrawal,0,0
+R0017,4,tax reports,0,0
+R0017,5,hardware wallet support,1,0
+R0017,5,price alerts,0,0
+R0017,5,copy trading,0,1
+R0017,5,staking rewards,0,0
+R0017,6,instant withdrawal,0,0
+R0017,6,insurance cover,0,0
+R0017,6,copy trading,0,1
+R0017,6,auto-compounding,1,0
+R0017,7,auto-compounding,0,1
+R0017,7,instant withdrawal,0,0
+R0017,7,staking rewards,1,0
+R0017,7,hardware wallet support,0,0
+R0017,8,insurance cover,0,1
+R0017,8,auto-compounding,0,0
+R0017,8,instant withdrawal,1,0
+R0017,8,staking rewards,0,0
+R0018,1,auto-compounding,0,0
+R0018,1,insurance cover,1,0
+R0018,1,price alerts,0,1
+R0018,1,copy trading,0,0
+R0018,2,hardware wallet support,0,1
+R0018,2,instant withdrawal,1,0
+R0018,2,tax reports,0,0
+R0018,2,auto-compounding,0,0
+R0018,3,insurance cover,0,1
+R0018,3,staking rewards,0,0
+R0018,3,tax reports,0,0
+R0018,3,auto-compounding,1,0
+R0018,4,insurance cover,1,0
+R0018,4,auto-compounding,0,0
+R0018,4,instant withdrawal,0,0
+R0018,4,tax reports,0,1
+R0018,5,price alerts,0,0
+R0018,5,copy trading,0,1
+R0018,5,auto-compounding,0,0
+R0018,5,tax reports,1,0
+R0018,6,instant withdrawal,1,0
+R0018,6,staking rewards,0,0
+R0018,6,auto-compounding,0,1
+R0018,6,insurance cover,0,0
+R0018,7,instant withdrawal,1,0
+R0018,7,price alerts,0,1
+R0018,7,auto-compounding,0,0
+R0018,7,staking rewards,0,0
+R0018,8,auto-compounding,0,0
+R0018,8,tax reports,0,1
+R0018,8,hardware wallet support,1,0
+R0018,8,instant withdrawal,0,0
+R0019,1,price alerts,0,0
+R0019,1,auto-compounding,0,0
+R0019,1,copy trading,0,1
+R0019,1,hardware wallet support,1,0
+R0019,2,auto-compounding,0,1
+R0019,2,staking rewards,0,0
+R0019,2,tax reports,0,0
+R0019,2,insurance cover,1,0
+R0019,3,tax reports,0,0
+R0019,3,copy trading,0,1
+R0019,3,price alerts,0,0
+R0019,3,auto-compounding,1,0
+R0019,4,price alerts,0,0
+R0019,4,staking rewards,1,0
+R0019,4,instant withdrawal,0,0
+R0019,4,hardware wallet support,0,1
+R0019,5,copy trading,0,0
+R0019,5,price alerts,0,1
+R0019,5,tax reports,1,0
+R0019,5,auto-compounding,0,0
+R0019,6,instant withdrawal,1,0
+R0019,6,copy trading,0,1
+R0019,6,hardware wallet support,0,0
+R0019,6,auto-compounding,0,0
+R0019,7,insurance cover,0,0
+R0019,7,price alerts,0,0
+R0019,7,staking rewards,0,1
+R0019,7,auto-compounding,1,0
+R0019,8,insurance cover,0,0
+R0019,8,copy trading,0,1
+R0019,8,auto-compounding,1,0
+R0019,8,price alerts,0,0
+R0020,1,staking rewards,0,1
+R0020,1,insurance cover,1,0
+R0020,1,copy trading,0,0
+R0020,1,price alerts,0,0
+R0020,2,insurance cover,1,0
+R0020,2,copy trading,0,1
+R0020,2,price alerts,0,0
+R0020,2,tax reports,0,0
+R0020,3,staking rewards,0,0
+R0020,3,tax reports,1,0
+R0020,3,copy trading,0,1
+R0020,3,hardware wallet support,0,0
+R0020,4,staking rewards,1,0
+R0020,4,auto-compounding,0,0
+R0020,4,insurance cover,0,1
+R0020,4,copy trading,0,0
+R0020,5,copy trading,0,1
+R0020,5,auto-compounding,1,0
+R0020,5,staking rewards,0,0
+R0020,5,hardware wallet support,0,0
+R0020,6,price alerts,0,1
+R0020,6,auto-compounding,0,0
+R0020,6,tax reports,0,0
+R0020,6,insurance cover,1,0
+R0020,7,instant withdrawal,0,0
+R0020,7,auto-compounding,0,1
+R0020,7,tax reports,0,0
+R0020,7,hardware wallet support,1,0
+R0020,8,staking rewards,0,0
+R0020,8,price alerts,0,0
+R0020,8,instant withdrawal,1,0
+R0020,8,copy trading,0,1
+R0021,1,staking rewards,0,0
+R0021,1,price alerts,0,1
+R0021,1,insurance cover,0,0
+R0021,1,auto-compounding,1,0
+R0021,2,staking rewards,0,0
+R0021,2,insurance cover,0,0
+R0021,2,instant withdrawal,1,0
+R0021,2,tax reports,0,1
+R0021,3,insurance cover,0,0
+R0021,3,tax reports,0,0
+R0021,3,auto-compounding,1,0
+R0021,3,hardware wallet support,0,1
+R0021,4,copy trading,0,1
+R0021,4,insurance cover,1,0
+R0021,4,hardware wallet support,0,0
+R0021,4,instant withdrawal,0,0
+R0021,5,tax reports,0,0
+R0021,5,instant withdrawal,1,0
+R0021,5,hardware wallet support,0,0
+R0021,5,price alerts,0,1
+R0021,6,insurance cover,0,0
+R0021,6,hardware wallet support,1,0
+R0021,6,copy trading,0,0
+R0021,6,price alerts,0,1
+R0021,7,instant withdrawal,1,0
+R0021,7,auto-compounding,0,0
+R0021,7,price alerts,0,1
+R0021,7,copy trading,0,0
+R0021,8,insurance cover,0,1
+R0021,8,staking rewards,0,0
+R0021,8,hardware wallet support,0,0
+R0021,8,auto-compounding,1,0
+R0022,1,insurance cover,0,0
+R0022,1,hardware wallet support,0,0
+R0022,1,price alerts,0,1
+R0022,1,instant withdrawal,1,0
+R0022,2,auto-compounding,0,1
+R0022,2,staking rewards,1,0
+R0022,2,price alerts,0,0
+R0022,2,instant withdrawal,0,0
+R0022,3,staking rewards,0,0
+R0022,3,auto-compounding,0,0
+R0022,3,price alerts,0,1
+R0022,3,tax reports,1,0
+R0022,4,tax reports,0,1
+R0022,4,copy trading,1,0
+R0022,4,hardware wallet support,0,0
+R0022,4,price alerts,0,0
+R0022,5,instant withdrawal,1,0
+R0022,5,copy trading,0,0
+R0022,5,hardware wallet support,0,1
+R0022,5,price alerts,0,0
+R0022,6,staking rewards,0,1
+R0022,6,hardware wallet support,0,0
+R0022,6,auto-compounding,1,0
+R0022,6,tax reports,0,0
+R0022,7,staking rewards,0,0
+R0022,7,hardware wallet support,1,0
+R0022,7,tax reports,0,1
+R0022,7,insurance cover,0,0
+R0022,8,instant withdrawal,0,0
+R0022,8,copy trading,0,1
+R0022,8,insurance cover,1,0
+R0022,8,auto-compounding,0,0
+R0023,1,instant withdrawal,0,0
+R0023,1,auto-compounding,0,0
+R0023,1,hardware wallet support,0,1
+R0023,1,staking rewards,1,0
+R0023,2,copy trading,0,1
+R0023,2,staking rewards,1,0
+R0023,2,instant withdrawal,0,0
+R0023,2,insurance cover,0,0
+R0023,3,tax reports,0,0
+R0023,3,copy trading,0,1
+R0023,3,instant withdrawal,1,0
+R0023,3,insurance cover,0,0
+R0023,4,tax reports,0,0
+R0023,4,hardware wallet support,0,0
+R0023,4,instant withdrawal,1,0
+R0023,4,copy trading,0,1
+R0023,5,tax reports,1,0
+R0023,5,hardware wallet support,0,0
+R0023,5,copy trading,0,1
+R0023,5,price alerts,0,0
+R0023,6,auto-compounding,0,0
+R0023,6,hardware wallet support,0,0
+R0023,6,copy trading,0,1
+R0023,6,staking rewards,1,0
+R0023,7,staking rewards,0,1
+R0023,7,instant withdrawal,1,0
+R0023,7,insurance cover,0,0
+R0023,7,hardware wallet support,0,0
+R0023,8,staking rewards,0,0
+R0023,8,price alerts,0,1
+R0023,8,instant withdrawal,0,0
+R0023,8,insurance cover,1,0
+R0024,1,insurance cover,0,0
+R0024,1,staking rewards,1,0
+R0024,1,tax reports,0,0
+R0024,1,copy trading,0,1
+R0024,2,instant withdrawal,0,0
+R0024,2,auto-compounding,1,0
+R0024,2,staking rewards,0,1
+R0024,2,tax reports,0,0
+R0024,3,auto-compounding,0,0
+R0024,3,instant withdrawal,1,0
+R0024,3,insurance cover,0,0
+R0024,3,price alerts,0,1
+R0024,4,instant withdrawal,0,0
+R0024,4,insurance cover,1,0
+R0024,4,copy trading,0,1
+R0024,4,tax reports,0,0
+R0024,5,auto-compounding,1,0
+R0024,5,insurance cover,0,0
+R0024,5,instant withdrawal,0,1
+R0024,5,hardware wallet support,0,0
+R0024,6,tax reports,1,0
+R0024,6,insurance cover,0,0
+R0024,6,hardware wallet support,0,1
+R0024,6,auto-compounding,0,0
+R0024,7,auto-compounding,0,0
+R0024,7,staking rewards,0,1
+R0024,7,insurance cover,0,0
+R0024,7,tax reports,1,0
+R0024,8,copy trading,0,1
+R0024,8,instant withdrawal,0,0
+R0024,8,auto-compounding,1,0
+R0024,8,tax reports,0,0
+R0025,1,price alerts,0,1
+R0025,1,tax reports,0,0
+R0025,1,insurance cover,1,0
+R0025,1,staking rewards,0,0
+R0025,2,staking rewards,1,0
+R0025,2,tax reports,0,0
+R0025,2,copy trading,0,1
+R0025,2,auto-compounding,0,0
+R0025,3,insurance cover,0,1
+R0025,3,instant withdrawal,0,0
+R0025,3,staking rewards,1,0
+R0025,3,price alerts,0,0
+R0025,4,insurance cover,1,0
+R0025,4,price alerts,0,0
+R0025,4,staking rewards,0,0
+R0025,4,copy trading,0,1
+R0025,5,tax reports,1,0
+R0025,5,staking rewards,0,0
+R0025,5,price alerts,0,1
+R0025,5,instant withdrawal,0,0
+R0025,6,tax reports,1,0
+R0025,6,copy trading,0,0
+R0025,6,price alerts,0,1
+R0025,6,auto-compounding,0,0
+R0025,7,price alerts,0,0
+R0025,7,hardware wallet support,0,0
+R0025,7,staking rewards,0,1
+R0025,7,insurance cover,1,0
+R0025,8,insurance cover,1,0
+R0025,8,hardware wallet support,0,0
+R0025,8,price alerts,0,1
+R0025,8,instant withdrawal,0,0
+R0026,1,copy trading,0,1
+R0026,1,price alerts,0,0
+R0026,1,auto-compounding,1,0
+R0026,1,staking rewards,0,0
+R0026,2,staking rewards,0,0
+R0026,2,copy trading,0,1
+R0026,2,insurance cover,1,0
+R0026,2,hardware wallet support,0,0
+R0026,3,copy trading,1,0
+R0026,3,hardware wallet support,0,0
+R0026,3,staking rewards,0,1
+R0026,3,tax reports,0,0
+R0026,4,tax reports,0,1
+R0026,4,insurance cover,1,0
+R0026,4,price alerts,0,0
+R0026,4,staking rewards,0,0
+R0026,5,staking rewards,0,0
+R0026,5,insurance cover,0,0
+R0026,5,copy trading,1,0
+R0026,5,hardware wallet support,0,1
+R0026,6,staking rewards,0,0
+R0026,6,auto-compounding,1,0
+R0026,6,copy trading,0,1
+R0026,6,instant withdrawal,0,0
+R0026,7,tax reports,0,0
+R0026,7,price alerts,0,1
+R0026,7,auto-compounding,0,0
+R0026,7,insurance cover,1,0
+R0026,8,auto-compounding,0,0
+R0026,8,copy trading,0,0
+R0026,8,tax reports,0,1
+R0026,8,staking rewards,1,0
+R0027,1,price alerts,0,0
+R0027,1,insurance cover,1,0
+R0027,1,staking rewards,0,0
+R0027,1,copy trading,0,1
+R0027,2,hardware wallet support,1,0
+R0027,2,insurance cover,0,0
+R0027,2,auto-compounding,0,0
+R0027,2,copy trading,0,1
+R0027,3,instant withdrawal,0,0
+R0027,3,copy trading,0,1
+R0027,3,auto-compounding,1,0
+R0027,3,tax reports,0,0
+R0027,4,insurance cover,1,0
+R0027,4,hardware wallet support,0,0
+R0027,4,staking rewards,0,0
+R0027,4,price alerts,0,1
+R0027,5,hardware wallet support,0,0
+R0027,5,insurance cover,1,0
+R0027,5,price alerts,0,1
+R0027,5,copy trading,0,0
+R0027,6,hardware wallet support,0,0
+R0027,6,staking rewards,1,0
+R0027,6,price alerts,0,0
+R0027,6,copy trading,0,1
+R0027,7,instant withdrawal,0,0
+R0027,7,staking rewards,1,0
+R0027,7,copy trading,0,0
+R0027,7,tax reports,0,1
+R0027,8,staking rewards,0,1
+R0027,8,insurance cover,1,0
+R0027,8,tax reports,0,0
+R0027,8,instant withdrawal,0,0
+R0028,1,staking rewards,0,0
+R0028,1,hardware wallet support,1,0
+R0028,1,copy trading,0,1
+R0028,1,price alerts,0,0
+R0028,2,price alerts,0,0
+R0028,2,insurance cover,1,0
+R0028,2,staking rewards,0,0
+R0028,2,copy trading,0,1
+R0028,3,copy trading,0,1
+R0028,3,hardware wallet support,0,0
+R0028,3,price alerts,0,0
+R0028,3,tax reports,1,0
+R0028,4,price alerts,0,0
+R0028,4,staking rewards,0,1
+R0028,4,tax reports,0,0
+R0028,4,auto-compounding,1,0
+R0028,5,auto-compounding,0,0
+R0028,5,staking rewards,1,0
+R0028,5,price alerts,0,1
+R0028,5,instant withdrawal,0,0
+R0028,6,auto-compounding,0,0
+R0028,6,price alerts,0,1
+R0028,6,instant withdrawal,1,0
+R0028,6,tax reports,0,0
+R0028,7,hardware wallet support,0,0
+R0028,7,copy trading,0,1
+R0028,7,auto-compounding,0,0
+R0028,7,staking rewards,1,0
+R0028,8,tax reports,0,1
+R0028,8,insurance cover,0,0
+R0028,8,copy trading,0,0
+R0028,8,staking rewards,1,0
+R0029,1,hardware wallet support,0,0
+R0029,1,auto-compounding,0,0
+R0029,1,tax reports,0,1
+R0029,1,staking rewards,1,0
+R0029,2,insurance cover,1,0
+R0029,2,staking rewards,0,0
+R0029,2,auto-compounding,0,0
+R0029,2,price alerts,0,1
+R0029,3,insurance cover,1,0
+R0029,3,instant withdrawal,0,0
+R0029,3,copy trading,0,1
+R0029,3,tax reports,0,0
+R0029,4,copy trading,0,1
+R0029,4,hardware wallet support,0,0
+R0029,4,tax reports,0,0
+R0029,4,staking rewards,1,0
+R0029,5,hardware wallet support,1,0
+R0029,5,staking rewards,0,0
+R0029,5,copy trading,0,0
+R0029,5,tax reports,0,1
+R0029,6,copy trading,0,0
+R0029,6,hardware wallet support,0,0
+R0029,6,staking rewards,1,0
+R0029,6,tax reports,0,1
+R0029,7,copy trading,0,1
+R0029,7,insurance cover,0,0
+R0029,7,tax reports,1,0
+R0029,7,price alerts,0,0
+R0029,8,instant withdrawal,0,1
+R0029,8,hardware wallet support,0,0
+R0029,8,tax reports,1,0
+R0029,8,auto-compounding,0,0
+R0030,1,price alerts,0,0
+R0030,1,hardware wallet support,1,0
+R0030,1,copy trading,0,0
+R0030,1,staking rewards,0,1
+R0030,2,insurance cover,0,0
+R0030,2,copy trading,0,1
+R0030,2,tax reports,0,0
+R0030,2,hardware wallet support,1,0
+R0030,3,price alerts,0,1
+R0030,3,auto-compounding,1,0
+R0030,3,instant withdrawal,0,0
+R0030,3,tax reports,0,0
+R0030,4,price alerts,0,1
+R0030,4,staking rewards,0,0
+R0030,4,insurance cover,1,0
+R0030,4,instant withdrawal,0,0
+R0030,5,staking rewards,0,0
+R0030,5,insurance cover,0,0
+R0030,5,auto-compounding,0,1
+R0030,5,instant withdrawal,1,0
+R0030,6,staking rewards,0,0
+R0030,6,insurance cover,1,0
+R0030,6,tax reports,0,1
+R0030,6,auto-compounding,0,0
+R0030,7,auto-compounding,0,0
+R0030,7,copy trading,0,1
+R0030,7,insurance cover,1,0
+R0030,7,instant withdrawal,0,0
+R0030,8,staking rewards,0,0
+R0030,8,insurance cover,0,1
+R0030,8,auto-compounding,1,0
+R0030,8,instant withdrawal,0,0
+R0031,1,insurance cover,0,0
+R0031,1,hardware wallet support,0,1
+R0031,1,staking rewards,1,0
+R0031,1,auto-compounding,0,0
+R0031,2,copy trading,0,1
+R0031,2,insurance cover,0,0
+R0031,2,staking rewards,0,0
+R0031,2,instant withdrawal,1,0
+R0031,3,tax reports,1,0
+R0031,3,auto-compounding,0,0
+R0031,3,price alerts,0,0
+R0031,3,copy trading,0,1
+R0031,4,insurance cover,0,0
+R0031,4,auto-compounding,0,0
+R0031,4,copy trading,0,1
+R0031,4,instant withdrawal,1,0
+R0031,5,auto-compounding,0,0
+R0031,5,price alerts,0,0
+R0031,5,staking rewards,0,1
+R0031,5,instant withdrawal,1,0
+R0031,6,tax reports,0,1
+R0031,6,insurance cover,0,0
+R0031,6,instant withdrawal,1,0
+R0031,6,copy trading,0,0
+R0031,7,staking rewards,0,0
+R0031,7,insurance cover,1,0
+R0031,7,hardware wallet support,0,0
+R0031,7,price alerts,0,1
+R0031,8,instant withdrawal,0,0
+R0031,8,copy trading,0,1
+R0031,8,tax reports,0,0
+R0031,8,auto-compounding,1,0
+R0032,1,copy trading,0,1
+R0032,1,auto-compounding,1,0
+R0032,1,instant withdrawal,0,0
+R0032,1,hardware wallet support,0,0
+R0032,2,insurance cover,1,0
+R0032,2,hardware wallet support,0,0
+R0032,2,tax reports,0,0
+R0032,2,copy trading,0,1
+R0032,3,hardware wallet support,1,0
+R0032,3,price alerts,0,1
+R0032,3,insurance cover,0,0
+R0032,3,staking rewards,0,0
+R0032,4,insurance cover,0,1
+R0032,4,copy trading,0,0
+R0032,4,instant withdrawal,1,0
+R0032,4,hardware wallet support,0,0
+R0032,5,auto-compounding,1,0
+R0032,5,price alerts,0,1
+R0032,5,instant withdrawal,0,0
+R0032,5,insurance cover,0,0
+R0032,6,auto-compounding,0,1
+R0032,6,staking rewards,0,0
+R0032,6,insurance cover,1,0
+R0032,6,instant withdrawal,0,0
+R0032,7,auto-compounding,0,0
+R0032,7,staking rewards,0,1
+R0032,7,price alerts,0,0
+R0032,7,insurance cover,1,0
+R0032,8,copy trading,0,0
+R0032,8,insurance cover,0,0
+R0032,8,price alerts,0,1
+R0032,8,instant withdrawal,1,0
+R0033,1,tax reports,0,0
+R0033,1,instant withdrawal,0,0
+R0033,1,staking rewards,0,1
+R0033,1,insurance cover,1,0
+R0033,2,price alerts,0,0
+R0033,2,tax reports,0,0
+R0033,2,hardware wallet support,0,1
+R0033,2,insurance cover,1,0
+R0033,3,instant withdrawal,0,0
+R0033,3,tax reports,0,1
+R0033,3,hardware wallet support,0,0
+R0033,3,staking rewards,1,0
+R0033,4,instant withdrawal,0,0
+R0033,4,price alerts,0,1
+R0033,4,insurance cover,0,0
+R0033,4,hardware wallet support,1,0
+R0033,5,instant withdrawal,0,1
+R0033,5,insurance cover,0,0
+R0033,5,auto-compounding,1,0
+R0033,5,copy trading,0,0
+R0033,6,copy trading,0,0
+R0033,6,instant withdrawal,1,0
+R0033,6,price alerts,0,1
+R0033,6,tax reports,0,0
+R0033,7,auto-compounding,0,0
+R0033,7,tax reports,0,0
+R0033,7,instant withdrawal,1,0
+R0033,7,copy trading,0,1
+R0033,8,price alerts,0,0
+R0033,8,tax reports,0,1
+R0033,8,instant withdrawal,1,0
+R0033,8,copy trading,0,0
+R0034,1,price alerts,0,0
+R0034,1,tax reports,1,0
+R0034,1,copy trading,0,1
+R0034,1,hardware wallet support,0,0
+R0034,2,copy trading,0,1
+R0034,2,price alerts,1,0
+R0034,2,staking rewards,0,0
+R0034,2,instant withdrawal,0,0
+R0034,3,copy trading,0,0
+R0034,3,tax reports,0,0
+R0034,3,price alerts,0,1
+R0034,3,auto-compounding,1,0
+R0034,4,price alerts,0,1
+R0034,4,staking rewards,1,0
+R0034,4,auto-compounding,0,0
+R0034,4,insurance cover,0,0
+R0034,5,staking rewards,0,0
+R0034,5,insurance cover,0,0
+R0034,5,copy trading,1,0
+R0034,5,price alerts,0,1
+R0034,6,copy trading,0,1
+R0034,6,instant withdrawal,0,0
+R0034,6,insurance cover,1,0
+R0034,6,hardware wallet support,0,0
+R0034,7,copy trading,0,1
+R0034,7,price alerts,0,0
+R0034,7,staking rewards,1,0
+R0034,7,auto-compounding,0,0
+R0034,8,insurance cover,0,0
+R0034,8,copy trading,0,1
+R0034,8,price alerts,0,0
+R0034,8,auto-compounding,1,0
+R0035,1,tax reports,0,0
+R0035,1,instant withdrawal,1,0
+R0035,1,staking rewards,0,1
+R0035,1,copy trading,0,0
+R0035,2,instant withdrawal,1,0
+R0035,2,hardware wallet support,0,0
+R0035,2,staking rewards,0,1
+R0035,2,price alerts,0,0
+R0035,3,auto-compounding,1,0
+R0035,3,tax reports,0,0
+R0035,3,hardware wallet support,0,1
+R0035,3,instant withdrawal,0,0
+R0035,4,insurance cover,1,0
+R0035,4,price alerts,0,1
+R0035,4,hardware wallet support,0,0
+R0035,4,instant withdrawal,0,0
+R0035,5,staking rewards,1,0
+R0035,5,insurance cover,0,0
+R0035,5,copy trading,0,1
+R0035,5,hardware wallet support,0,0
+R0035,6,hardware wallet support,0,0
+R0035,6,staking rewards,0,0
+R0035,6,instant withdrawal,1,0
+R0035,6,copy trading,0,1
+R0035,7,hardware wallet support,0,0
+R0035,7,insurance cover,1,0
+R0035,7,staking rewards,0,0
+R0035,7,copy trading,0,1
+R0035,8,staking rewards,0,1
+R0035,8,auto-compounding,0,0
+R0035,8,instant withdrawal,0,0
+R0035,8,insurance cover,1,0
+R0036,1,tax reports,0,1
+R0036,1,staking rewards,0,0
+R0036,1,hardware wallet support,1,0
+R0036,1,copy trading,0,0
+R0036,2,tax reports,0,0
+R0036,2,insurance cover,1,0
+R0036,2,auto-compounding,0,1
+R0036,2,staking rewards,0,0
+R0036,3,hardware wallet support,0,1
+R0036,3,copy trading,1,0
+R0036,3,staking rewards,0,0
+R0036,3,tax reports,0,0
+R0036,4,price alerts,0,0
+R0036,4,instant withdrawal,1,0
+R0036,4,staking rewards,0,0
+R0036,4,insurance cover,0,1
+R0036,5,hardware wallet support,0,0
+R0036,5,copy trading,0,0
+R0036,5,price alerts,0,1
+R0036,5,instant withdrawal,1,0
+R0036,6,auto-compounding,0,0
+R0036,6,copy trading,0,1
+R0036,6,price alerts,0,0
+R0036,6,instant withdrawal,1,0
+R0036,7,tax reports,0,1
+R0036,7,insurance cover,1,0
+R0036,7,instant withdrawal,0,0
+R0036,7,auto-compounding,0,0
+R0036,8,insurance cover,0,1
+R0036,8,instant withdrawal,1,0
+R0036,8,price alerts,0,0
+R0036,8,auto-compounding,0,0
+R0037,1,staking rewards,0,0
+R0037,1,copy trading,0,1
+R0037,1,insurance cover,1,0
+R0037,1,instant withdrawal,0,0
+R0037,2,insurance cover,0,0
+R0037,2,copy trading,0,1
+R0037,2,price alerts,0,0
+R0037,2,instant withdrawal,1,0
+R0037,3,instant withdrawal,0,0
+R0037,3,copy trading,0,1
+R0037,3,price alerts,1,0
+R0037,3,auto-compounding,0,0
+R0037,4,price alerts,1,0
+R0037,4,auto-compounding,0,0
+R0037,4,instant withdrawal,0,0
+R0037,4,hardware wallet support,0,1
+R0037,5,hardware wallet support,0,0
+R0037,5,tax reports,0,0
+R0037,5,price alerts,0,1
+R0037,5,insurance cover,1,0
+R0037,6,auto-compounding,0,1
+R0037,6,hardware wallet support,0,0
+R0037,6,staking rewards,0,0
+R0037,6,price alerts,1,0
+R0037,7,copy trading,0,0
+R0037,7,hardware wallet support,0,0
+R0037,7,auto-compounding,0,1
+R0037,7,insurance cover,1,0
+R0037,8,price alerts,0,1
+R0037,8,tax reports,0,0
+R0037,8,auto-compounding,1,0
+R0037,8,insurance cover,0,0
+R0038,1,auto-compounding,0,0
+R0038,1,insurance cover,1,0
+R0038,1,staking rewards,0,0
+R0038,1,copy trading,0,1
+R0038,2,auto-compounding,0,0
+R0038,2,tax reports,0,0
+R0038,2,price alerts,0,1
+R0038,2,insurance cover,1,0
+R0038,3,auto-compounding,0,0
+R0038,3,price alerts,1,0
+R0038,3,staking rewards,0,1
+R0038,3,instant withdrawal,0,0
+R0038,4,insurance cover,0,0
+R0038,4,tax reports,1,0
+R0038,4,staking rewards,0,1
+R0038,4,auto-compounding,0,0
+R0038,5,tax reports,1,0
+R0038,5,insurance cover,0,1
+R0038,5,instant withdrawal,0,0
+R0038,5,auto-compounding,0,0
+R0038,6,tax reports,0,1
+R0038,6,copy trading,0,0
+R0038,6,instant withdrawal,1,0
+R0038,6,hardware wallet support,0,0
+R0038,7,auto-compounding,0,0
+R0038,7,staking rewards,1,0
+R0038,7,insurance cover,0,0
+R0038,7,copy trading,0,1
+R0038,8,insurance cover,1,0
+R0038,8,auto-compounding,0,0
+R0038,8,price alerts,0,1
+R0038,8,instant withdrawal,0,0
+R0039,1,instant withdrawal,0,0
+R0039,1,copy trading,1,0
+R0039,1,price alerts,0,1
+R0039,1,insurance cover,0,0
+R0039,2,auto-compounding,0,0
+R0039,2,staking rewards,1,0
+R0039,2,tax reports,0,0
+R0039,2,hardware wallet support,0,1
+R0039,3,price alerts,0,1
+R0039,3,hardware wallet support,0,0
+R0039,3,insurance cover,0,0
+R0039,3,auto-compounding,1,0
+R0039,4,tax reports,0,0
+R0039,4,copy trading,0,0
+R0039,4,auto-compounding,0,1
+R0039,4,instant withdrawal,1,0
+R0039,5,price alerts,1,0
+R0039,5,insurance cover,0,0
+R0039,5,copy trading,0,1
+R0039,5,staking rewards,0,0
+R0039,6,tax reports,0,0
+R0039,6,auto-compounding,1,0
+R0039,6,price alerts,0,1
+R0039,6,copy trading,0,0
+R0039,7,insurance cover,1,0
+R0039,7,copy trading,0,0
+R0039,7,tax reports,0,1
+R0039,7,hardware wallet support,0,0
+R0039,8,tax reports,0,0
+R0039,8,price alerts,1,0
+R0039,8,copy trading,0,1
+R0039,8,hardware wallet support,0,0
+R0040,1,price alerts,0,1
+R0040,1,insurance cover,1,0
+R0040,1,staking rewards,0,0
+R0040,1,auto-compounding,0,0
+R0040,2,auto-compounding,1,0
+R0040,2,tax reports,0,0
+R0040,2,copy trading,0,1
+R0040,2,staking rewards,0,0
+R0040,3,hardware wallet support,0,1
+R0040,3,staking rewards,1,0
+R0040,3,insurance cover,0,0
+R0040,3,tax reports,0,0
+R0040,4,instant withdrawal,0,0
+R0040,4,tax reports,1,0
+R0040,4,hardware wallet support,0,0
+R0040,4,copy trading,0,1
+R0040,5,copy trading,0,0
+R0040,5,hardware wallet support,1,0
+R0040,5,price alerts,0,1
+R0040,5,staking rewards,0,0
+R0040,6,auto-compounding,1,0
+R0040,6,staking rewards,0,0
+R0040,6,tax reports,0,0
+R0040,6,price alerts,0,1
+R0040,7,copy trading,0,0
+R0040,7,auto-compounding,1,0
+R0040,7,insurance cover,0,0
+R0040,7,hardware wallet support,0,1
+R0040,8,instant withdrawal,1,0
+R0040,8,tax reports,0,0
+R0040,8,copy trading,0,1
+R0040,8,price alerts,0,0
+R0041,1,instant withdrawal,1,0
+R0041,1,price alerts,0,0
+R0041,1,copy trading,0,1
+R0041,1,staking rewards,0,0
+R0041,2,auto-compounding,0,0
+R0041,2,staking rewards,0,1
+R0041,2,insurance cover,1,0
+R0041,2,hardware wallet support,0,0
+R0041,3,auto-compounding,0,0
+R0041,3,instant withdrawal,1,0
+R0041,3,staking rewards,0,0
+R0041,3,copy trading,0,1
+R0041,4,staking rewards,0,0
+R0041,4,hardware wallet support,0,1
+R0041,4,tax reports,0,0
+R0041,4,insurance cover,1,0
+R0041,5,auto-compounding,0,0
+R0041,5,copy trading,0,1
+R0041,5,tax reports,0,0
+R0041,5,insurance cover,1,0
+R0041,6,staking rewards,1,0
+R0041,6,insurance cover,0,0
+R0041,6,tax reports,0,0
+R0041,6,hardware wallet support,0,1
+R0041,7,insurance cover,1,0
+R0041,7,tax reports,0,0
+R0041,7,copy trading,0,1
+R0041,7,hardware wallet support,0,0
+R0041,8,insurance cover,0,0
+R0041,8,copy trading,0,1
+R0041,8,tax reports,0,0
+R0041,8,staking rewards,1,0
+R0042,1,price alerts,0,1
+R0042,1,copy trading,0,0
+R0042,1,staking rewards,0,0
+R0042,1,instant withdrawal,1,0
+R0042,2,staking rewards,0,0
+R0042,2,auto-compounding,1,0
+R0042,2,hardware wallet support,0,0
+R0042,2,insurance cover,0,1
+R0042,3,price alerts,0,1
+R0042,3,tax reports,1,0
+R0042,3,hardware wallet support,0,0
+R0042,3,insurance cover,0,0
+R0042,4,tax reports,0,0
+R0042,4,staking rewards,0,1
+R0042,4,hardware wallet support,1,0
+R0042,4,insurance cover,0,0
+R0042,5,auto-compounding,1,0
+R0042,5,price alerts,0,1
+R0042,5,insurance cover,0,0
+R0042,5,staking rewards,0,0
+R0042,6,tax reports,0,0
+R0042,6,staking rewards,0,0
+R0042,6,price alerts,0,1
+R0042,6,auto-compounding,1,0
+R0042,7,hardware wallet support,0,0
+R0042,7,auto-compounding,1,0
+R0042,7,price alerts,0,1
+R0042,7,tax reports,0,0
+R0042,8,price alerts,0,1
+R0042,8,staking rewards,0,0
+R0042,8,hardware wallet support,1,0
+R0042,8,auto-compounding,0,0
+R0043,1,instant withdrawal,0,1
+R0043,1,price alerts,0,0
+R0043,1,tax reports,0,0
+R0043,1,insurance cover,1,0
+R0043,2,insurance cover,0,0
+R0043,2,hardware wallet support,1,0
+R0043,2,price alerts,0,1
+R0043,2,copy trading,0,0
+R0043,3,auto-compounding,1,0
+R0043,3,hardware wallet support,0,0
+R0043,3,tax reports,0,1
+R0043,3,insurance cover,0,0
+R0043,4,insurance cover,1,0
+R0043,4,staking rewards,0,0
+R0043,4,tax reports,0,0
+R0043,4,price alerts,0,1
+R0043,5,auto-compounding,1,0
+R0043,5,copy trading,0,0
+R0043,5,staking rewards,0,1
+R0043,5,insurance cover,0,0
+R0043,6,auto-compounding,0,1
+R0043,6,instant withdrawal,1,0
+R0043,6,staking rewards,0,0
+R0043,6,insurance cover,0,0
+R0043,7,price alerts,0,1
+R0043,7,auto-compounding,1,0
+R0043,7,staking rewards,0,0
+R0043,7,insurance cover,0,0
+R0043,8,copy trading,0,1
+R0043,8,auto-compounding,0,0
+R0043,8,insurance cover,0,0
+R0043,8,hardware wallet support,1,0
+R0044,1,instant withdrawal,0,0
+R0044,1,price alerts,0,1
+R0044,1,hardware wallet support,0,0
+R0044,1,auto-compounding,1,0
+R0044,2,auto-compounding,1,0
+R0044,2,copy trading,0,1
+R0044,2,tax reports,0,0
+R0044,2,insurance cover,0,0
+R0044,3,staking rewards,1,0
+R0044,3,hardware wallet support,0,0
+R0044,3,instant withdrawal,0,0
+R0044,3,copy trading,0,1
+R0044,4,instant withdrawal,1,0
+R0044,4,auto-compounding,0,0
+R0044,4,copy trading,0,1
+R0044,4,price alerts,0,0
+R0044,5,tax reports,0,0
+R0044,5,price alerts,1,0
+R0044,5,staking rewards,0,0
+R0044,5,hardware wallet support,0,1
+R0044,6,insurance cover,0,0
+R0044,6,staking rewards,0,1
+R0044,6,tax reports,1,0
+R0044,6,auto-compounding,0,0
+R0044,7,staking rewards,1,0
+R0044,7,hardware wallet support,0,1
+R0044,7,tax reports,0,0
+R0044,7,copy trading,0,0
+R0044,8,tax reports,0,0
+R0044,8,price alerts,0,1
+R0044,8,instant withdrawal,0,0
+R0044,8,auto-compounding,1,0
+R0045,1,insurance cover,0,0
+R0045,1,price alerts,0,1
+R0045,1,auto-compounding,0,0
+R0045,1,staking rewards,1,0
+R0045,2,insurance cover,0,0
+R0045,2,hardware wallet support,0,0
+R0045,2,auto-compounding,1,0
+R0045,2,price alerts,0,1
+R0045,3,copy trading,1,0
+R0045,3,hardware wallet support,0,1
+R0045,3,insurance cover,0,0
+R0045,3,price alerts,0,0
+R0045,4,auto-compounding,0,1
+R0045,4,tax reports,0,0
+R0045,4,insurance cover,1,0
+R0045,4,copy trading,0,0
+R0045,5,copy trading,0,1
+R0045,5,insurance cover,1,0
+R0045,5,hardware wallet support,0,0
+R0045,5,auto-compounding,0,0
+R0045,6,instant withdrawal,1,0
+R0045,6,price alerts,0,0
+R0045,6,tax reports,0,1
+R0045,6,insurance cover,0,0
+R0045,7,price alerts,0,1
+R0045,7,staking rewards,0,0
+R0045,7,copy trading,0,0
+R0045,7,instant withdrawal,1,0
+R0045,8,copy trading,0,1
+R0045,8,tax reports,0,0
+R0045,8,instant withdrawal,1,0
+R0045,8,price alerts,0,0
+R0046,1,price alerts,0,1
+R0046,1,auto-compounding,1,0
+R0046,1,insurance cover,0,0
+R0046,1,copy trading,0,0
+R0046,2,tax reports,0,0
+R0046,2,auto-compounding,1,0
+R0046,2,insurance cover,0,0
+R0046,2,staking rewards,0,1
+R0046,3,tax reports,0,0
+R0046,3,insurance cover,1,0
+R0046,3,staking rewards,0,0
+R0046,3,copy trading,0,1
+R0046,4,instant withdrawal,1,0
+R0046,4,price alerts,0,1
+R0046,4,insurance cover,0,0
+R0046,4,staking rewards,0,0
+R0046,5,instant withdrawal,1,0
+R0046,5,tax reports,0,0
+R0046,5,copy trading,0,1
+R0046,5,auto-compounding,0,0
+R0046,6,auto-compounding,0,0
+R0046,6,tax reports,0,1
+R0046,6,staking rewards,1,0
+R0046,6,insurance cover,0,0
+R0046,7,price alerts,1,0
+R0046,7,tax reports,0,0
+R0046,7,hardware wallet support,0,0
+R0046,7,copy trading,0,1
+R0046,8,price alerts,0,1
+R0046,8,auto-compounding,0,0
+R0046,8,staking rewards,0,0
+R0046,8,hardware wallet support,1,0
+R0047,1,price alerts,0,1
+R0047,1,auto-compounding,1,0
+R0047,1,copy trading,0,0
+R0047,1,insurance cover,0,0
+R0047,2,price alerts,0,0
+R0047,2,tax reports,0,0
+R0047,2,staking rewards,0,1
+R0047,2,auto-compounding,1,0
+R0047,3,price alerts,0,0
+R0047,3,auto-compounding,0,0
+R0047,3,copy trading,0,1
+R0047,3,instant withdrawal,1,0
+R0047,4,copy trading,0,0
+R0047,4,tax reports,1,0
+R0047,4,price alerts,0,0
+R0047,4,staking rewards,0,1
+R0047,5,auto-compounding,0,0
+R0047,5,insurance cover,0,0
+R0047,5,staking rewards,1,0
+R0047,5,copy trading,0,1
+R0047,6,hardware wallet support,0,0
+R0047,6,insurance cover,0,0
+R0047,6,copy trading,0,1
+R0047,6,staking rewards,1,0
+R0047,7,staking rewards,1,0
+R0047,7,tax reports,0,0
+R0047,7,hardware wallet support,0,1
+R0047,7,instant withdrawal,0,0
+R0047,8,price alerts,1,0
+R0047,8,hardware wallet support,0,0
+R0047,8,auto-compounding,0,0
+R0047,8,staking rewards,0,1
+R0048,1,tax reports,0,0
+R0048,1,instant withdrawal,1,0
+R0048,1,hardware wallet support,0,1
+R0048,1,auto-compounding,0,0
+R0048,2,tax reports,1,0
+R0048,2,insurance cover,0,0
+R0048,2,price alerts,0,1
+R0048,2,auto-compounding,0,0
+R0048,3,auto-compounding,1,0
+R0048,3,copy trading,0,0
+R0048,3,price alerts,0,1
+R0048,3,instant withdrawal,0,0
+R0048,4,auto-compounding,0,0
+R0048,4,hardware wallet support,0,1
+R0048,4,insurance cover,1,0
+R0048,4,copy trading,0,0
+R0048,5,auto-compounding,0,0
+R0048,5,price alerts,0,0
+R0048,5,tax reports,1,0
+R0048,5,copy trading,0,1
+R0048,6,auto-compounding,1,0
+R0048,6,staking rewards,0,0
+R0048,6,tax reports,0,1
+R0048,6,hardware wallet support,0,0
+R0048,7,price alerts,1,0
+R0048,7,hardware wallet support,0,1
+R0048,7,tax reports,0,0
+R0048,7,staking rewards,0,0
+R0048,8,auto-compounding,1,0
+R0048,8,instant withdrawal,0,0
+R0048,8,copy trading,0,1
+R0048,8,hardware wallet support,0,0
+R0049,1,insurance cover,1,0
+R0049,1,instant withdrawal,0,0
+R0049,1,copy trading,0,1
+R0049,1,staking rewards,0,0
+R0049,2,copy trading,0,0
+R0049,2,insurance cover,0,0
+R0049,2,tax reports,0,1
+R0049,2,auto-compounding,1,0
+R0049,3,auto-compounding,0,0
+R0049,3,insurance cover,0,1
+R0049,3,hardware wallet support,1,0
+R0049,3,copy trading,0,0
+R0049,4,hardware wallet support,0,1
+R0049,4,copy trading,0,0
+R0049,4,auto-compounding,1,0
+R0049,4,price alerts,0,0
+R0049,5,copy trading,0,0
+R0049,5,price alerts,0,1
+R0049,5,instant withdrawal,1,0
+R0049,5,hardware wallet support,0,0
+R0049,6,tax reports,0,0
+R0049,6,copy trading,0,0
+R0049,6,insurance cover,1,0
+R0049,6,hardware wallet support,0,1
+R0049,7,copy trading,0,1
+R0049,7,auto-compounding,0,0
+R0049,7,price alerts,0,0
+R0049,7,hardware wallet support,1,0
+R0049,8,tax reports,0,0
+R0049,8,price alerts,0,1
+R0049,8,instant withdrawal,0,0
+R0049,8,hardware wallet support,1,0
+R0050,1,insurance cover,0,0
+R0050,1,staking rewards,0,0
+R0050,1,auto-compounding,1,0
+R0050,1,hardware wallet support,0,1
+R0050,2,copy trading,0,1
+R0050,2,tax reports,0,0
+R0050,2,staking rewards,0,0
+R0050,2,insurance cover,1,0
+R0050,3,copy trading,0,1
+R0050,3,auto-compounding,0,0
+R0050,3,instant withdrawal,1,0
+R0050,3,hardware wallet support,0,0
+R0050,4,tax reports,0,1
+R0050,4,auto-compounding,0,0
+R0050,4,staking rewards,0,0
+R0050,4,instant withdrawal,1,0
+R0050,5,instant withdrawal,0,0
+R0050,5,copy trading,1,0
+R0050,5,insurance cover,0,0
+R0050,5,tax reports,0,1
+R0050,6,instant withdrawal,1,0
+R0050,6,tax reports,0,0
+R0050,6,copy trading,0,0
+R0050,6,price alerts,0,1
+R0050,7,instant withdrawal,1,0
+R0050,7,hardware wallet support,0,1
+R0050,7,auto-compounding,0,0
+R0050,7,tax reports,0,0
+R0050,8,hardware wallet support,0,1
+R0050,8,price alerts,1,0
+R0050,8,staking rewards,0,0
+R0050,8,insurance cover,0,0
+R0051,1,hardware wallet support,1,0
+R0051,1,price alerts,0,1
+R0051,1,auto-compounding,0,0
+R0051,1,staking rewards,0,0
+R0051,2,insurance cover,0,0
+R0051,2,price alerts,0,0
+R0051,2,instant withdrawal,1,0
+R0051,2,staking rewards,0,1
+R0051,3,hardware wallet support,0,1
+R0051,3,copy trading,0,0
+R0051,3,insurance cover,0,0
+R0051,3,auto-compounding,1,0
+R0051,4,instant withdrawal,1,0
+R0051,4,tax reports,0,0
+R0051,4,hardware wallet support,0,1
+R0051,4,price alerts,0,0
+R0051,5,insurance cover,0,0
+R0051,5,instant withdrawal,1,0
+R0051,5,tax reports,0,0
+R0051,5,hardware wallet support,0,1
+R0051,6,copy trading,0,1
+R0051,6,hardware wallet support,0,0
+R0051,6,staking rewards,0,0
+R0051,6,insurance cover,1,0
+R0051,7,auto-compounding,0,0
+R0051,7,staking rewards,0,0
+R0051,7,price alerts,0,1
+R0051,7,instant withdrawal,1,0
+R0051,8,insurance cover,0,0
+R0051,8,instant withdrawal,0,0
+R0051,8,hardware wallet support,1,0
+R0051,8,price alerts,0,1
+R0052,1,insurance cover,1,0
+R0052,1,price alerts,0,1
+R0052,1,instant withdrawal,0,0
+R0052,1,auto-compounding,0,0
+R0052,2,copy trading,0,1
+R0052,2,staking rewards,0,0
+R0052,2,hardware wallet support,0,0
+R0052,2,auto-compounding,1,0
+R0052,3,staking rewards,0,0
+R0052,3,tax reports,0,1
+R0052,3,hardware wallet support,0,0
+R0052,3,instant withdrawal,1,0
+R0052,4,staking rewards,0,0
+R0052,4,instant withdrawal,1,0
+R0052,4,hardware wallet support,0,0
+R0052,4,price alerts,0,1
+R0052,5,price alerts,0,1
+R0052,5,staking rewards,1,0
+R0052,5,instant withdrawal,0,0
+R0052,5,tax reports,0,0
+R0052,6,staking rewards,0,0
+R0052,6,insurance cover,0,0
+R0052,6,tax reports,1,0
+R0052,6,price alerts,0,1
+R0052,7,hardware wallet support,0,1
+R0052,7,tax reports,0,0
+R0052,7,insurance cover,0,0
+R0052,7,instant withdrawal,1,0
+R0052,8,price alerts,0,1
+R0052,8,tax reports,0,0
+R0052,8,insurance cover,1,0
+R0052,8,auto-compounding,0,0
+R0053,1,copy trading,0,0
+R0053,1,staking rewards,0,0
+R0053,1,tax reports,0,1
+R0053,1,auto-compounding,1,0
+R0053,2,copy trading,0,1
+R0053,2,staking rewards,0,0
+R0053,2,price alerts,0,0
+R0053,2,insurance cover,1,0
+R0053,3,copy trading,0,1
+R0053,3,insurance cover,1,0
+R0053,3,price alerts,0,0
+R0053,3,staking rewards,0,0
+R0053,4,staking rewards,1,0
+R0053,4,price alerts,0,0
+R0053,4,hardware wallet support,0,1
+R0053,4,tax reports,0,0
+R0053,5,staking rewards,0,0
+R0053,5,insurance cover,1,0
+R0053,5,price alerts,0,1
+R0053,5,hardware wallet support,0,0
+R0053,6,hardware wallet support,0,1
+R0053,6,tax reports,0,0
+R0053,6,price alerts,0,0
+R0053,6,insurance cover,1,0
+R0053,7,tax reports,0,1
+R0053,7,staking rewards,1,0
+R0053,7,copy trading,0,0
+R0053,7,price alerts,0,0
+R0053,8,hardware wallet support,0,0
+R0053,8,price alerts,0,0
+R0053,8,staking rewards,0,1
+R0053,8,tax reports,1,0
+R0054,1,hardware wallet support,0,0
+R0054,1,staking rewards,1,0
+R0054,1,instant withdrawal,0,0
+R0054,1,price alerts,0,1
+R0054,2,tax reports,0,0
+R0054,2,hardware wallet support,0,1
+R0054,2,instant withdrawal,0,0
+R0054,2,insurance cover,1,0
+R0054,3,insurance cover,1,0
+R0054,3,staking rewards,0,1
+R0054,3,auto-compounding,0,0
+R0054,3,price alerts,0,0
+R0054,4,tax reports,1,0
+R0054,4,hardware wallet support,0,0
+R0054,4,copy trading,0,1
+R0054,4,staking rewards,0,0
+R0054,5,copy trading,0,1
+R0054,5,hardware wallet support,1,0
+R0054,5,staking rewards,0,0
+R0054,5,insurance cover,0,0
+R0054,6,staking rewards,0,0
+R0054,6,instant withdrawal,1,0
+R0054,6,price alerts,0,1
+R0054,6,tax reports,0,0
+R0054,7,price alerts,0,1
+R0054,7,insurance cover,1,0
+R0054,7,copy trading,0,0
+R0054,7,hardware wallet support,0,0
+R0054,8,tax reports,0,0
+R0054,8,hardware wallet support,0,1
+R0054,8,insurance cover,0,0
+R0054,8,instant withdrawal,1,0
+R0055,1,auto-compounding,1,0
+R0055,1,staking rewards,0,0
+R0055,1,copy trading,0,1
+R0055,1,instant withdrawal,0,0
+R0055,2,hardware wallet support,1,0
+R0055,2,copy trading,0,1
+R0055,2,tax reports,0,0
+R0055,2,price alerts,0,0
+R0055,3,auto-compounding,1,0
+R0055,3,tax reports,0,1
+R0055,3,price alerts,0,0
+R0055,3,insurance cover,0,0
+R0055,4,insurance cover,1,0
+R0055,4,price alerts,0,0
+R0055,4,hardware wallet support,0,1
+R0055,4,auto-compounding,0,0
+R0055,5,insurance cover,0,0
+R0055,5,copy trading,0,0
+R0055,5,price alerts,0,1
+R0055,5,instant withdrawal,1,0
+R0055,6,insurance cover,0,0
+R0055,6,price alerts,0,1
+R0055,6,staking rewards,0,0
+R0055,6,instant withdrawal,1,0
+R0055,7,price alerts,1,0
+R0055,7,hardware wallet support,0,0
+R0055,7,tax reports,0,0
+R0055,7,copy trading,0,1
+R0055,8,price alerts,0,0
+R0055,8,auto-compounding,1,0
+R0055,8,copy trading,0,1
+R0055,8,insurance cover,0,0
+R0056,1,price alerts,1,0
+R0056,1,instant withdrawal,0,0
+R0056,1,copy trading,0,1
+R0056,1,hardware wallet support,0,0
+R0056,2,instant withdrawal,1,0
+R0056,2,copy trading,0,1
+R0056,2,auto-compounding,0,0
+R0056,2,insurance cover,0,0
+R0056,3,auto-compounding,0,1
+R0056,3,copy trading,0,0
+R0056,3,insurance cover,0,0
+R0056,3,tax reports,1,0
+R0056,4,copy trading,0,1
+R0056,4,auto-compounding,1,0
+R0056,4,insurance cover,0,0
+R0056,4,tax reports,0,0
+R0056,5,instant withdrawal,0,0
+R0056,5,tax reports,1,0
+R0056,5,auto-compounding,0,0
+R0056,5,price alerts,0,1
+R0056,6,insurance cover,1,0
+R0056,6,price alerts,0,0
+R0056,6,instant withdrawal,0,1
+R0056,6,auto-compounding,0,0
+R0056,7,hardware wallet support,1,0
+R0056,7,instant withdrawal,0,0
+R0056,7,staking rewards,0,0
+R0056,7,price alerts,0,1
+R0056,8,insurance cover,0,0
+R0056,8,auto-compounding,0,1
+R0056,8,instant withdrawal,1,0
+R0056,8,staking rewards,0,0
+R0057,1,insurance cover,0,1
+R0057,1,tax reports,0,0
+R0057,1,staking rewards,1,0
+R0057,1,instant withdrawal,0,0
+R0057,2,tax reports,0,0
+R0057,2,copy trading,0,1
+R0057,2,staking rewards,1,0
+R0057,2,price alerts,0,0
+R0057,3,staking rewards,0,0
+R0057,3,instant withdrawal,1,0
+R0057,3,hardware wallet support,0,0
+R0057,3,copy trading,0,1
+R0057,4,instant withdrawal,1,0
+R0057,4,hardware wallet support,0,0
+R0057,4,auto-compounding,0,0
+R0057,4,price alerts,0,1
+R0057,5,auto-compounding,0,0
+R0057,5,instant withdrawal,1,0
+R0057,5,tax reports,0,1
+R0057,5,copy trading,0,0
+R0057,6,tax reports,0,0
+R0057,6,staking rewards,1,0
+R0057,6,copy trading,0,1
+R0057,6,price alerts,0,0
+R0057,7,auto-compounding,0,0
+R0057,7,insurance cover,0,1
+R0057,7,staking rewards,0,0
+R0057,7,instant withdrawal,1,0
+R0057,8,hardware wallet support,0,0
+R0057,8,auto-compounding,0,0
+R0057,8,instant withdrawal,1,0
+R0057,8,copy trading,0,1
+R0058,1,copy trading,0,1
+R0058,1,price alerts,0,0
+R0058,1,instant withdrawal,1,0
+R0058,1,insurance cover,0,0
+R0058,2,tax reports,0,1
+R0058,2,instant withdrawal,1,0
+R0058,2,price alerts,0,0
+R0058,2,insurance cover,0,0
+R0058,3,instant withdrawal,0,0
+R0058,3,hardware wallet support,0,0
+R0058,3,copy trading,0,1
+R0058,3,tax reports,1,0
+R0058,4,tax reports,0,0
+R0058,4,price alerts,0,1
+R0058,4,copy trading,0,0
+R0058,4,insurance cover,1,0
+R0058,5,hardware wallet support,0,0
+R0058,5,copy trading,0,1
+R0058,5,insurance cover,0,0
+R0058,5,price alerts,1,0
+R0058,6,insurance cover,1,0
+R0058,6,auto-compounding,0,0
+R0058,6,staking rewards,0,0
+R0058,6,price alerts,0,1
+R0058,7,instant withdrawal,1,0
+R0058,7,price alerts,0,0
+R0058,7,staking rewards,0,1
+R0058,7,copy trading,0,0
+R0058,8,copy trading,0,0
+R0058,8,price alerts,0,1
+R0058,8,tax reports,0,0
+R0058,8,hardware wallet support,1,0
+R0059,1,instant withdrawal,1,0
+R0059,1,copy trading,0,1
+R0059,1,hardware wallet support,0,0
+R0059,1,tax reports,0,0
+R0059,2,staking rewards,0,1
+R0059,2,hardware wallet support,0,0
+R0059,2,copy trading,1,0
+R0059,2,instant withdrawal,0,0
+R0059,3,staking rewards,0,1
+R0059,3,hardware wallet support,0,0
+R0059,3,instant withdrawal,1,0
+R0059,3,price alerts,0,0
+R0059,4,staking rewards,0,0
+R0059,4,auto-compounding,0,0
+R0059,4,hardware wallet support,0,1
+R0059,4,tax reports,1,0
+R0059,5,staking rewards,0,0
+R0059,5,tax reports,0,0
+R0059,5,copy trading,0,1
+R0059,5,insurance cover,1,0
+R0059,6,price alerts,0,1
+R0059,6,auto-compounding,1,0
+R0059,6,tax reports,0,0
+R0059,6,instant withdrawal,0,0
+R0059,7,price alerts,1,0
+R0059,7,copy trading,0,1
+R0059,7,insurance cover,0,0
+R0059,7,instant withdrawal,0,0
+R0059,8,auto-compounding,0,0
+R0059,8,copy trading,0,1
+R0059,8,insurance cover,1,0
+R0059,8,staking rewards,0,0
+R0060,1,auto-compounding,1,0
+R0060,1,instant withdrawal,0,0
+R0060,1,insurance cover,0,1
+R0060,1,hardware wallet support,0,0
+R0060,2,price alerts,1,0
+R0060,2,tax reports,0,1
+R0060,2,insurance cover,0,0
+R0060,2,hardware wallet support,0,0
+R0060,3,tax reports,0,0
+R0060,3,price alerts,0,0
+R0060,3,hardware wallet support,0,1
+R0060,3,staking rewards,1,0
+R0060,4,tax reports,0,0
+R0060,4,copy trading,0,1
+R0060,4,auto-compounding,1,0
+R0060,4,instant withdrawal,0,0
+R0060,5,price alerts,0,1
+R0060,5,hardware wallet support,0,0
+R0060,5,auto-compounding,1,0
+R0060,5,instant withdrawal,0,0
+R0060,6,tax reports,0,1
+R0060,6,price alerts,0,0
+R0060,6,staking rewards,0,0
+R0060,6,instant withdrawal,1,0
+R0060,7,staking rewards,0,1
+R0060,7,insurance cover,1,0
+R0060,7,instant withdrawal,0,0
+R0060,7,copy trading,0,0
+R0060,8,copy trading,0,0
+R0060,8,staking rewards,1,0
+R0060,8,auto-compounding,0,0
+R0060,8,insurance cover,0,1
+R0061,1,price alerts,0,1
+R0061,1,insurance cover,0,0
+R0061,1,instant withdrawal,1,0
+R0061,1,tax reports,0,0
+R0061,2,copy trading,0,0
+R0061,2,instant withdrawal,0,0
+R0061,2,tax reports,1,0
+R0061,2,auto-compounding,0,1
+R0061,3,staking rewards,0,0
+R0061,3,copy trading,1,0
+R0061,3,hardware wallet support,0,1
+R0061,3,instant withdrawal,0,0
+R0061,4,staking rewards,1,0
+R0061,4,insurance cover,0,0
+R0061,4,auto-compounding,0,1
+R0061,4,hardware wallet support,0,0
+R0061,5,hardware wallet support,0,0
+R0061,5,copy trading,0,1
+R0061,5,instant withdrawal,1,0
+R0061,5,tax reports,0,0
+R0061,6,hardware wallet support,0,0
+R0061,6,auto-compounding,0,0
+R0061,6,price alerts,0,1
+R0061,6,insurance cover,1,0
+R0061,7,tax reports,0,0
+R0061,7,hardware wallet support,0,0
+R0061,7,instant withdrawal,1,0
+R0061,7,copy trading,0,1
+R0061,8,hardware wallet support,1,0
+R0061,8,tax reports,0,0
+R0061,8,copy trading,0,1
+R0061,8,insurance cover,0,0
+R0062,1,instant withdrawal,1,0
+R0062,1,hardware wallet support,0,0
+R0062,1,copy trading,0,1
+R0062,1,auto-compounding,0,0
+R0062,2,insurance cover,0,0
+R0062,2,auto-compounding,0,1
+R0062,2,instant withdrawal,0,0
+R0062,2,staking rewards,1,0
+R0062,3,insurance cover,1,0
+R0062,3,instant withdrawal,0,0
+R0062,3,copy trading,0,1
+R0062,3,auto-compounding,0,0
+R0062,4,copy trading,0,1
+R0062,4,tax reports,0,0
+R0062,4,staking rewards,0,0
+R0062,4,insurance cover,1,0
+R0062,5,price alerts,0,1
+R0062,5,auto-compounding,0,0
+R0062,5,staking rewards,0,0
+R0062,5,copy trading,1,0
+R0062,6,price alerts,0,1
+R0062,6,hardware wallet support,0,0
+R0062,6,instant withdrawal,0,0
+R0062,6,staking rewards,1,0
+R0062,7,price alerts,0,1
+R0062,7,staking rewards,1,0
+R0062,7,insurance cover,0,0
+R0062,7,copy trading,0,0
+R0062,8,hardware wallet support,0,0
+R0062,8,auto-compounding,1,0
+R0062,8,insurance cover,0,0
+R0062,8,staking rewards,0,1
+R0063,1,auto-compounding,0,0
+R0063,1,instant withdrawal,1,0
+R0063,1,insurance cover,0,1
+R0063,1,staking rewards,0,0
+R0063,2,auto-compounding,1,0
+R0063,2,insurance cover,0,0
+R0063,2,price alerts,0,1
+R0063,2,staking rewards,0,0
+R0063,3,staking rewards,0,0
+R0063,3,copy trading,0,1
+R0063,3,instant withdrawal,1,0
+R0063,3,tax reports,0,0
+R0063,4,insurance cover,0,0
+R0063,4,price alerts,0,0
+R0063,4,hardware wallet support,0,1
+R0063,4,instant withdrawal,1,0
+R0063,5,instant withdrawal,0,0
+R0063,5,insurance cover,0,0
+R0063,5,staking rewards,0,1
+R0063,5,hardware wallet support,1,0
+R0063,6,instant withdrawal,1,0
+R0063,6,hardware wallet support,0,0
+R0063,6,price alerts,0,0
+R0063,6,copy trading,0,1
+R0063,7,auto-compounding,0,0
+R0063,7,hardware wallet support,0,1
+R0063,7,instant withdrawal,1,0
+R0063,7,insurance cover,0,0
+R0063,8,auto-compounding,0,0
+R0063,8,instant withdrawal,1,0
+R0063,8,insurance cover,0,1
+R0063,8,hardware wallet support,0,0
+R0064,1,staking rewards,0,0
+R0064,1,insurance cover,0,0
+R0064,1,tax reports,0,1
+R0064,1,instant withdrawal,1,0
+R0064,2,price alerts,0,0
+R0064,2,copy trading,0,1
+R0064,2,instant withdrawal,1,0
+R0064,2,tax reports,0,0
+R0064,3,hardware wallet support,1,0
+R0064,3,copy trading,0,0
+R0064,3,price alerts,0,1
+R0064,3,staking rewards,0,0
+R0064,4,instant withdrawal,0,0
+R0064,4,auto-compounding,1,0
+R0064,4,hardware wallet support,0,0
+R0064,4,tax reports,0,1
+R0064,5,price alerts,0,0
+R0064,5,insurance cover,0,1
+R0064,5,tax reports,0,0
+R0064,5,auto-compounding,1,0
+R0064,6,tax reports,0,1
+R0064,6,copy trading,1,0
+R0064,6,hardware wallet support,0,0
+R0064,6,staking rewards,0,0
+R0064,7,tax reports,0,1
+R0064,7,hardware wallet support,0,0
+R0064,7,copy trading,0,0
+R0064,7,insurance cover,1,0
+R0064,8,auto-compounding,1,0
+R0064,8,insurance cover,0,0
+R0064,8,copy trading,0,1
+R0064,8,hardware wallet support,0,0
+R0065,1,auto-compounding,0,0
+R0065,1,instant withdrawal,0,0
+R0065,1,price alerts,0,1
+R0065,1,hardware wallet support,1,0
+R0065,2,staking rewards,1,0
+R0065,2,copy trading,0,1
+R0065,2,insurance cover,0,0
+R0065,2,tax reports,0,0
+R0065,3,copy trading,1,0
+R0065,3,auto-compounding,0,0
+R0065,3,hardware wallet support,0,1
+R0065,3,tax reports,0,0
+R0065,4,hardware wallet support,0,0
+R0065,4,tax reports,0,1
+R0065,4,copy trading,0,0
+R0065,4,insurance cover,1,0
+R0065,5,tax reports,0,0
+R0065,5,instant withdrawal,0,0
+R0065,5,copy trading,0,1
+R0065,5,insurance cover,1,0
+R0065,6,tax reports,0,0
+R0065,6,insurance cover,1,0
+R0065,6,hardware wallet support,0,0
+R0065,6,copy trading,0,1
+R0065,7,insurance cover,0,0
+R0065,7,copy trading,1,0
+R0065,7,hardware wallet support,0,1
+R0065,7,instant withdrawal,0,0
+R0065,8,instant withdrawal,1,0
+R0065,8,copy trading,0,1
+R0065,8,hardware wallet support,0,0
+R0065,8,tax reports,0,0
+R0066,1,hardware wallet support,0,1
+R0066,1,auto-compounding,1,0
+R0066,1,instant withdrawal,0,0
+R0066,1,tax reports,0,0
+R0066,2,tax reports,0,1
+R0066,2,insurance cover,1,0
+R0066,2,auto-compounding,0,0
+R0066,2,price alerts,0,0
+R0066,3,tax reports,0,0
+R0066,3,staking rewards,1,0
+R0066,3,copy trading,0,1
+R0066,3,price alerts,0,0
+R0066,4,hardware wallet support,0,0
+R0066,4,instant withdrawal,1,0
+R0066,4,tax reports,0,1
+R0066,4,auto-compounding,0,0
+R0066,5,insurance cover,0,0
+R0066,5,hardware wallet support,0,0
+R0066,5,copy trading,0,1
+R0066,5,auto-compounding,1,0
+R0066,6,hardware wallet support,0,0
+R0066,6,tax reports,0,0
+R0066,6,staking rewards,0,1
+R0066,6,auto-compounding,1,0
+R0066,7,hardware wallet support,0,0
+R0066,7,price alerts,0,1
+R0066,7,insurance cover,1,0
+R0066,7,copy trading,0,0
+R0066,8,auto-compounding,1,0
+R0066,8,instant withdrawal,0,0
+R0066,8,insurance cover,0,0
+R0066,8,price alerts,0,1
+R0067,1,auto-compounding,0,0
+R0067,1,tax reports,0,0
+R0067,1,copy trading,0,1
+R0067,1,staking rewards,1,0
+R0067,2,auto-compounding,0,0
+R0067,2,hardware wallet support,0,0
+R0067,2,staking rewards,1,0
+R0067,2,price alerts,0,1
+R0067,3,tax reports,0,0
+R0067,3,instant withdrawal,1,0
+R0067,3,auto-compounding,0,0
+R0067,3,price alerts,0,1
+R0067,4,instant withdrawal,0,0
+R0067,4,insurance cover,1,0
+R0067,4,hardware wallet support,0,1
+R0067,4,copy trading,0,0
+R0067,5,tax reports,0,0
+R0067,5,staking rewards,0,0
+R0067,5,instant withdrawal,1,0
+R0067,5,price alerts,0,1
+R0067,6,price alerts,0,0
+R0067,6,tax reports,1,0
+R0067,6,copy trading,0,0
+R0067,6,insurance cover,0,1
+R0067,7,copy trading,0,1
+R0067,7,staking rewards,0,0
+R0067,7,price alerts,0,0
+R0067,7,insurance cover,1,0
+R0067,8,insurance cover,1,0
+R0067,8,auto-compounding,0,0
+R0067,8,hardware wallet support,0,0
+R0067,8,tax reports,0,1
+R0068,1,staking rewards,1,0
+R0068,1,insurance cover,0,0
+R0068,1,auto-compounding,0,0
+R0068,1,copy trading,0,1
+R0068,2,auto-compounding,0,0
+R0068,2,instant withdrawal,1,0
+R0068,2,hardware wallet support,0,1
+R0068,2,tax reports,0,0
+R0068,3,instant withdrawal,0,1
+R0068,3,hardware wallet support,0,0
+R0068,3,tax reports,0,0
+R0068,3,auto-compounding,1,0
+R0068,4,tax reports,0,1
+R0068,4,price alerts,0,0
+R0068,4,staking rewards,0,0
+R0068,4,instant withdrawal,1,0
+R0068,5,insurance cover,0,0
+R0068,5,auto-compounding,1,0
+R0068,5,copy trading,0,0
+R0068,5,tax reports,0,1
+R0068,6,instant withdrawal,1,0
+R0068,6,staking rewards,0,0
+R0068,6,price alerts,0,1
+R0068,6,auto-compounding,0,0
+R0068,7,insurance cover,0,1
+R0068,7,staking rewards,0,0
+R0068,7,copy trading,0,0
+R0068,7,instant withdrawal,1,0
+R0068,8,staking rewards,1,0
+R0068,8,tax reports,0,0
+R0068,8,copy trading,0,1
+R0068,8,auto-compounding,0,0
+R0069,1,tax reports,1,0
+R0069,1,copy trading,0,0
+R0069,1,hardware wallet support,0,1
+R0069,1,price alerts,0,0
+R0069,2,copy trading,0,0
+R0069,2,insurance cover,0,0
+R0069,2,staking rewards,0,1
+R0069,2,tax reports,1,0
+R0069,3,auto-compounding,0,0
+R0069,3,copy trading,0,1
+R0069,3,staking rewards,0,0
+R0069,3,tax reports,1,0
+R0069,4,copy trading,0,1
+R0069,4,auto-compounding,0,0
+R0069,4,price alerts,0,0
+R0069,4,tax reports,1,0
+R0069,5,auto-compounding,0,0
+R0069,5,staking rewards,0,1
+R0069,5,insurance cover,1,0
+R0069,5,hardware wallet support,0,0
+R0069,6,copy trading,0,1
+R0069,6,hardware wallet support,1,0
+R0069,6,auto-compounding,0,0
+R0069,6,instant withdrawal,0,0
+R0069,7,tax reports,0,0
+R0069,7,hardware wallet support,0,0
+R0069,7,staking rewards,0,1
+R0069,7,price alerts,1,0
+R0069,8,price alerts,0,0
+R0069,8,insurance cover,0,0
+R0069,8,tax reports,1,0
+R0069,8,staking rewards,0,1
+R0070,1,auto-compounding,0,0
+R0070,1,hardware wallet support,1,0
+R0070,1,copy trading,0,1
+R0070,1,instant withdrawal,0,0
+R0070,2,staking rewards,0,0
+R0070,2,instant withdrawal,0,0
+R0070,2,hardware wallet support,1,0
+R0070,2,insurance cover,0,1
+R0070,3,tax reports,0,0
+R0070,3,auto-compounding,1,0
+R0070,3,staking rewards,0,0
+R0070,3,hardware wallet support,0,1
+R0070,4,price alerts,0,0
+R0070,4,tax reports,0,1
+R0070,4,staking rewards,0,0
+R0070,4,instant withdrawal,1,0
+R0070,5,insurance cover,1,0
+R0070,5,auto-compounding,0,0
+R0070,5,hardware wallet support,0,1
+R0070,5,tax reports,0,0
+R0070,6,staking rewards,0,0
+R0070,6,tax reports,0,1
+R0070,6,auto-compounding,0,0
+R0070,6,instant withdrawal,1,0
+R0070,7,insurance cover,0,0
+R0070,7,auto-compounding,1,0
+R0070,7,copy trading,0,0
+R0070,7,price alerts,0,1
+R0070,8,tax reports,0,0
+R0070,8,hardware wallet support,1,0
+R0070,8,copy trading,0,1
+R0070,8,price alerts,0,0
+R0071,1,insurance cover,1,0
+R0071,1,tax reports,0,0
+R0071,1,price alerts,0,0
+R0071,1,hardware wallet support,0,1
+R0071,2,copy trading,0,1
+R0071,2,staking rewards,1,0
+R0071,2,price alerts,0,0
+R0071,2,tax reports,0,0
+R0071,3,instant withdrawal,0,0
+R0071,3,staking rewards,0,1
+R0071,3,copy trading,0,0
+R0071,3,tax reports,1,0
+R0071,4,tax reports,0,0
+R0071,4,insurance cover,0,0
+R0071,4,instant withdrawal,1,0
+R0071,4,copy trading,0,1
+R0071,5,auto-compounding,1,0
+R0071,5,price alerts,0,1
+R0071,5,staking rewards,0,0
+R0071,5,tax reports,0,0
+R0071,6,insurance cover,0,0
+R0071,6,copy trading,0,1
+R0071,6,price alerts,0,0
+R0071,6,instant withdrawal,1,0
+R0071,7,staking rewards,1,0
+R0071,7,auto-compounding,0,1
+R0071,7,copy trading,0,0
+R0071,7,insurance cover,0,0
+R0071,8,copy trading,0,1
+R0071,8,tax reports,1,0
+R0071,8,auto-compounding,0,0
+R0071,8,hardware wallet support,0,0
+R0072,1,hardware wallet support,0,0
+R0072,1,price alerts,0,1
+R0072,1,copy trading,0,0
+R0072,1,insurance cover,1,0
+R0072,2,copy trading,0,0
+R0072,2,staking rewards,0,0
+R0072,2,instant withdrawal,1,0
+R0072,2,hardware wallet support,0,1
+R0072,3,copy trading,0,1
+R0072,3,tax reports,0,0
+R0072,3,staking rewards,0,0
+R0072,3,insurance cover,1,0
+R0072,4,copy trading,0,1
+R0072,4,auto-compounding,0,0
+R0072,4,insurance cover,1,0
+R0072,4,hardware wallet support,0,0
+R0072,5,instant withdrawal,0,0
+R0072,5,auto-compounding,1,0
+R0072,5,staking rewards,0,1
+R0072,5,price alerts,0,0
+R0072,6,insurance cover,0,0
+R0072,6,auto-compounding,1,0
+R0072,6,hardware wallet support,0,0
+R0072,6,tax reports,0,1
+R0072,7,tax reports,1,0
+R0072,7,hardware wallet support,0,0
+R0072,7,auto-compounding,0,0
+R0072,7,copy trading,0,1
+R0072,8,staking rewards,0,1
+R0072,8,instant withdrawal,0,0
+R0072,8,tax reports,0,0
+R0072,8,hardware wallet support,1,0
+R0073,1,auto-compounding,1,0
+R0073,1,copy trading,0,0
+R0073,1,tax reports,0,1
+R0073,1,insurance cover,0,0
+R0073,2,instant withdrawal,1,0
+R0073,2,tax reports,0,1
+R0073,2,copy trading,0,0
+R0073,2,auto-compounding,0,0
+R0073,3,copy trading,0,1
+R0073,3,instant withdrawal,1,0
+R0073,3,tax reports,0,0
+R0073,3,hardware wallet support,0,0
+R0073,4,insurance cover,1,0
+R0073,4,copy trading,0,0
+R0073,4,tax reports,0,1
+R0073,4,auto-compounding,0,0
+R0073,5,staking rewards,0,0
+R0073,5,auto-compounding,0,1
+R0073,5,tax reports,0,0
+R0073,5,insurance cover,1,0
+R0073,6,tax reports,0,0
+R0073,6,hardware wallet support,0,0
+R0073,6,copy trading,0,1
+R0073,6,instant withdrawal,1,0
+R0073,7,tax reports,0,0
+R0073,7,instant withdrawal,0,0
+R0073,7,staking rewards,1,0
+R0073,7,price alerts,0,1
+R0073,8,hardware wallet support,0,0
+R0073,8,tax reports,0,1
+R0073,8,instant withdrawal,1,0
+R0073,8,price alerts,0,0
+R0074,1,insurance cover,1,0
+R0074,1,hardware wallet support,0,1
+R0074,1,auto-compounding,0,0
+R0074,1,copy trading,0,0
+R0074,2,tax reports,0,1
+R0074,2,auto-compounding,0,0
+R0074,2,price alerts,0,0
+R0074,2,instant withdrawal,1,0
+R0074,3,copy trading,0,1
+R0074,3,staking rewards,0,0
+R0074,3,tax reports,1,0
+R0074,3,price alerts,0,0
+R0074,4,copy trading,0,1
+R0074,4,tax reports,0,0
+R0074,4,insurance cover,1,0
+R0074,4,auto-compounding,0,0
+R0074,5,staking rewards,1,0
+R0074,5,copy trading,0,1
+R0074,5,tax reports,0,0
+R0074,5,auto-compounding,0,0
+R0074,6,insurance cover,0,0
+R0074,6,instant withdrawal,1,0
+R0074,6,staking rewards,0,0
+R0074,6,auto-compounding,0,1
+R0074,7,hardware wallet support,0,1
+R0074,7,auto-compounding,1,0
+R0074,7,staking rewards,0,0
+R0074,7,insurance cover,0,0
+R0074,8,price alerts,0,1
+R0074,8,insurance cover,1,0
+R0074,8,auto-compounding,0,0
+R0074,8,instant withdrawal,0,0
+R0075,1,copy trading,0,1
+R0075,1,auto-compounding,0,0
+R0075,1,staking rewards,1,0
+R0075,1,insurance cover,0,0
+R0075,2,auto-compounding,1,0
+R0075,2,hardware wallet support,0,1
+R0075,2,price alerts,0,0
+R0075,2,tax reports,0,0
+R0075,3,instant withdrawal,0,0
+R0075,3,price alerts,0,1
+R0075,3,hardware wallet support,1,0
+R0075,3,tax reports,0,0
+R0075,4,insurance cover,0,0
+R0075,4,price alerts,0,1
+R0075,4,copy trading,1,0
+R0075,4,instant withdrawal,0,0
+R0075,5,copy trading,0,1
+R0075,5,insurance cover,1,0
+R0075,5,instant withdrawal,0,0
+R0075,5,tax reports,0,0
+R0075,6,auto-compounding,0,0
+R0075,6,staking rewards,0,1
+R0075,6,tax reports,0,0
+R0075,6,price alerts,1,0
+R0075,7,hardware wallet support,0,1
+R0075,7,price alerts,0,0
+R0075,7,tax reports,0,0
+R0075,7,auto-compounding,1,0
+R0075,8,price alerts,0,0
+R0075,8,insurance cover,1,0
+R0075,8,tax reports,0,0
+R0075,8,auto-compounding,0,1
+R0076,1,price alerts,0,1
+R0076,1,insurance cover,0,0
+R0076,1,instant withdrawal,1,0
+R0076,1,staking rewards,0,0
+R0076,2,hardware wallet support,1,0
+R0076,2,staking rewards,0,0
+R0076,2,price alerts,0,1
+R0076,2,insurance cover,0,0
+R0076,3,copy trading,0,1
+R0076,3,price alerts,0,0
+R0076,3,instant withdrawal,1,0
+R0076,3,auto-compounding,0,0
+R0076,4,copy trading,0,0
+R0076,4,staking rewards,1,0
+R0076,4,tax reports,0,1
+R0076,4,hardware wallet support,0,0
+R0076,5,insurance cover,0,0
+R0076,5,hardware wallet support,0,0
+R0076,5,copy trading,0,1
+R0076,5,price alerts,1,0
+R0076,6,tax reports,1,0
+R0076,6,copy trading,0,1
+R0076,6,price alerts,0,0
+R0076,6,insurance cover,0,0
+R0076,7,price alerts,0,1
+R0076,7,auto-compounding,0,0
+R0076,7,copy trading,1,0
+R0076,7,tax reports,0,0
+R0076,8,tax reports,0,0
+R0076,8,copy trading,0,1
+R0076,8,price alerts,0,0
+R0076,8,instant withdrawal,1,0
+R0077,1,hardware wallet support,0,0
+R0077,1,tax reports,0,0
+R0077,1,copy trading,1,0
+R0077,1,price alerts,0,1
+R0077,2,price alerts,1,0
+R0077,2,auto-compounding,0,0
+R0077,2,copy trading,0,1
+R0077,2,insurance cover,0,0
+R0077,3,price alerts,1,0
+R0077,3,insurance cover,0,0
+R0077,3,auto-compounding,0,0
+R0077,3,tax reports,0,1
+R0077,4,instant withdrawal,1,0
+R0077,4,price alerts,0,1
+R0077,4,hardware wallet support,0,0
+R0077,4,auto-compounding,0,0
+R0077,5,hardware wallet support,1,0
+R0077,5,tax reports,0,1
+R0077,5,staking rewards,0,0
+R0077,5,instant withdrawal,0,0
+R0077,6,staking rewards,0,0
+R0077,6,tax reports,0,0
+R0077,6,copy trading,0,1
+R0077,6,instant withdrawal,1,0
+R0077,7,tax reports,0,0
+R0077,7,auto-compounding,1,0
+R0077,7,hardware wallet support,0,1
+R0077,7,insurance cover,0,0
+R0077,8,insurance cover,0,0
+R0077,8,price alerts,0,1
+R0077,8,instant withdrawal,1,0
+R0077,8,copy trading,0,0
+R0078,1,auto-compounding,0,0
+R0078,1,tax reports,0,1
+R0078,1,staking rewards,1,0
+R0078,1,insurance cover,0,0
+R0078,2,copy trading,0,1
+R0078,2,auto-compounding,0,0
+R0078,2,price alerts,0,0
+R0078,2,staking rewards,1,0
+R0078,3,auto-compounding,1,0
+R0078,3,copy trading,0,1
+R0078,3,insurance cover,0,0
+R0078,3,staking rewards,0,0
+R0078,4,hardware wallet support,1,0
+R0078,4,auto-compounding,0,0
+R0078,4,copy trading,0,1
+R0078,4,insurance cover,0,0
+R0078,5,staking rewards,0,0
+R0078,5,instant withdrawal,0,0
+R0078,5,hardware wallet support,1,0
+R0078,5,tax reports,0,1
+R0078,6,insurance cover,1,0
+R0078,6,staking rewards,0,0
+R0078,6,tax reports,0,0
+R0078,6,price alerts,0,1
+R0078,7,copy trading,0,1
+R0078,7,insurance cover,1,0
+R0078,7,tax reports,0,0
+R0078,7,instant withdrawal,0,0
+R0078,8,hardware wallet support,0,0
+R0078,8,price alerts,0,1
+R0078,8,auto-compounding,0,0
+R0078,8,insurance cover,1,0
+R0079,1,auto-compounding,1,0
+R0079,1,staking rewards,0,0
+R0079,1,copy trading,0,1
+R0079,1,hardware wallet support,0,0
+R0079,2,hardware wallet support,0,0
+R0079,2,staking rewards,0,0
+R0079,2,copy trading,0,1
+R0079,2,auto-compounding,1,0
+R0079,3,auto-compounding,0,0
+R0079,3,staking rewards,1,0
+R0079,3,price alerts,0,1
+R0079,3,hardware wallet support,0,0
+R0079,4,hardware wallet support,0,1
+R0079,4,insurance cover,0,0
+R0079,4,staking rewards,1,0
+R0079,4,tax reports,0,0
+R0079,5,copy trading,0,0
+R0079,5,hardware wallet support,0,1
+R0079,5,tax reports,0,0
+R0079,5,instant withdrawal,1,0
+R0079,6,staking rewards,0,0
+R0079,6,insurance cover,0,0
+R0079,6,hardware wallet support,1,0
+R0079,6,copy trading,0,1
+R0079,7,hardware wallet support,0,0
+R0079,7,staking rewards,1,0
+R0079,7,price alerts,0,1
+R0079,7,instant withdrawal,0,0
+R0079,8,insurance cover,0,0
+R0079,8,hardware wallet support,1,0
+R0079,8,tax reports,0,0
+R0079,8,price alerts,0,1
+R0080,1,price alerts,1,0
+R0080,1,hardware wallet support,0,0
+R0080,1,tax reports,0,1
+R0080,1,staking rewards,0,0
+R0080,2,instant withdrawal,1,0
+R0080,2,copy trading,0,1
+R0080,2,auto-compounding,0,0
+R0080,2,price alerts,0,0
+R0080,3,hardware wallet support,0,0
+R0080,3,staking rewards,0,0
+R0080,3,copy trading,0,1
+R0080,3,instant withdrawal,1,0
+R0080,4,hardware wallet support,0,0
+R0080,4,staking rewards,0,0
+R0080,4,instant withdrawal,0,1
+R0080,4,insurance cover,1,0
+R0080,5,insurance cover,0,0
+R0080,5,auto-compounding,0,0
+R0080,5,tax reports,0,1
+R0080,5,price alerts,1,0
+R0080,6,tax reports,0,0
+R0080,6,copy trading,0,1
+R0080,6,hardware wallet support,0,0
+R0080,6,staking rewards,1,0
+R0080,7,price alerts,0,0
+R0080,7,instant withdrawal,1,0
+R0080,7,tax reports,0,0
+R0080,7,insurance cover,0,1
+R0080,8,hardware wallet support,0,0
+R0080,8,auto-compounding,1,0
+R0080,8,price alerts,0,1
+R0080,8,staking rewards,0,0
+R0081,1,insurance cover,0,0
+R0081,1,price alerts,0,1
+R0081,1,copy trading,0,0
+R0081,1,instant withdrawal,1,0
+R0081,2,copy trading,0,0
+R0081,2,auto-compounding,1,0
+R0081,2,instant withdrawal,0,0
+R0081,2,price alerts,0,1
+R0081,3,tax reports,1,0
+R0081,3,price alerts,0,1
+R0081,3,auto-compounding,0,0
+R0081,3,copy trading,0,0
+R0081,4,price alerts,0,1
+R0081,4,staking rewards,0,0
+R0081,4,copy trading,0,0
+R0081,4,hardware wallet support,1,0
+R0081,5,auto-compounding,0,1
+R0081,5,instant withdrawal,0,0
+R0081,5,insurance cover,0,0
+R0081,5,hardware wallet support,1,0
+R0081,6,staking rewards,1,0
+R0081,6,auto-compounding,0,0
+R0081,6,copy trading,0,1
+R0081,6,hardware wallet support,0,0
+R0081,7,price alerts,0,1
+R0081,7,auto-compounding,0,0
+R0081,7,staking rewards,0,0
+R0081,7,insurance cover,1,0
+R0081,8,price alerts,0,0
+R0081,8,hardware wallet support,1,0
+R0081,8,tax reports,0,0
+R0081,8,copy trading,0,1
+R0082,1,staking rewards,0,0
+R0082,1,auto-compounding,1,0
+R0082,1,price alerts,0,1
+R0082,1,instant withdrawal,0,0
+R0082,2,copy trading,0,1
+R0082,2,hardware wallet support,0,0
+R0082,2,staking rewards,1,0
+R0082,2,instant withdrawal,0,0
+R0082,3,instant withdrawal,1,0
+R0082,3,price alerts,0,1
+R0082,3,hardware wallet support,0,0
+R0082,3,auto-compounding,0,0
+R0082,4,tax reports,0,0
+R0082,4,instant withdrawal,0,0
+R0082,4,copy trading,1,0
+R0082,4,insurance cover,0,1
+R0082,5,instant withdrawal,1,0
+R0082,5,auto-compounding,0,1
+R0082,5,price alerts,0,0
+R0082,5,insurance cover,0,0
+R0082,6,copy trading,0,1
+R0082,6,staking rewards,0,0
+R0082,6,instant withdrawal,1,0
+R0082,6,hardware wallet support,0,0
+R0082,7,hardware wallet support,0,0
+R0082,7,insurance cover,0,0
+R0082,7,tax reports,1,0
+R0082,7,price alerts,0,1
+R0082,8,price alerts,0,1
+R0082,8,instant withdrawal,1,0
+R0082,8,tax reports,0,0
+R0082,8,hardware wallet support,0,0
+R0083,1,price alerts,0,0
+R0083,1,tax reports,0,1
+R0083,1,staking rewards,0,0
+R0083,1,insurance cover,1,0
+R0083,2,price alerts,1,0
+R0083,2,staking rewards,0,0
+R0083,2,copy trading,0,1
+R0083,2,auto-compounding,0,0
+R0083,3,copy trading,0,0
+R0083,3,tax reports,1,0
+R0083,3,price alerts,0,1
+R0083,3,insurance cover,0,0
+R0083,4,price alerts,0,0
+R0083,4,auto-compounding,1,0
+R0083,4,hardware wallet support,0,1
+R0083,4,insurance cover,0,0
+R0083,5,copy trading,0,0
+R0083,5,staking rewards,0,0
+R0083,5,auto-compounding,1,0
+R0083,5,price alerts,0,1
+R0083,6,hardware wallet support,0,0
+R0083,6,auto-compounding,0,0
+R0083,6,tax reports,1,0
+R0083,6,copy trading,0,1
+R0083,7,auto-compounding,0,0
+R0083,7,insurance cover,1,0
+R0083,7,staking rewards,0,1
+R0083,7,instant withdrawal,0,0
+R0083,8,instant withdrawal,1,0
+R0083,8,tax reports,0,0
+R0083,8,hardware wallet support,0,0
+R0083,8,copy trading,0,1
+R0084,1,staking rewards,1,0
+R0084,1,auto-compounding,0,0
+R0084,1,tax reports,0,1
+R0084,1,copy trading,0,0
+R0084,2,price alerts,0,1
+R0084,2,hardware wallet support,0,0
+R0084,2,instant withdrawal,0,0
+R0084,2,copy trading,1,0
+R0084,3,price alerts,0,0
+R0084,3,staking rewards,1,0
+R0084,3,hardware wallet support,0,0
+R0084,3,insurance cover,0,1
+R0084,4,staking rewards,0,0
+R0084,4,copy trading,0,1
+R0084,4,auto-compounding,1,0
+R0084,4,price alerts,0,0
+R0084,5,staking rewards,0,0
+R0084,5,insurance cover,1,0
+R0084,5,auto-compounding,0,0
+R0084,5,copy trading,0,1
+R0084,6,insurance cover,0,0
+R0084,6,copy trading,0,0
+R0084,6,tax reports,0,1
+R0084,6,instant withdrawal,1,0
+R0084,7,staking rewards,0,0
+R0084,7,auto-compounding,0,0
+R0084,7,price alerts,0,1
+R0084,7,instant withdrawal,1,0
+R0084,8,tax reports,0,0
+R0084,8,hardware wallet support,0,0
+R0084,8,auto-compounding,0,1
+R0084,8,instant withdrawal,1,0
+R0085,1,insurance cover,1,0
+R0085,1,staking rewards,0,0
+R0085,1,hardware wallet support,0,0
+R0085,1,copy trading,0,1
+R0085,2,price alerts,0,0
+R0085,2,insurance cover,0,0
+R0085,2,copy trading,0,1
+R0085,2,staking rewards,1,0
+R0085,3,price alerts,0,1
+R0085,3,copy trading,0,0
+R0085,3,instant withdrawal,1,0
+R0085,3,staking rewards,0,0
+R0085,4,auto-compounding,0,0
+R0085,4,instant withdrawal,1,0
+R0085,4,price alerts,0,1
+R0085,4,tax reports,0,0
+R0085,5,instant withdrawal,0,0
+R0085,5,tax reports,0,0
+R0085,5,insurance cover,1,0
+R0085,5,copy trading,0,1
+R0085,6,price alerts,0,0
+R0085,6,tax reports,0,1
+R0085,6,hardware wallet support,1,0
+R0085,6,staking rewards,0,0
+R0085,7,copy trading,0,0
+R0085,7,hardware wallet support,0,1
+R0085,7,tax reports,0,0
+R0085,7,auto-compounding,1,0
+R0085,8,price alerts,0,0
+R0085,8,instant withdrawal,1,0
+R0085,8,hardware wallet support,0,0
+R0085,8,staking rewards,0,1
+R0086,1,insurance cover,1,0
+R0086,1,staking rewards,0,0
+R0086,1,price alerts,0,1
+R0086,1,auto-compounding,0,0
+R0086,2,hardware wallet support,0,0
+R0086,2,price alerts,0,0
+R0086,2,staking rewards,0,1
+R0086,2,instant withdrawal,1,0
+R0086,3,auto-compounding,1,0
+R0086,3,tax reports,0,0
+R0086,3,hardware wallet support,0,0
+R0086,3,price alerts,0,1
+R0086,4,price alerts,0,0
+R0086,4,auto-compounding,0,0
+R0086,4,hardware wallet support,0,1
+R0086,4,staking rewards,1,0
+R0086,5,price alerts,0,0
+R0086,5,copy trading,1,0
+R0086,5,insurance cover,0,0
+R0086,5,staking rewards,0,1
+R0086,6,staking rewards,0,0
+R0086,6,insurance cover,0,1
+R0086,6,auto-compounding,1,0
+R0086,6,tax reports,0,0
+R0086,7,staking rewards,0,0
+R0086,7,price alerts,1,0
+R0086,7,insurance cover,0,0
+R0086,7,hardware wallet support,0,1
+R0086,8,copy trading,0,1
+R0086,8,hardware wallet support,1,0
+R0086,8,instant withdrawal,0,0
+R0086,8,staking rewards,0,0
+R0087,1,hardware wallet support,0,0
+R0087,1,staking rewards,0,0
+R0087,1,tax reports,0,1
+R0087,1,instant withdrawal,1,0
+R0087,2,copy trading,1,0
+R0087,2,staking rewards,0,1
+R0087,2,price alerts,0,0
+R0087,2,tax reports,0,0
+R0087,3,staking rewards,0,1
+R0087,3,tax reports,1,0
+R0087,3,instant withdrawal,0,0
+R0087,3,copy trading,0,0
+R0087,4,staking rewards,0,0
+R0087,4,price alerts,0,1
+R0087,4,auto-compounding,1,0
+R0087,4,insurance cover,0,0
+R0087,5,tax reports,0,1
+R0087,5,auto-compounding,0,0
+R0087,5,instant withdrawal,1,0
+R0087,5,insurance cover,0,0
+R0087,6,insurance cover,0,0
+R0087,6,auto-compounding,1,0
+R0087,6,hardware wallet support,0,0
+R0087,6,price alerts,0,1
+R0087,7,staking rewards,0,0
+R0087,7,auto-compounding,0,0
+R0087,7,hardware wallet support,0,1
+R0087,7,copy trading,1,0
+R0087,8,staking rewards,0,0
+R0087,8,price alerts,0,1
+R0087,8,hardware wallet support,0,0
+R0087,8,copy trading,1,0
+R0088,1,insurance cover,1,0
+R0088,1,tax reports,0,0
+R0088,1,instant withdrawal,0,0
+R0088,1,hardware wallet support,0,1
+R0088,2,hardware wallet support,0,1
+R0088,2,auto-compounding,1,0
+R0088,2,staking rewards,0,0
+R0088,2,instant withdrawal,0,0
+R0088,3,copy trading,0,1
+R0088,3,auto-compounding,1,0
+R0088,3,hardware wallet support,0,0
+R0088,3,price alerts,0,0
+R0088,4,instant withdrawal,1,0
+R0088,4,tax reports,0,0
+R0088,4,auto-compounding,0,0
+R0088,4,hardware wallet support,0,1
+R0088,5,price alerts,0,0
+R0088,5,hardware wallet support,0,0
+R0088,5,insurance cover,1,0
+R0088,5,tax reports,0,1
+R0088,6,instant withdrawal,1,0
+R0088,6,insurance cover,0,0
+R0088,6,tax reports,0,0
+R0088,6,copy trading,0,1
+R0088,7,insurance cover,0,0
+R0088,7,hardware wallet support,0,0
+R0088,7,instant withdrawal,1,0
+R0088,7,copy trading,0,1
+R0088,8,hardware wallet support,0,1
+R0088,8,price alerts,0,0
+R0088,8,instant withdrawal,1,0
+R0088,8,copy trading,0,0
+R0089,1,auto-compounding,1,0
+R0089,1,tax reports,0,1
+R0089,1,staking rewards,0,0
+R0089,1,price alerts,0,0
+R0089,2,instant withdrawal,0,0
+R0089,2,staking rewards,1,0
+R0089,2,price alerts,0,1
+R0089,2,hardware wallet support,0,0
+R0089,3,hardware wallet support,0,1
+R0089,3,tax reports,1,0
+R0089,3,staking rewards,0,0
+R0089,3,instant withdrawal,0,0
+R0089,4,copy trading,0,1
+R0089,4,hardware wallet support,0,0
+R0089,4,auto-compounding,0,0
+R0089,4,instant withdrawal,1,0
+R0089,5,instant withdrawal,1,0
+R0089,5,auto-compounding,0,0
+R0089,5,copy trading,0,0
+R0089,5,staking rewards,0,1
+R0089,6,tax reports,0,0
+R0089,6,price alerts,0,1
+R0089,6,staking rewards,0,0
+R0089,6,insurance cover,1,0
+R0089,7,tax reports,0,0
+R0089,7,copy trading,0,1
+R0089,7,hardware wallet support,0,0
+R0089,7,instant withdrawal,1,0
+R0089,8,instant withdrawal,1,0
+R0089,8,staking rewards,0,1
+R0089,8,insurance cover,0,0
+R0089,8,hardware wallet support,0,0
+R0090,1,copy trading,0,1
+R0090,1,price alerts,0,0
+R0090,1,hardware wallet support,0,0
+R0090,1,staking rewards,1,0
+R0090,2,hardware wallet support,0,1
+R0090,2,staking rewards,0,0
+R0090,2,insurance cover,1,0
+R0090,2,tax reports,0,0
+R0090,3,hardware wallet support,1,0
+R0090,3,auto-compounding,0,1
+R0090,3,price alerts,0,0
+R0090,3,insurance cover,0,0
+R0090,4,staking rewards,0,0
+R0090,4,copy trading,0,1
+R0090,4,tax reports,0,0
+R0090,4,instant withdrawal,1,0
+R0090,5,staking rewards,0,1
+R0090,5,price alerts,1,0
+R0090,5,copy trading,0,0
+R0090,5,auto-compounding,0,0
+R0090,6,insurance cover,1,0
+R0090,6,copy trading,0,1
+R0090,6,auto-compounding,0,0
+R0090,6,instant withdrawal,0,0
+R0090,7,tax reports,0,0
+R0090,7,instant withdrawal,0,0
+R0090,7,price alerts,1,0
+R0090,7,auto-compounding,0,1
+R0090,8,instant withdrawal,1,0
+R0090,8,hardware wallet support,0,0
+R0090,8,staking rewards,0,0
+R0090,8,tax reports,0,1
+R0091,1,instant withdrawal,1,0
+R0091,1,tax reports,0,0
+R0091,1,insurance cover,0,0
+R0091,1,hardware wallet support,0,1
+R0091,2,instant withdrawal,1,0
+R0091,2,insurance cover,0,0
+R0091,2,hardware wallet support,0,0
+R0091,2,copy trading,0,1
+R0091,3,price alerts,0,1
+R0091,3,instant withdrawal,1,0
+R0091,3,hardware wallet support,0,0
+R0091,3,auto-compounding,0,0
+R0091,4,auto-compounding,0,0
+R0091,4,instant withdrawal,0,0
+R0091,4,staking rewards,1,0
+R0091,4,price alerts,0,1
+R0091,5,staking rewards,1,0
+R0091,5,insurance cover,0,0
+R0091,5,tax reports,0,0
+R0091,5,price alerts,0,1
+R0091,6,price alerts,0,1
+R0091,6,staking rewards,0,0
+R0091,6,instant withdrawal,0,0
+R0091,6,tax reports,1,0
+R0091,7,tax reports,0,0
+R0091,7,hardware wallet support,0,0
+R0091,7,staking rewards,0,1
+R0091,7,instant withdrawal,1,0
+R0091,8,instant withdrawal,0,0
+R0091,8,insurance cover,1,0
+R0091,8,staking rewards,0,0
+R0091,8,copy trading,0,1
+R0092,1,insurance cover,0,0
+R0092,1,copy trading,0,1
+R0092,1,auto-compounding,0,0
+R0092,1,instant withdrawal,1,0
+R0092,2,instant withdrawal,0,0
+R0092,2,tax reports,0,0
+R0092,2,copy trading,0,1
+R0092,2,staking rewards,1,0
+R0092,3,staking rewards,0,0
+R0092,3,hardware wallet support,0,1
+R0092,3,auto-compounding,0,0
+R0092,3,instant withdrawal,1,0
+R0092,4,auto-compounding,0,0
+R0092,4,tax reports,0,0
+R0092,4,hardware wallet support,0,1
+R0092,4,staking rewards,1,0
+R0092,5,price alerts,0,0
+R0092,5,auto-compounding,1,0
+R0092,5,hardware wallet support,0,0
+R0092,5,staking rewards,0,1
+R0092,6,price alerts,0,0
+R0092,6,hardware wallet support,0,0
+R0092,6,insurance cover,1,0
+R0092,6,tax reports,0,1
+R0092,7,auto-compounding,0,0
+R0092,7,staking rewards,0,0
+R0092,7,tax reports,1,0
+R0092,7,copy trading,0,1
+R0092,8,instant withdrawal,1,0
+R0092,8,insurance cover,0,0
+R0092,8,price alerts,0,1
+R0092,8,auto-compounding,0,0
+R0093,1,hardware wallet support,0,1
+R0093,1,copy trading,1,0
+R0093,1,auto-compounding,0,0
+R0093,1,tax reports,0,0
+R0093,2,instant withdrawal,1,0
+R0093,2,staking rewards,0,0
+R0093,2,copy trading,0,1
+R0093,2,tax reports,0,0
+R0093,3,insurance cover,0,0
+R0093,3,price alerts,0,1
+R0093,3,instant withdrawal,1,0
+R0093,3,tax reports,0,0
+R0093,4,auto-compounding,1,0
+R0093,4,price alerts,0,1
+R0093,4,hardware wallet support,0,0
+R0093,4,tax reports,0,0
+R0093,5,copy trading,0,0
+R0093,5,staking rewards,1,0
+R0093,5,tax reports,0,1
+R0093,5,price alerts,0,0
+R0093,6,staking rewards,0,0
+R0093,6,tax reports,0,1
+R0093,6,instant withdrawal,1,0
+R0093,6,price alerts,0,0
+R0093,7,insurance cover,1,0
+R0093,7,copy trading,0,1
+R0093,7,price alerts,0,0
+R0093,7,staking rewards,0,0
+R0093,8,staking rewards,0,0
+R0093,8,hardware wallet support,0,0
+R0093,8,instant withdrawal,1,0
+R0093,8,price alerts,0,1
+R0094,1,tax reports,0,1
+R0094,1,hardware wallet support,1,0
+R0094,1,price alerts,0,0
+R0094,1,auto-compounding,0,0
+R0094,2,price alerts,0,1
+R0094,2,staking rewards,0,0
+R0094,2,auto-compounding,0,0
+R0094,2,instant withdrawal,1,0
+R0094,3,copy trading,0,0
+R0094,3,hardware wallet support,0,0
+R0094,3,instant withdrawal,1,0
+R0094,3,insurance cover,0,1
+R0094,4,insurance cover,0,1
+R0094,4,staking rewards,0,0
+R0094,4,instant withdrawal,1,0
+R0094,4,price alerts,0,0
+R0094,5,instant withdrawal,1,0
+R0094,5,hardware wallet support,0,0
+R0094,5,price alerts,0,1
+R0094,5,insurance cover,0,0
+R0094,6,price alerts,0,1
+R0094,6,tax reports,0,0
+R0094,6,insurance cover,1,0
+R0094,6,auto-compounding,0,0
+R0094,7,price alerts,0,0
+R0094,7,tax reports,0,0
+R0094,7,hardware wallet support,0,1
+R0094,7,auto-compounding,1,0
+R0094,8,auto-compounding,1,0
+R0094,8,insurance cover,0,1
+R0094,8,instant withdrawal,0,0
+R0094,8,hardware wallet support,0,0
+R0095,1,instant withdrawal,0,0
+R0095,1,copy trading,0,1
+R0095,1,price alerts,0,0
+R0095,1,staking rewards,1,0
+R0095,2,hardware wallet support,1,0
+R0095,2,instant withdrawal,0,0
+R0095,2,copy trading,0,1
+R0095,2,staking rewards,0,0
+R0095,3,price alerts,0,0
+R0095,3,hardware wallet support,1,0
+R0095,3,instant withdrawal,0,0
+R0095,3,staking rewards,0,1
+R0095,4,tax reports,0,0
+R0095,4,insurance cover,0,1
+R0095,4,instant withdrawal,1,0
+R0095,4,auto-compounding,0,0
+R0095,5,auto-compounding,0,0
+R0095,5,hardware wallet support,1,0
+R0095,5,tax reports,0,0
+R0095,5,price alerts,0,1
+R0095,6,tax reports,0,0
+R0095,6,copy trading,0,1
+R0095,6,staking rewards,1,0
+R0095,6,hardware wallet support,0,0
+R0095,7,insurance cover,1,0
+R0095,7,hardware wallet support,0,0
+R0095,7,tax reports,0,0
+R0095,7,price alerts,0,1
+R0095,8,instant withdrawal,0,0
+R0095,8,tax reports,0,0
+R0095,8,insurance cover,0,1
+R0095,8,staking rewards,1,0
+R0096,1,hardware wallet support,0,1
+R0096,1,tax reports,0,0
+R0096,1,auto-compounding,0,0
+R0096,1,staking rewards,1,0
+R0096,2,copy trading,0,0
+R0096,2,tax reports,0,1
+R0096,2,hardware wallet support,0,0
+R0096,2,price alerts,1,0
+R0096,3,copy trading,1,0
+R0096,3,instant withdrawal,0,0
+R0096,3,tax reports,0,1
+R0096,3,price alerts,0,0
+R0096,4,insurance cover,1,0
+R0096,4,copy trading,0,0
+R0096,4,staking rewards,0,1
+R0096,4,auto-compounding,0,0
+R0096,5,price alerts,1,0
+R0096,5,insurance cover,0,0
+R0096,5,tax reports,0,1
+R0096,5,hardware wallet support,0,0
+R0096,6,auto-compounding,1,0
+R0096,6,instant withdrawal,0,0
+R0096,6,price alerts,0,1
+R0096,6,tax reports,0,0
+R0096,7,tax reports,0,0
+R0096,7,hardware wallet support,0,1
+R0096,7,price alerts,0,0
+R0096,7,insurance cover,1,0
+R0096,8,price alerts,0,1
+R0096,8,insurance cover,0,0
+R0096,8,hardware wallet support,1,0
+R0096,8,tax reports,0,0
+R0097,1,copy trading,0,0
+R0097,1,tax reports,0,1
+R0097,1,price alerts,0,0
+R0097,1,hardware wallet support,1,0
+R0097,2,hardware wallet support,0,0
+R0097,2,auto-compounding,1,0
+R0097,2,tax reports,0,1
+R0097,2,price alerts,0,0
+R0097,3,staking rewards,0,0
+R0097,3,price alerts,0,1
+R0097,3,instant withdrawal,1,0
+R0097,3,hardware wallet support,0,0
+R0097,4,staking rewards,0,0
+R0097,4,copy trading,0,1
+R0097,4,tax reports,0,0
+R0097,4,instant withdrawal,1,0
+R0097,5,tax reports,0,0
+R0097,5,auto-compounding,0,0
+R0097,5,copy trading,0,1
+R0097,5,insurance cover,1,0
+R0097,6,tax reports,0,0
+R0097,6,price alerts,1,0
+R0097,6,copy trading,0,1
+R0097,6,staking rewards,0,0
+R0097,7,price alerts,0,0
+R0097,7,tax reports,0,0
+R0097,7,staking rewards,1,0
+R0097,7,copy trading,0,1
+R0097,8,instant withdrawal,0,0
+R0097,8,staking rewards,1,0
+R0097,8,price alerts,0,1
+R0097,8,insurance cover,0,0
+R0098,1,price alerts,0,0
+R0098,1,copy trading,0,1
+R0098,1,staking rewards,0,0
+R0098,1,instant withdrawal,1,0
+R0098,2,instant withdrawal,0,1
+R0098,2,copy trading,0,0
+R0098,2,hardware wallet support,0,0
+R0098,2,auto-compounding,1,0
+R0098,3,tax reports,0,1
+R0098,3,insurance cover,0,0
+R0098,3,copy trading,0,0
+R0098,3,auto-compounding,1,0
+R0098,4,instant withdrawal,0,0
+R0098,4,price alerts,0,0
+R0098,4,insurance cover,1,0
+R0098,4,hardware wallet support,0,1
+R0098,5,auto-compounding,0,0
+R0098,5,staking rewards,1,0
+R0098,5,instant withdrawal,0,0
+R0098,5,hardware wallet support,0,1
+R0098,6,staking rewards,1,0
+R0098,6,hardware wallet support,0,0
+R0098,6,copy trading,0,1
+R0098,6,insurance cover,0,0
+R0098,7,instant withdrawal,0,0
+R0098,7,tax reports,0,1
+R0098,7,hardware wallet support,0,0
+R0098,7,auto-compounding,1,0
+R0098,8,tax reports,0,0
+R0098,8,staking rewards,0,0
+R0098,8,copy trading,0,1
+R0098,8,instant withdrawal,1,0
+R0099,1,copy trading,0,0
+R0099,1,instant withdrawal,1,0
+R0099,1,staking rewards,0,1
+R0099,1,tax reports,0,0
+R0099,2,tax reports,0,0
+R0099,2,auto-compounding,0,1
+R0099,2,instant withdrawal,1,0
+R0099,2,insurance cover,0,0
+R0099,3,instant withdrawal,1,0
+R0099,3,auto-compounding,0,0
+R0099,3,staking rewards,0,0
+R0099,3,price alerts,0,1
+R0099,4,insurance cover,0,0
+R0099,4,tax reports,0,1
+R0099,4,staking rewards,0,0
+R0099,4,instant withdrawal,1,0
+R0099,5,auto-compounding,0,0
+R0099,5,instant withdrawal,1,0
+R0099,5,price alerts,0,1
+R0099,5,insurance cover,0,0
+R0099,6,tax reports,0,0
+R0099,6,price alerts,1,0
+R0099,6,insurance cover,0,1
+R0099,6,instant withdrawal,0,0
+R0099,7,hardware wallet support,0,1
+R0099,7,price alerts,0,0
+R0099,7,tax reports,0,0
+R0099,7,copy trading,1,0
+R0099,8,price alerts,0,1
+R0099,8,auto-compounding,0,0
+R0099,8,tax reports,0,0
+R0099,8,staking rewards,1,0
+R0100,1,instant withdrawal,1,0
+R0100,1,price alerts,0,1
+R0100,1,auto-compounding,0,0
+R0100,1,hardware wallet support,0,0
+R0100,2,copy trading,0,0
+R0100,2,staking rewards,0,0
+R0100,2,instant withdrawal,1,0
+R0100,2,hardware wallet support,0,1
+R0100,3,auto-compounding,1,0
+R0100,3,price alerts,0,1
+R0100,3,instant withdrawal,0,0
+R0100,3,hardware wallet support,0,0
+R0100,4,price alerts,0,1
+R0100,4,copy trading,0,0
+R0100,4,hardware wallet support,0,0
+R0100,4,auto-compounding,1,0
+R0100,5,tax reports,0,1
+R0100,5,hardware wallet support,0,0
+R0100,5,insurance cover,1,0
+R0100,5,staking rewards,0,0
+R0100,6,auto-compounding,1,0
+R0100,6,hardware wallet support,0,1
+R0100,6,insurance cover,0,0
+R0100,6,instant withdrawal,0,0
+R0100,7,instant withdrawal,0,0
+R0100,7,price alerts,1,0
+R0100,7,auto-compounding,0,0
+R0100,7,staking rewards,0,1
+R0100,8,price alerts,0,1
+R0100,8,insurance cover,0,0
+R0100,8,auto-compounding,0,0
+R0100,8,staking rewards,1,0
+R0101,1,copy trading,0,1
+R0101,1,auto-compounding,1,0
+R0101,1,tax reports,0,0
+R0101,1,insurance cover,0,0
+R0101,2,auto-compounding,1,0
+R0101,2,price alerts,0,0
+R0101,2,insurance cover,0,0
+R0101,2,tax reports,0,1
+R0101,3,staking rewards,1,0
+R0101,3,auto-compounding,0,0
+R0101,3,price alerts,0,0
+R0101,3,copy trading,0,1
+R0101,4,copy trading,0,1
+R0101,4,staking rewards,0,0
+R0101,4,tax reports,0,0
+R0101,4,auto-compounding,1,0
+R0101,5,auto-compounding,1,0
+R0101,5,staking rewards,0,0
+R0101,5,hardware wallet support,0,1
+R0101,5,tax reports,0,0
+R0101,6,tax reports,0,0
+R0101,6,instant withdrawal,1,0
+R0101,6,auto-compounding,0,0
+R0101,6,copy trading,0,1
+R0101,7,tax reports,0,0
+R0101,7,auto-compounding,0,0
+R0101,7,staking rewards,1,0
+R0101,7,copy trading,0,1
+R0101,8,copy trading,0,1
+R0101,8,staking rewards,0,0
+R0101,8,instant withdrawal,0,0
+R0101,8,insurance cover,1,0
+R0102,1,hardware wallet support,0,1
+R0102,1,staking rewards,1,0
+R0102,1,instant withdrawal,0,0
+R0102,1,copy trading,0,0
+R0102,2,tax reports,1,0
+R0102,2,price alerts,0,0
+R0102,2,hardware wallet support,0,1
+R0102,2,instant withdrawal,0,0
+R0102,3,tax reports,0,1
+R0102,3,instant withdrawal,0,0
+R0102,3,insurance cover,1,0
+R0102,3,price alerts,0,0
+R0102,4,tax reports,0,1
+R0102,4,staking rewards,1,0
+R0102,4,price alerts,0,0
+R0102,4,instant withdrawal,0,0
+R0102,5,staking rewards,1,0
+R0102,5,tax reports,0,0
+R0102,5,copy trading,0,1
+R0102,5,insurance cover,0,0
+R0102,6,price alerts,0,0
+R0102,6,copy trading,0,1
+R0102,6,staking rewards,0,0
+R0102,6,tax reports,1,0
+R0102,7,tax reports,0,0
+R0102,7,staking rewards,0,0
+R0102,7,hardware wallet support,1,0
+R0102,7,copy trading,0,1
+R0102,8,auto-compounding,0,0
+R0102,8,instant withdrawal,1,0
+R0102,8,copy trading,0,1
+R0102,8,tax reports,0,0
+R0103,1,hardware wallet support,0,1
+R0103,1,insurance cover,0,0
+R0103,1,tax reports,0,0
+R0103,1,staking rewards,1,0
+R0103,2,tax reports,0,1
+R0103,2,insurance cover,0,0
+R0103,2,price alerts,0,0
+R0103,2,auto-compounding,1,0
+R0103,3,price alerts,0,0
+R0103,3,tax reports,0,0
+R0103,3,staking rewards,0,1
+R0103,3,copy trading,1,0
+R0103,4,price alerts,0,0
+R0103,4,hardware wallet support,0,0
+R0103,4,copy trading,0,1
+R0103,4,instant withdrawal,1,0
+R0103,5,hardware wallet support,0,1
+R0103,5,staking rewards,0,0
+R0103,5,insurance cover,0,0
+R0103,5,instant withdrawal,1,0
+R0103,6,insurance cover,1,0
+R0103,6,auto-compounding,0,0
+R0103,6,tax reports,0,0
+R0103,6,price alerts,0,1
+R0103,7,tax reports,1,0
+R0103,7,instant withdrawal,0,0
+R0103,7,staking rewards,0,1
+R0103,7,hardware wallet support,0,0
+R0103,8,insurance cover,0,0
+R0103,8,hardware wallet support,0,0
+R0103,8,instant withdrawal,0,1
+R0103,8,auto-compounding,1,0
+R0104,1,staking rewards,0,1
+R0104,1,insurance cover,0,0
+R0104,1,auto-compounding,1,0
+R0104,1,price alerts,0,0
+R0104,2,instant withdrawal,1,0
+R0104,2,price alerts,0,1
+R0104,2,staking rewards,0,0
+R0104,2,copy trading,0,0
+R0104,3,staking rewards,0,0
+R0104,3,insurance cover,1,0
+R0104,3,tax reports,0,1
+R0104,3,instant withdrawal,0,0
+R0104,4,instant withdrawal,0,0
+R0104,4,copy trading,0,0
+R0104,4,staking rewards,1,0
+R0104,4,tax reports,0,1
+R0104,5,insurance cover,0,0
+R0104,5,hardware wallet support,0,0
+R0104,5,copy trading,0,1
+R0104,5,instant withdrawal,1,0
+R0104,6,tax reports,0,0
+R0104,6,auto-compounding,1,0
+R0104,6,instant withdrawal,0,0
+R0104,6,staking rewards,0,1
+R0104,7,insurance cover,1,0
+R0104,7,instant withdrawal,0,0
+R0104,7,copy trading,0,0
+R0104,7,hardware wallet support,0,1
+R0104,8,instant withdrawal,0,0
+R0104,8,hardware wallet support,0,1
+R0104,8,price alerts,0,0
+R0104,8,auto-compounding,1,0
+R0105,1,tax reports,0,0
+R0105,1,auto-compounding,1,0
+R0105,1,insurance cover,0,0
+R0105,1,staking rewards,0,1
+R0105,2,copy trading,0,1
+R0105,2,tax reports,0,0
+R0105,2,instant withdrawal,0,0
+R0105,2,auto-compounding,1,0
+R0105,3,auto-compounding,0,0
+R0105,3,tax reports,0,1
+R0105,3,staking rewards,1,0
+R0105,3,price alerts,0,0
+R0105,4,tax reports,0,0
+R0105,4,instant withdrawal,1,0
+R0105,4,hardware wallet support,0,1
+R0105,4,price alerts,0,0
+R0105,5,insurance cover,1,0
+R0105,5,hardware wallet support,0,1
+R0105,5,price alerts,0,0
+R0105,5,auto-compounding,0,0
+R0105,6,tax reports,0,0
+R0105,6,price alerts,0,1
+R0105,6,insurance cover,0,0
+R0105,6,auto-compounding,1,0
+R0105,7,staking rewards,0,0
+R0105,7,insurance cover,0,0
+R0105,7,auto-compounding,0,1
+R0105,7,instant withdrawal,1,0
+R0105,8,insurance cover,1,0
+R0105,8,copy trading,0,0
+R0105,8,price alerts,0,1
+R0105,8,tax reports,0,0
+R0106,1,instant withdrawal,1,0
+R0106,1,tax reports,0,0
+R0106,1,price alerts,0,0
+R0106,1,auto-compounding,0,1
+R0106,2,instant withdrawal,0,0
+R0106,2,hardware wallet support,1,0
+R0106,2,price alerts,0,0
+R0106,2,tax reports,0,1
+R0106,3,insurance cover,1,0
+R0106,3,copy trading,0,0
+R0106,3,hardware wallet support,0,1
+R0106,3,tax reports,0,0
+R0106,4,hardware wallet support,0,0
+R0106,4,tax reports,0,0
+R0106,4,price alerts,1,0
+R0106,4,instant withdrawal,0,1
+R0106,5,copy trading,0,1
+R0106,5,staking rewards,0,0
+R0106,5,auto-compounding,1,0
+R0106,5,insurance cover,0,0
+R0106,6,tax reports,1,0
+R0106,6,staking rewards,0,0
+R0106,6,copy trading,0,1
+R0106,6,insurance cover,0,0
+R0106,7,copy trading,0,1
+R0106,7,insurance cover,0,0
+R0106,7,tax reports,0,0
+R0106,7,instant withdrawal,1,0
+R0106,8,price alerts,0,1
+R0106,8,instant withdrawal,0,0
+R0106,8,tax reports,0,0
+R0106,8,auto-compounding,1,0
+R0107,1,auto-compounding,0,0
+R0107,1,price alerts,0,0
+R0107,1,insurance cover,0,1
+R0107,1,staking rewards,1,0
+R0107,2,copy trading,0,1
+R0107,2,insurance cover,0,0
+R0107,2,auto-compounding,1,0
+R0107,2,tax reports,0,0
+R0107,3,tax reports,1,0
+R0107,3,hardware wallet support,0,0
+R0107,3,staking rewards,0,0
+R0107,3,auto-compounding,0,1
+R0107,4,hardware wallet support,0,0
+R0107,4,instant withdrawal,1,0
+R0107,4,price alerts,0,1
+R0107,4,auto-compounding,0,0
+R0107,5,staking rewards,1,0
+R0107,5,auto-compounding,0,0
+R0107,5,tax reports,0,0
+R0107,5,hardware wallet support,0,1
+R0107,6,price alerts,0,1
+R0107,6,staking rewards,0,0
+R0107,6,copy trading,1,0
+R0107,6,auto-compounding,0,0
+R0107,7,price alerts,0,1
+R0107,7,staking rewards,0,0
+R0107,7,insurance cover,1,0
+R0107,7,auto-compounding,0,0
+R0107,8,insurance cover,0,0
+R0107,8,price alerts,0,1
+R0107,8,copy trading,0,0
+R0107,8,hardware wallet support,1,0
+R0108,1,price alerts,1,0
+R0108,1,hardware wallet support,0,0
+R0108,1,tax reports,0,1
+R0108,1,auto-compounding,0,0
+R0108,2,copy trading,0,0
+R0108,2,auto-compounding,1,0
+R0108,2,insurance cover,0,1
+R0108,2,tax reports,0,0
+R0108,3,staking rewards,0,0
+R0108,3,instant withdrawal,1,0
+R0108,3,price alerts,0,0
+R0108,3,copy trading,0,1
+R0108,4,instant withdrawal,0,0
+R0108,4,price alerts,0,0
+R0108,4,tax reports,1,0
+R0108,4,copy trading,0,1
+R0108,5,instant withdrawal,1,0
+R0108,5,copy trading,0,0
+R0108,5,tax reports,0,1
+R0108,5,price alerts,0,0
+R0108,6,copy trading,0,0
+R0108,6,staking rewards,0,0
+R0108,6,price alerts,0,1
+R0108,6,hardware wallet support,1,0
+R0108,7,copy trading,0,1
+R0108,7,insurance cover,1,0
+R0108,7,tax reports,0,0
+R0108,7,instant withdrawal,0,0
+R0108,8,staking rewards,0,0
+R0108,8,insurance cover,0,0
+R0108,8,copy trading,0,1
+R0108,8,tax reports,1,0
+R0109,1,copy trading,0,0
+R0109,1,hardware wallet support,0,0
+R0109,1,tax reports,0,1
+R0109,1,auto-compounding,1,0
+R0109,2,hardware wallet support,0,0
+R0109,2,instant withdrawal,1,0
+R0109,2,price alerts,0,1
+R0109,2,staking rewards,0,0
+R0109,3,tax reports,0,0
+R0109,3,hardware wallet support,0,1
+R0109,3,instant withdrawal,0,0
+R0109,3,insurance cover,1,0
+R0109,4,instant withdrawal,0,0
+R0109,4,auto-compounding,1,0
+R0109,4,insurance cover,0,0
+R0109,4,copy trading,0,1
+R0109,5,auto-compounding,0,0
+R0109,5,tax reports,0,1
+R0109,5,instant withdrawal,1,0
+R0109,5,insurance cover,0,0
+R0109,6,tax reports,0,1
+R0109,6,instant withdrawal,1,0
+R0109,6,price alerts,0,0
+R0109,6,insurance cover,0,0
+R0109,7,instant withdrawal,1,0
+R0109,7,staking rewards,0,0
+R0109,7,tax reports,0,1
+R0109,7,hardware wallet support,0,0
+R0109,8,insurance cover,1,0
+R0109,8,staking rewards,0,1
+R0109,8,price alerts,0,0
+R0109,8,instant withdrawal,0,0
+R0110,1,auto-compounding,1,0
+R0110,1,tax reports,0,1
+R0110,1,price alerts,0,0
+R0110,1,staking rewards,0,0
+R0110,2,auto-compounding,0,0
+R0110,2,staking rewards,0,0
+R0110,2,instant withdrawal,1,0
+R0110,2,price alerts,0,1
+R0110,3,price alerts,0,0
+R0110,3,hardware wallet support,0,0
+R0110,3,tax reports,0,1
+R0110,3,staking rewards,1,0
+R0110,4,tax reports,0,1
+R0110,4,insurance cover,0,0
+R0110,4,staking rewards,0,0
+R0110,4,auto-compounding,1,0
+R0110,5,price alerts,0,1
+R0110,5,staking rewards,0,0
+R0110,5,tax reports,1,0
+R0110,5,insurance cover,0,0
+R0110,6,tax reports,1,0
+R0110,6,staking rewards,0,1
+R0110,6,copy trading,0,0
+R0110,6,price alerts,0,0
+R0110,7,insurance cover,0,0
+R0110,7,tax reports,1,0
+R0110,7,hardware wallet support,0,1
+R0110,7,price alerts,0,0
+R0110,8,tax reports,0,1
+R0110,8,instant withdrawal,0,0
+R0110,8,staking rewards,1,0
+R0110,8,insurance cover,0,0
+R0111,1,price alerts,0,0
+R0111,1,instant withdrawal,1,0
+R0111,1,hardware wallet support,0,0
+R0111,1,copy trading,0,1
+R0111,2,staking rewards,1,0
+R0111,2,hardware wallet support,0,0
+R0111,2,insurance cover,0,0
+R0111,2,price alerts,0,1
+R0111,3,staking rewards,1,0
+R0111,3,instant withdrawal,0,0
+R0111,3,auto-compounding,0,0
+R0111,3,tax reports,0,1
+R0111,4,instant withdrawal,0,0
+R0111,4,insurance cover,1,0
+R0111,4,staking rewards,0,0
+R0111,4,hardware wallet support,0,1
+R0111,5,tax reports,0,0
+R0111,5,instant withdrawal,0,0
+R0111,5,staking rewards,0,1
+R0111,5,price alerts,1,0
+R0111,6,copy trading,0,1
+R0111,6,insurance cover,1,0
+R0111,6,hardware wallet support,0,0
+R0111,6,staking rewards,0,0
+R0111,7,insurance cover,0,0
+R0111,7,copy trading,0,1
+R0111,7,auto-compounding,1,0
+R0111,7,hardware wallet support,0,0
+R0111,8,staking rewards,0,0
+R0111,8,hardware wallet support,0,1
+R0111,8,auto-compounding,0,0
+R0111,8,instant withdrawal,1,0
+R0112,1,instant withdrawal,1,0
+R0112,1,price alerts,0,0
+R0112,1,tax reports,0,1
+R0112,1,staking rewards,0,0
+R0112,2,copy trading,0,0
+R0112,2,staking rewards,0,1
+R0112,2,tax reports,0,0
+R0112,2,instant withdrawal,1,0
+R0112,3,price alerts,0,0
+R0112,3,instant withdrawal,1,0
+R0112,3,auto-compounding,0,0
+R0112,3,insurance cover,0,1
+R0112,4,auto-compounding,0,0
+R0112,4,insurance cover,1,0
+R0112,4,price alerts,0,1
+R0112,4,hardware wallet support,0,0
+R0112,5,copy trading,0,1
+R0112,5,insurance cover,0,0
+R0112,5,auto-compounding,0,0
+R0112,5,tax reports,1,0
+R0112,6,tax reports,1,0
+R0112,6,hardware wallet support,0,1
+R0112,6,instant withdrawal,0,0
+R0112,6,copy trading,0,0
+R0112,7,auto-compounding,0,0
+R0112,7,tax reports,0,1
+R0112,7,insurance cover,1,0
+R0112,7,staking rewards,0,0
+R0112,8,copy trading,0,1
+R0112,8,insurance cover,0,0
+R0112,8,staking rewards,0,0
+R0112,8,hardware wallet support,1,0
+R0113,1,copy trading,0,1
+R0113,1,instant withdrawal,0,0
+R0113,1,hardware wallet support,0,0
+R0113,1,insurance cover,1,0
+R0113,2,copy trading,0,1
+R0113,2,staking rewards,0,0
+R0113,2,instant withdrawal,1,0
+R0113,2,hardware wallet support,0,0
+R0113,3,staking rewards,0,0
+R0113,3,price alerts,0,0
+R0113,3,copy trading,0,1
+R0113,3,insurance cover,1,0
+R0113,4,instant withdrawal,1,0
+R0113,4,copy trading,0,1
+R0113,4,insurance cover,0,0
+R0113,4,auto-compounding,0,0
+R0113,5,insurance cover,1,0
+R0113,5,instant withdrawal,0,0
+R0113,5,copy trading,0,1
+R0113,5,hardware wallet support,0,0
+R0113,6,hardware wallet support,0,0
+R0113,6,copy trading,1,0
+R0113,6,price alerts,0,0
+R0113,6,tax reports,0,1
+R0113,7,copy trading,1,0
+R0113,7,staking rewards,0,0
+R0113,7,price alerts,0,0
+R0113,7,tax reports,0,1
+R0113,8,instant withdrawal,0,0
+R0113,8,auto-compounding,0,1
+R0113,8,price alerts,1,0
+R0113,8,insurance cover,0,0
+R0114,1,insurance cover,1,0
+R0114,1,copy trading,0,1
+R0114,1,instant withdrawal,0,0
+R0114,1,tax reports,0,0
+R0114,2,insurance cover,0,0
+R0114,2,instant withdrawal,1,0
+R0114,2,price alerts,0,0
+R0114,2,tax reports,0,1
+R0114,3,price alerts,0,1
+R0114,3,staking rewards,0,0
+R0114,3,hardware wallet support,1,0
+R0114,3,auto-compounding,0,0
+R0114,4,hardware wallet support,0,1
+R0114,4,staking rewards,1,0
+R0114,4,auto-compounding,0,0
+R0114,4,instant withdrawal,0,0
+R0114,5,copy trading,0,0
+R0114,5,insurance cover,1,0
+R0114,5,tax reports,0,0
+R0114,5,staking rewards,0,1
+R0114,6,instant withdrawal,1,0
+R0114,6,auto-compounding,0,0
+R0114,6,tax reports,0,0
+R0114,6,copy trading,0,1
+R0114,7,insurance cover,0,0
+R0114,7,hardware wallet support,0,1
+R0114,7,staking rewards,1,0
+R0114,7,price alerts,0,0
+R0114,8,auto-compounding,1,0
+R0114,8,staking rewards,0,0
+R0114,8,hardware wallet support,0,0
+R0114,8,insurance cover,0,1
+R0115,1,instant withdrawal,0,0
+R0115,1,staking rewards,0,1
+R0115,1,auto-compounding,1,0
+R0115,1,insurance cover,0,0
+R0115,2,tax reports,1,0
+R0115,2,copy trading,0,1
+R0115,2,insurance cover,0,0
+R0115,2,instant withdrawal,0,0
+R0115,3,tax reports,0,0
+R0115,3,copy trading,0,1
+R0115,3,hardware wallet support,0,0
+R0115,3,instant withdrawal,1,0
+R0115,4,staking rewards,0,0
+R0115,4,auto-compounding,1,0
+R0115,4,price alerts,0,1
+R0115,4,instant withdrawal,0,0
+R0115,5,auto-compounding,0,0
+R0115,5,tax reports,0,0
+R0115,5,price alerts,0,1
+R0115,5,instant withdrawal,1,0
+R0115,6,hardware wallet support,0,1
+R0115,6,insurance cover,0,0
+R0115,6,price alerts,0,0
+R0115,6,auto-compounding,1,0
+R0115,7,instant withdrawal,0,0
+R0115,7,hardware wallet support,0,1
+R0115,7,tax reports,0,0
+R0115,7,staking rewards,1,0
+R0115,8,auto-compounding,1,0
+R0115,8,copy trading,0,0
+R0115,8,staking rewards,0,0
+R0115,8,tax reports,0,1
+R0116,1,copy trading,1,0
+R0116,1,insurance cover,0,0
+R0116,1,instant withdrawal,0,0
+R0116,1,price alerts,0,1
+R0116,2,staking rewards,1,0
+R0116,2,auto-compounding,0,0
+R0116,2,insurance cover,0,0
+R0116,2,price alerts,0,1
+R0116,3,tax reports,0,0
+R0116,3,insurance cover,0,1
+R0116,3,instant withdrawal,1,0
+R0116,3,auto-compounding,0,0
+R0116,4,tax reports,0,0
+R0116,4,insurance cover,1,0
+R0116,4,price alerts,0,1
+R0116,4,hardware wallet support,0,0
+R0116,5,auto-compounding,0,0
+R0116,5,tax reports,0,0
+R0116,5,insurance cover,1,0
+R0116,5,copy trading,0,1
+R0116,6,copy trading,0,0
+R0116,6,price alerts,0,1
+R0116,6,instant withdrawal,1,0
+R0116,6,tax reports,0,0
+R0116,7,instant withdrawal,1,0
+R0116,7,insurance cover,0,0
+R0116,7,price alerts,0,1
+R0116,7,hardware wallet support,0,0
+R0116,8,insurance cover,0,1
+R0116,8,staking rewards,0,0
+R0116,8,instant withdrawal,1,0
+R0116,8,tax reports,0,0
+R0117,1,price alerts,1,0
+R0117,1,tax reports,0,0
+R0117,1,copy trading,0,1
+R0117,1,hardware wallet support,0,0
+R0117,2,price alerts,0,0
+R0117,2,tax reports,1,0
+R0117,2,staking rewards,0,0
+R0117,2,instant withdrawal,0,1
+R0117,3,tax reports,1,0
+R0117,3,auto-compounding,0,0
+R0117,3,hardware wallet support,0,0
+R0117,3,price alerts,0,1
+R0117,4,instant withdrawal,0,0
+R0117,4,copy trading,0,0
+R0117,4,tax reports,0,1
+R0117,4,hardware wallet support,1,0
+R0117,5,insurance cover,1,0
+R0117,5,copy trading,0,1
+R0117,5,price alerts,0,0
+R0117,5,auto-compounding,0,0
+R0117,6,auto-compounding,0,1
+R0117,6,hardware wallet support,0,0
+R0117,6,insurance cover,1,0
+R0117,6,copy trading,0,0
+R0117,7,instant withdrawal,0,0
+R0117,7,auto-compounding,1,0
+R0117,7,staking rewards,0,0
+R0117,7,hardware wallet support,0,1
+R0117,8,copy trading,0,0
+R0117,8,hardware wallet support,1,0
+R0117,8,auto-compounding,0,0
+R0117,8,staking rewards,0,1
+R0118,1,insurance cover,0,0
+R0118,1,auto-compounding,1,0
+R0118,1,price alerts,0,0
+R0118,1,tax reports,0,1
+R0118,2,copy trading,0,1
+R0118,2,auto-compounding,0,0
+R0118,2,hardware wallet support,0,0
+R0118,2,insurance cover,1,0
+R0118,3,price alerts,0,1
+R0118,3,staking rewards,0,0
+R0118,3,insurance cover,0,0
+R0118,3,instant withdrawal,1,0
+R0118,4,insurance cover,0,0
+R0118,4,tax reports,1,0
+R0118,4,copy trading,0,1
+R0118,4,staking rewards,0,0
+R0118,5,insurance cover,0,0
+R0118,5,hardware wallet support,0,0
+R0118,5,staking rewards,0,1
+R0118,5,tax reports,1,0
+R0118,6,hardware wallet support,0,1
+R0118,6,insurance cover,1,0
+R0118,6,staking rewards,0,0
+R0118,6,copy trading,0,0
+R0118,7,insurance cover,0,0
+R0118,7,staking rewards,1,0
+R0118,7,hardware wallet support,0,1
+R0118,7,tax reports,0,0
+R0118,8,instant withdrawal,1,0
+R0118,8,auto-compounding,0,0
+R0118,8,staking rewards,0,0
+R0118,8,price alerts,0,1
+R0119,1,insurance cover,1,0
+R0119,1,hardware wallet support,0,1
+R0119,1,auto-compounding,0,0
+R0119,1,instant withdrawal,0,0
+R0119,2,staking rewards,0,0
+R0119,2,hardware wallet support,0,0
+R0119,2,instant withdrawal,1,0
+R0119,2,tax reports,0,1
+R0119,3,hardware wallet support,0,0
+R0119,3,auto-compounding,1,0
+R0119,3,tax reports,0,0
+R0119,3,price alerts,0,1
+R0119,4,auto-compounding,0,0
+R0119,4,copy trading,0,1
+R0119,4,instant withdrawal,1,0
+R0119,4,tax reports,0,0
+R0119,5,staking rewards,0,1
+R0119,5,copy trading,0,0
+R0119,5,instant withdrawal,1,0
+R0119,5,tax reports,0,0
+R0119,6,hardware wallet support,0,0
+R0119,6,insurance cover,0,0
+R0119,6,instant withdrawal,1,0
+R0119,6,price alerts,0,1
+R0119,7,auto-compounding,0,0
+R0119,7,insurance cover,0,0
+R0119,7,price alerts,1,0
+R0119,7,tax reports,0,1
+R0119,8,tax reports,0,0
+R0119,8,insurance cover,0,0
+R0119,8,staking rewards,1,0
+R0119,8,copy trading,0,1
+R0120,1,copy trading,0,1
+R0120,1,price alerts,1,0
+R0120,1,auto-compounding,0,0
+R0120,1,tax reports,0,0
+R0120,2,insurance cover,1,0
+R0120,2,price alerts,0,0
+R0120,2,instant withdrawal,0,0
+R0120,2,tax reports,0,1
+R0120,3,copy trading,0,0
+R0120,3,auto-compounding,1,0
+R0120,3,price alerts,0,1
+R0120,3,staking rewards,0,0
+R0120,4,tax reports,0,0
+R0120,4,insurance cover,1,0
+R0120,4,price alerts,0,0
+R0120,4,staking rewards,0,1
+R0120,5,copy trading,0,1
+R0120,5,hardware wallet support,1,0
+R0120,5,tax reports,0,0
+R0120,5,insurance cover,0,0
+R0120,6,insurance cover,0,0
+R0120,6,instant withdrawal,0,0
+R0120,6,hardware wallet support,0,1
+R0120,6,auto-compounding,1,0
+R0120,7,price alerts,0,0
+R0120,7,instant withdrawal,1,0
+R0120,7,insurance cover,0,1
+R0120,7,tax reports,0,0
+R0120,8,tax reports,0,0
+R0120,8,copy trading,1,0
+R0120,8,hardware wallet support,0,0
+R0120,8,price alerts,0,1
+R0121,1,tax reports,1,0
+R0121,1,price alerts,0,0
+R0121,1,staking rewards,0,0
+R0121,1,auto-compounding,0,1
+R0121,2,auto-compounding,1,0
+R0121,2,tax reports,0,0
+R0121,2,hardware wallet support,0,0
+R0121,2,copy trading,0,1
+R0121,3,auto-compounding,1,0
+R0121,3,staking rewards,0,0
+R0121,3,insurance cover,0,0
+R0121,3,hardware wallet support,0,1
+R0121,4,staking rewards,0,1
+R0121,4,instant withdrawal,1,0
+R0121,4,hardware wallet support,0,0
+R0121,4,auto-compounding,0,0
+R0121,5,price alerts,0,0
+R0121,5,tax reports,1,0
+R0121,5,instant withdrawal,0,1
+R0121,5,copy trading,0,0
+R0121,6,auto-compounding,0,0
+R0121,6,insurance cover,1,0
+R0121,6,hardware wallet support,0,1
+R0121,6,tax reports,0,0
+R0121,7,staking rewards,0,0
+R0121,7,copy trading,0,1
+R0121,7,insurance cover,0,0
+R0121,7,instant withdrawal,1,0
+R0121,8,auto-compounding,0,1
+R0121,8,tax reports,0,0
+R0121,8,instant withdrawal,1,0
+R0121,8,insurance cover,0,0
+R0122,1,price alerts,0,0
+R0122,1,instant withdrawal,1,0
+R0122,1,staking rewards,0,0
+R0122,1,copy trading,0,1
+R0122,2,hardware wallet support,0,0
+R0122,2,price alerts,1,0
+R0122,2,tax reports,0,0
+R0122,2,staking rewards,0,1
+R0122,3,copy trading,0,0
+R0122,3,staking rewards,1,0
+R0122,3,insurance cover,0,0
+R0122,3,tax reports,0,1
+R0122,4,hardware wallet support,0,1
+R0122,4,insurance cover,1,0
+R0122,4,copy trading,0,0
+R0122,4,tax reports,0,0
+R0122,5,tax reports,0,0
+R0122,5,hardware wallet support,0,1
+R0122,5,price alerts,0,0
+R0122,5,staking rewards,1,0
+R0122,6,staking rewards,1,0
+R0122,6,copy trading,0,0
+R0122,6,tax reports,0,1
+R0122,6,instant withdrawal,0,0
+R0122,7,auto-compounding,1,0
+R0122,7,insurance cover,0,1
+R0122,7,tax reports,0,0
+R0122,7,instant withdrawal,0,0
+R0122,8,hardware wallet support,0,0
+R0122,8,copy trading,0,1
+R0122,8,instant withdrawal,0,0
+R0122,8,auto-compounding,1,0
+R0123,1,copy trading,0,1
+R0123,1,tax reports,0,0
+R0123,1,price alerts,0,0
+R0123,1,instant withdrawal,1,0
+R0123,2,instant withdrawal,0,0
+R0123,2,auto-compounding,0,1
+R0123,2,insurance cover,0,0
+R0123,2,price alerts,1,0
+R0123,3,copy trading,0,0
+R0123,3,tax reports,0,1
+R0123,3,hardware wallet support,0,0
+R0123,3,instant withdrawal,1,0
+R0123,4,hardware wallet support,0,1
+R0123,4,copy trading,0,0
+R0123,4,instant withdrawal,0,0
+R0123,4,staking rewards,1,0
+R0123,5,staking rewards,0,0
+R0123,5,insurance cover,1,0
+R0123,5,auto-compounding,0,0
+R0123,5,instant withdrawal,0,1
+R0123,6,price alerts,1,0
+R0123,6,insurance cover,0,0
+R0123,6,copy trading,0,0
+R0123,6,staking rewards,0,1
+R0123,7,hardware wallet support,1,0
+R0123,7,auto-compounding,0,1
+R0123,7,staking rewards,0,0
+R0123,7,insurance cover,0,0
+R0123,8,staking rewards,1,0
+R0123,8,insurance cover,0,0
+R0123,8,instant withdrawal,0,1
+R0123,8,auto-compounding,0,0
+R0124,1,copy trading,0,1
+R0124,1,hardware wallet support,0,0
+R0124,1,price alerts,0,0
+R0124,1,staking rewards,1,0
+R0124,2,copy trading,0,1
+R0124,2,instant withdrawal,0,0
+R0124,2,auto-compounding,1,0
+R0124,2,hardware wallet support,0,0
+R0124,3,hardware wallet support,0,1
+R0124,3,staking rewards,1,0
+R0124,3,tax reports,0,0
+R0124,3,insurance cover,0,0
+R0124,4,insurance cover,1,0
+R0124,4,price alerts,0,1
+R0124,4,copy trading,0,0
+R0124,4,auto-compounding,0,0
+R0124,5,insurance cover,0,0
+R0124,5,price alerts,0,1
+R0124,5,staking rewards,1,0
+R0124,5,tax reports,0,0
+R0124,6,insurance cover,0,0
+R0124,6,staking rewards,0,0
+R0124,6,tax reports,0,1
+R0124,6,instant withdrawal,1,0
+R0124,7,tax reports,0,0
+R0124,7,copy trading,0,1
+R0124,7,instant withdrawal,1,0
+R0124,7,price alerts,0,0
+R0124,8,staking rewards,0,1
+R0124,8,auto-compounding,0,0
+R0124,8,instant withdrawal,1,0
+R0124,8,price alerts,0,0
+R0125,1,price alerts,0,1
+R0125,1,instant withdrawal,1,0
+R0125,1,staking rewards,0,0
+R0125,1,auto-compounding,0,0
+R0125,2,copy trading,0,0
+R0125,2,hardware wallet support,0,0
+R0125,2,instant withdrawal,1,0
+R0125,2,price alerts,0,1
+R0125,3,insurance cover,1,0
+R0125,3,hardware wallet support,0,0
+R0125,3,copy trading,0,1
+R0125,3,price alerts,0,0
+R0125,4,auto-compounding,1,0
+R0125,4,copy trading,0,0
+R0125,4,price alerts,0,1
+R0125,4,staking rewards,0,0
+R0125,5,price alerts,0,0
+R0125,5,insurance cover,0,1
+R0125,5,instant withdrawal,0,0
+R0125,5,copy trading,1,0
+R0125,6,copy trading,0,0
+R0125,6,hardware wallet support,0,0
+R0125,6,auto-compounding,1,0
+R0125,6,tax reports,0,1
+R0125,7,insurance cover,0,0
+R0125,7,price alerts,0,0
+R0125,7,copy trading,0,1
+R0125,7,instant withdrawal,1,0
+R0125,8,instant withdrawal,1,0
+R0125,8,hardware wallet support,0,0
+R0125,8,tax reports,0,1
+R0125,8,price alerts,0,0
+R0126,1,staking rewards,0,1
+R0126,1,price alerts,1,0
+R0126,1,instant withdrawal,0,0
+R0126,1,tax reports,0,0
+R0126,2,insurance cover,1,0
+R0126,2,price alerts,0,1
+R0126,2,tax reports,0,0
+R0126,2,instant withdrawal,0,0
+R0126,3,copy trading,0,0
+R0126,3,insurance cover,0,0
+R0126,3,instant withdrawal,1,0
+R0126,3,tax reports,0,1
+R0126,4,instant withdrawal,0,0
+R0126,4,hardware wallet support,1,0
+R0126,4,insurance cover,0,1
+R0126,4,staking rewards,0,0
+R0126,5,copy trading,0,1
+R0126,5,price alerts,0,0
+R0126,5,insurance cover,0,0
+R0126,5,hardware wallet support,1,0
+R0126,6,insurance cover,1,0
+R0126,6,copy trading,0,1
+R0126,6,staking rewards,0,0
+R0126,6,price alerts,0,0
+R0126,7,hardware wallet support,0,0
+R0126,7,price alerts,0,1
+R0126,7,insurance cover,0,0
+R0126,7,auto-compounding,1,0
+R0126,8,auto-compounding,0,0
+R0126,8,copy trading,0,1
+R0126,8,price alerts,0,0
+R0126,8,tax reports,1,0
+R0127,1,hardware wallet support,0,0
+R0127,1,staking rewards,0,0
+R0127,1,copy trading,0,1
+R0127,1,insurance cover,1,0
+R0127,2,auto-compounding,0,0
+R0127,2,staking rewards,1,0
+R0127,2,hardware wallet support,0,1
+R0127,2,insurance cover,0,0
+R0127,3,auto-compounding,1,0
+R0127,3,instant withdrawal,0,0
+R0127,3,price alerts,0,1
+R0127,3,staking rewards,0,0
+R0127,4,price alerts,0,1
+R0127,4,tax reports,1,0
+R0127,4,instant withdrawal,0,0
+R0127,4,copy trading,0,0
+R0127,5,staking rewards,0,1
+R0127,5,instant withdrawal,0,0
+R0127,5,auto-compounding,1,0
+R0127,5,hardware wallet support,0,0
+R0127,6,staking rewards,0,0
+R0127,6,copy trading,0,1
+R0127,6,instant withdrawal,1,0
+R0127,6,auto-compounding,0,0
+R0127,7,tax reports,0,0
+R0127,7,hardware wallet support,0,0
+R0127,7,auto-compounding,1,0
+R0127,7,price alerts,0,1
+R0127,8,tax reports,1,0
+R0127,8,price alerts,0,1
+R0127,8,copy trading,0,0
+R0127,8,auto-compounding,0,0
+R0128,1,copy trading,0,0
+R0128,1,insurance cover,0,0
+R0128,1,instant withdrawal,1,0
+R0128,1,staking rewards,0,1
+R0128,2,price alerts,0,1
+R0128,2,staking rewards,1,0
+R0128,2,hardware wallet support,0,0
+R0128,2,copy trading,0,0
+R0128,3,tax reports,1,0
+R0128,3,hardware wallet support,0,0
+R0128,3,copy trading,0,1
+R0128,3,instant withdrawal,0,0
+R0128,4,hardware wallet support,0,0
+R0128,4,tax reports,0,1
+R0128,4,copy trading,1,0
+R0128,4,price alerts,0,0
+R0128,5,instant withdrawal,1,0
+R0128,5,copy trading,0,1
+R0128,5,price alerts,0,0
+R0128,5,tax reports,0,0
+R0128,6,hardware wallet support,0,0
+R0128,6,staking rewards,1,0
+R0128,6,insurance cover,0,0
+R0128,6,copy trading,0,1
+R0128,7,hardware wallet support,0,0
+R0128,7,staking rewards,1,0
+R0128,7,tax reports,0,1
+R0128,7,copy trading,0,0
+R0128,8,tax reports,0,0
+R0128,8,price alerts,0,1
+R0128,8,staking rewards,0,0
+R0128,8,instant withdrawal,1,0
+R0129,1,insurance cover,1,0
+R0129,1,hardware wallet support,0,0
+R0129,1,auto-compounding,0,0
+R0129,1,copy trading,0,1
+R0129,2,copy trading,0,1
+R0129,2,staking rewards,0,0
+R0129,2,auto-compounding,0,0
+R0129,2,tax reports,1,0
+R0129,3,instant withdrawal,1,0
+R0129,3,copy trading,0,1
+R0129,3,hardware wallet support,0,0
+R0129,3,insurance cover,0,0
+R0129,4,hardware wallet support,0,0
+R0129,4,instant withdrawal,0,0
+R0129,4,price alerts,1,0
+R0129,4,auto-compounding,0,1
+R0129,5,copy trading,0,0
+R0129,5,price alerts,0,1
+R0129,5,auto-compounding,0,0
+R0129,5,insurance cover,1,0
+R0129,6,insurance cover,0,0
+R0129,6,tax reports,1,0
+R0129,6,price alerts,0,1
+R0129,6,instant withdrawal,0,0
+R0129,7,insurance cover,0,0
+R0129,7,instant withdrawal,1,0
+R0129,7,price alerts,0,0
+R0129,7,copy trading,0,1
+R0129,8,auto-compounding,1,0
+R0129,8,instant withdrawal,0,0
+R0129,8,staking rewards,0,0
+R0129,8,tax reports,0,1
+R0130,1,instant withdrawal,1,0
+R0130,1,staking rewards,0,1
+R0130,1,hardware wallet support,0,0
+R0130,1,tax reports,0,0
+R0130,2,hardware wallet support,0,0
+R0130,2,copy trading,1,0
+R0130,2,price alerts,0,1
+R0130,2,insurance cover,0,0
+R0130,3,auto-compounding,0,0
+R0130,3,hardware wallet support,0,0
+R0130,3,instant withdrawal,1,0
+R0130,3,copy trading,0,1
+R0130,4,staking rewards,0,0
+R0130,4,tax reports,0,1
+R0130,4,auto-compounding,1,0
+R0130,4,hardware wallet support,0,0
+R0130,5,staking rewards,0,0
+R0130,5,insurance cover,0,0
+R0130,5,auto-compounding,1,0
+R0130,5,copy trading,0,1
+R0130,6,staking rewards,0,0
+R0130,6,auto-compounding,1,0
+R0130,6,tax reports,0,0
+R0130,6,insurance cover,0,1
+R0130,7,staking rewards,0,0
+R0130,7,hardware wallet support,1,0
+R0130,7,copy trading,0,0
+R0130,7,tax reports,0,1
+R0130,8,price alerts,0,0
+R0130,8,auto-compounding,1,0
+R0130,8,hardware wallet support,0,0
+R0130,8,tax reports,0,1
+R0131,1,instant withdrawal,1,0
+R0131,1,copy trading,0,1
+R0131,1,hardware wallet support,0,0
+R0131,1,staking rewards,0,0
+R0131,2,tax reports,0,1
+R0131,2,copy trading,1,0
+R0131,2,auto-compounding,0,0
+R0131,2,hardware wallet support,0,0
+R0131,3,auto-compounding,0,0
+R0131,3,price alerts,1,0
+R0131,3,staking rewards,0,0
+R0131,3,tax reports,0,1
+R0131,4,hardware wallet support,1,0
+R0131,4,tax reports,0,1
+R0131,4,instant withdrawal,0,0
+R0131,4,auto-compounding,0,0
+R0131,5,staking rewards,1,0
+R0131,5,copy trading,0,1
+R0131,5,price alerts,0,0
+R0131,5,hardware wallet support,0,0
+R0131,6,insurance cover,1,0
+R0131,6,copy trading,0,1
+R0131,6,staking rewards,0,0
+R0131,6,auto-compounding,0,0
+R0131,7,copy trading,0,1
+R0131,7,staking rewards,0,0
+R0131,7,tax reports,0,0
+R0131,7,instant withdrawal,1,0
+R0131,8,copy trading,0,1
+R0131,8,tax reports,0,0
+R0131,8,price alerts,0,0
+R0131,8,instant withdrawal,1,0
+R0132,1,copy trading,0,1
+R0132,1,instant withdrawal,1,0
+R0132,1,staking rewards,0,0
+R0132,1,auto-compounding,0,0
+R0132,2,tax reports,0,1
+R0132,2,instant withdrawal,0,0
+R0132,2,auto-compounding,0,0
+R0132,2,copy trading,1,0
+R0132,3,hardware wallet support,1,0
+R0132,3,copy trading,0,1
+R0132,3,insurance cover,0,0
+R0132,3,staking rewards,0,0
+R0132,4,insurance cover,0,0
+R0132,4,copy trading,0,1
+R0132,4,hardware wallet support,0,0
+R0132,4,auto-compounding,1,0
+R0132,5,hardware wallet support,1,0
+R0132,5,copy trading,0,1
+R0132,5,price alerts,0,0
+R0132,5,insurance cover,0,0
+R0132,6,copy trading,0,1
+R0132,6,tax reports,0,0
+R0132,6,insurance cover,1,0
+R0132,6,price alerts,0,0
+R0132,7,staking rewards,0,0
+R0132,7,hardware wallet support,0,1
+R0132,7,instant withdrawal,1,0
+R0132,7,tax reports,0,0
+R0132,8,insurance cover,0,0
+R0132,8,instant withdrawal,0,0
+R0132,8,copy trading,0,1
+R0132,8,auto-compounding,1,0
+R0133,1,staking rewards,0,0
+R0133,1,tax reports,0,1
+R0133,1,hardware wallet support,0,0
+R0133,1,instant withdrawal,1,0
+R0133,2,tax reports,0,1
+R0133,2,instant withdrawal,0,0
+R0133,2,hardware wallet support,0,0
+R0133,2,auto-compounding,1,0
+R0133,3,auto-compounding,1,0
+R0133,3,instant withdrawal,0,0
+R0133,3,hardware wallet support,0,0
+R0133,3,staking rewards,0,1
+R0133,4,auto-compounding,1,0
+R0133,4,insurance cover,0,0
+R0133,4,copy trading,0,1
+R0133,4,price alerts,0,0
+R0133,5,instant withdrawal,0,0
+R0133,5,staking rewards,0,1
+R0133,5,auto-compounding,0,0
+R0133,5,insurance cover,1,0
+R0133,6,tax reports,0,0
+R0133,6,hardware wallet support,0,1
+R0133,6,insurance cover,0,0
+R0133,6,staking rewards,1,0
+R0133,7,copy trading,0,1
+R0133,7,staking rewards,0,0
+R0133,7,price alerts,0,0
+R0133,7,auto-compounding,1,0
+R0133,8,hardware wallet support,0,0
+R0133,8,instant withdrawal,1,0
+R0133,8,tax reports,0,1
+R0133,8,copy trading,0,0
+R0134,1,staking rewards,0,0
+R0134,1,copy trading,0,0
+R0134,1,hardware wallet support,0,1
+R0134,1,instant withdrawal,1,0
+R0134,2,hardware wallet support,0,1
+R0134,2,staking rewards,1,0
+R0134,2,auto-compounding,0,0
+R0134,2,tax reports,0,0
+R0134,3,auto-compounding,1,0
+R0134,3,insurance cover,0,1
+R0134,3,price alerts,0,0
+R0134,3,instant withdrawal,0,0
+R0134,4,copy trading,0,0
+R0134,4,instant withdrawal,1,0
+R0134,4,auto-compounding,0,0
+R0134,4,hardware wallet support,0,1
+R0134,5,tax reports,0,1
+R0134,5,auto-compounding,1,0
+R0134,5,price alerts,0,0
+R0134,5,hardware wallet support,0,0
+R0134,6,hardware wallet support,0,0
+R0134,6,auto-compounding,1,0
+R0134,6,price alerts,0,0
+R0134,6,copy trading,0,1
+R0134,7,auto-compounding,0,0
+R0134,7,tax reports,0,1
+R0134,7,insurance cover,1,0
+R0134,7,hardware wallet support,0,0
+R0134,8,insurance cover,1,0
+R0134,8,auto-compounding,0,0
+R0134,8,copy trading,0,1
+R0134,8,instant withdrawal,0,0
+R0135,1,copy trading,1,0
+R0135,1,tax reports,0,0
+R0135,1,hardware wallet support,0,0
+R0135,1,staking rewards,0,1
+R0135,2,auto-compounding,1,0
+R0135,2,instant withdrawal,0,0
+R0135,2,insurance cover,0,0
+R0135,2,tax reports,0,1
+R0135,3,copy trading,0,0
+R0135,3,instant withdrawal,0,0
+R0135,3,price alerts,1,0
+R0135,3,tax reports,0,1
+R0135,4,instant withdrawal,1,0
+R0135,4,hardware wallet support,0,1
+R0135,4,auto-compounding,0,0
+R0135,4,insurance cover,0,0
+R0135,5,hardware wallet support,0,1
+R0135,5,price alerts,0,0
+R0135,5,instant withdrawal,0,0
+R0135,5,auto-compounding,1,0
+R0135,6,tax reports,0,0
+R0135,6,price alerts,0,1
+R0135,6,hardware wallet support,0,0
+R0135,6,instant withdrawal,1,0
+R0135,7,copy trading,0,0
+R0135,7,tax reports,0,1
+R0135,7,price alerts,1,0
+R0135,7,insurance cover,0,0
+R0135,8,price alerts,0,0
+R0135,8,hardware wallet support,0,1
+R0135,8,auto-compounding,0,0
+R0135,8,staking rewards,1,0
+R0136,1,hardware wallet support,0,0
+R0136,1,staking rewards,0,0
+R0136,1,tax reports,1,0
+R0136,1,insurance cover,0,1
+R0136,2,staking rewards,0,0
+R0136,2,insurance cover,1,0
+R0136,2,hardware wallet support,0,1
+R0136,2,copy trading,0,0
+R0136,3,hardware wallet support,0,0
+R0136,3,instant withdrawal,0,0
+R0136,3,insurance cover,0,1
+R0136,3,staking rewards,1,0
+R0136,4,staking rewards,0,0
+R0136,4,tax reports,0,0
+R0136,4,copy trading,0,1
+R0136,4,hardware wallet support,1,0
+R0136,5,copy trading,0,1
+R0136,5,hardware wallet support,0,0
+R0136,5,tax reports,0,0
+R0136,5,price alerts,1,0
+R0136,6,insurance cover,0,0
+R0136,6,hardware wallet support,0,1
+R0136,6,instant withdrawal,1,0
+R0136,6,price alerts,0,0
+R0136,7,auto-compounding,1,0
+R0136,7,staking rewards,0,0
+R0136,7,hardware wallet support,0,0
+R0136,7,tax reports,0,1
+R0136,8,price alerts,0,0
+R0136,8,tax reports,0,0
+R0136,8,instant withdrawal,1,0
+R0136,8,hardware wallet support,0,1
+R0137,1,copy trading,0,1
+R0137,1,auto-compounding,1,0
+R0137,1,staking rewards,0,0
+R0137,1,insurance cover,0,0
+R0137,2,hardware wallet support,0,0
+R0137,2,insurance cover,0,0
+R0137,2,tax reports,1,0
+R0137,2,price alerts,0,1
+R0137,3,staking rewards,0,0
+R0137,3,price alerts,0,1
+R0137,3,instant withdrawal,1,0
+R0137,3,tax reports,0,0
+R0137,4,tax reports,0,0
+R0137,4,hardware wallet support,0,1
+R0137,4,staking rewards,1,0
+R0137,4,auto-compounding,0,0
+R0137,5,insurance cover,0,0
+R0137,5,price alerts,0,1
+R0137,5,copy trading,0,0
+R0137,5,instant withdrawal,1,0
+R0137,6,tax reports,0,0
+R0137,6,staking rewards,0,1
+R0137,6,auto-compounding,1,0
+R0137,6,copy trading,0,0
+R0137,7,tax reports,0,0
+R0137,7,auto-compounding,0,1
+R0137,7,price alerts,1,0
+R0137,7,insurance cover,0,0
+R0137,8,auto-compounding,1,0
+R0137,8,price alerts,0,1
+R0137,8,insurance cover,0,0
+R0137,8,hardware wallet support,0,0
+R0138,1,tax reports,0,0
+R0138,1,instant withdrawal,1,0
+R0138,1,staking rewards,0,0
+R0138,1,copy trading,0,1
+R0138,2,instant withdrawal,0,0
+R0138,2,tax reports,1,0
+R0138,2,auto-compounding,0,0
+R0138,2,staking rewards,0,1
+R0138,3,insurance cover,0,0
+R0138,3,staking rewards,0,0
+R0138,3,tax reports,0,1
+R0138,3,instant withdrawal,1,0
+R0138,4,tax reports,0,1
+R0138,4,hardware wallet support,0,0
+R0138,4,insurance cover,1,0
+R0138,4,staking rewards,0,0
+R0138,5,price alerts,0,0
+R0138,5,auto-compounding,0,1
+R0138,5,copy trading,0,0
+R0138,5,instant withdrawal,1,0
+R0138,6,instant withdrawal,1,0
+R0138,6,insurance cover,0,0
+R0138,6,auto-compounding,0,1
+R0138,6,price alerts,0,0
+R0138,7,copy trading,0,1
+R0138,7,staking rewards,1,0
+R0138,7,auto-compounding,0,0
+R0138,7,tax reports,0,0
+R0138,8,copy trading,0,1
+R0138,8,tax reports,1,0
+R0138,8,instant withdrawal,0,0
+R0138,8,hardware wallet support,0,0
+R0139,1,insurance cover,1,0
+R0139,1,price alerts,0,1
+R0139,1,auto-compounding,0,0
+R0139,1,instant withdrawal,0,0
+R0139,2,staking rewards,1,0
+R0139,2,price alerts,0,1
+R0139,2,insurance cover,0,0
+R0139,2,auto-compounding,0,0
+R0139,3,copy trading,0,0
+R0139,3,hardware wallet support,0,1
+R0139,3,insurance cover,1,0
+R0139,3,staking rewards,0,0
+R0139,4,staking rewards,0,1
+R0139,4,copy trading,1,0
+R0139,4,auto-compounding,0,0
+R0139,4,instant withdrawal,0,0
+R0139,5,auto-compounding,1,0
+R0139,5,insurance cover,0,0
+R0139,5,copy trading,0,1
+R0139,5,staking rewards,0,0
+R0139,6,hardware wallet support,0,0
+R0139,6,instant withdrawal,1,0
+R0139,6,price alerts,0,0
+R0139,6,copy trading,0,1
+R0139,7,tax reports,0,1
+R0139,7,auto-compounding,0,0
+R0139,7,staking rewards,0,0
+R0139,7,copy trading,1,0
+R0139,8,hardware wallet support,0,1
+R0139,8,price alerts,0,0
+R0139,8,tax reports,0,0
+R0139,8,copy trading,1,0
+R0140,1,instant withdrawal,0,0
+R0140,1,tax reports,0,1
+R0140,1,hardware wallet support,1,0
+R0140,1,insurance cover,0,0
+R0140,2,copy trading,0,1
+R0140,2,instant withdrawal,0,0
+R0140,2,auto-compounding,1,0
+R0140,2,staking rewards,0,0
+R0140,3,staking rewards,0,0
+R0140,3,hardware wallet support,1,0
+R0140,3,copy trading,0,1
+R0140,3,tax reports,0,0
+R0140,4,insurance cover,0,0
+R0140,4,hardware wallet support,0,1
+R0140,4,price alerts,0,0
+R0140,4,staking rewards,1,0
+R0140,5,instant withdrawal,0,0
+R0140,5,copy trading,0,1
+R0140,5,auto-compounding,0,0
+R0140,5,insurance cover,1,0
+R0140,6,auto-compounding,0,1
+R0140,6,instant withdrawal,1,0
+R0140,6,tax reports,0,0
+R0140,6,staking rewards,0,0
+R0140,7,staking rewards,0,0
+R0140,7,instant withdrawal,1,0
+R0140,7,hardware wallet support,0,1
+R0140,7,tax reports,0,0
+R0140,8,instant withdrawal,0,0
+R0140,8,staking rewards,1,0
+R0140,8,insurance cover,0,1
+R0140,8,copy trading,0,0
+R0141,1,copy trading,0,0
+R0141,1,tax reports,0,0
+R0141,1,instant withdrawal,1,0
+R0141,1,hardware wallet support,0,1
+R0141,2,instant withdrawal,0,0
+R0141,2,staking rewards,0,1
+R0141,2,insurance cover,0,0
+R0141,2,hardware wallet support,1,0
+R0141,3,hardware wallet support,0,0
+R0141,3,auto-compounding,1,0
+R0141,3,price alerts,0,1
+R0141,3,instant withdrawal,0,0
+R0141,4,price alerts,0,1
+R0141,4,hardware wallet support,0,0
+R0141,4,instant withdrawal,1,0
+R0141,4,auto-compounding,0,0
+R0141,5,insurance cover,0,0
+R0141,5,staking rewards,0,0
+R0141,5,price alerts,0,1
+R0141,5,auto-compounding,1,0
+R0141,6,hardware wallet support,0,1
+R0141,6,auto-compounding,0,0
+R0141,6,price alerts,1,0
+R0141,6,copy trading,0,0
+R0141,7,staking rewards,0,0
+R0141,7,tax reports,0,1
+R0141,7,insurance cover,1,0
+R0141,7,hardware wallet support,0,0
+R0141,8,price alerts,0,0
+R0141,8,auto-compounding,1,0
+R0141,8,tax reports,0,0
+R0141,8,hardware wallet support,0,1
+R0142,1,auto-compounding,0,0
+R0142,1,insurance cover,1,0
+R0142,1,hardware wallet support,0,0
+R0142,1,instant withdrawal,0,1
+R0142,2,auto-compounding,0,0
+R0142,2,copy trading,0,1
+R0142,2,price alerts,0,0
+R0142,2,tax reports,1,0
+R0142,3,copy trading,0,1
+R0142,3,auto-compounding,1,0
+R0142,3,price alerts,0,0
+R0142,3,instant withdrawal,0,0
+R0142,4,tax reports,0,1
+R0142,4,auto-compounding,1,0
+R0142,4,price alerts,0,0
+R0142,4,instant withdrawal,0,0
+R0142,5,insurance cover,1,0
+R0142,5,hardware wallet support,0,0
+R0142,5,tax reports,0,0
+R0142,5,copy trading,0,1
+R0142,6,insurance cover,0,1
+R0142,6,price alerts,1,0
+R0142,6,staking rewards,0,0
+R0142,6,instant withdrawal,0,0
+R0142,7,hardware wallet support,1,0
+R0142,7,auto-compounding,0,0
+R0142,7,tax reports,0,0
+R0142,7,copy trading,0,1
+R0142,8,auto-compounding,1,0
+R0142,8,tax reports,0,0
+R0142,8,staking rewards,0,0
+R0142,8,hardware wallet support,0,1
+R0143,1,instant withdrawal,1,0
+R0143,1,tax reports,0,0
+R0143,1,copy trading,0,1
+R0143,1,insurance cover,0,0
+R0143,2,tax reports,0,0
+R0143,2,price alerts,0,0
+R0143,2,hardware wallet support,0,1
+R0143,2,instant withdrawal,1,0
+R0143,3,price alerts,0,1
+R0143,3,instant withdrawal,1,0
+R0143,3,insurance cover,0,0
+R0143,3,tax reports,0,0
+R0143,4,copy trading,0,1
+R0143,4,staking rewards,0,0
+R0143,4,auto-compounding,1,0
+R0143,4,instant withdrawal,0,0
+R0143,5,hardware wallet support,0,1
+R0143,5,instant withdrawal,1,0
+R0143,5,auto-compounding,0,0
+R0143,5,copy trading,0,0
+R0143,6,instant withdrawal,1,0
+R0143,6,auto-compounding,0,0
+R0143,6,tax reports,0,1
+R0143,6,insurance cover,0,0
+R0143,7,auto-compounding,0,0
+R0143,7,insurance cover,0,0
+R0143,7,price alerts,1,0
+R0143,7,instant withdrawal,0,1
+R0143,8,instant withdrawal,1,0
+R0143,8,tax reports,0,0
+R0143,8,staking rewards,0,1
+R0143,8,auto-compounding,0,0
+R0144,1,price alerts,0,1
+R0144,1,instant withdrawal,0,0
+R0144,1,insurance cover,1,0
+R0144,1,staking rewards,0,0
+R0144,2,staking rewards,0,0
+R0144,2,auto-compounding,1,0
+R0144,2,hardware wallet support,0,0
+R0144,2,copy trading,0,1
+R0144,3,auto-compounding,0,0
+R0144,3,hardware wallet support,0,1
+R0144,3,insurance cover,1,0
+R0144,3,instant withdrawal,0,0
+R0144,4,insurance cover,0,0
+R0144,4,copy trading,0,1
+R0144,4,hardware wallet support,0,0
+R0144,4,instant withdrawal,1,0
+R0144,5,copy trading,0,1
+R0144,5,hardware wallet support,0,0
+R0144,5,tax reports,0,0
+R0144,5,auto-compounding,1,0
+R0144,6,insurance cover,1,0
+R0144,6,price alerts,0,0
+R0144,6,hardware wallet support,0,1
+R0144,6,copy trading,0,0
+R0144,7,tax reports,0,0
+R0144,7,price alerts,0,1
+R0144,7,auto-compounding,1,0
+R0144,7,staking rewards,0,0
+R0144,8,auto-compounding,0,0
+R0144,8,tax reports,0,1
+R0144,8,insurance cover,0,0
+R0144,8,staking rewards,1,0
+R0145,1,staking rewards,1,0
+R0145,1,auto-compounding,0,0
+R0145,1,tax reports,0,1
+R0145,1,copy trading,0,0
+R0145,2,hardware wallet support,0,0
+R0145,2,auto-compounding,1,0
+R0145,2,price alerts,0,1
+R0145,2,staking rewards,0,0
+R0145,3,auto-compounding,0,1
+R0145,3,copy trading,0,0
+R0145,3,price alerts,0,0
+R0145,3,instant withdrawal,1,0
+R0145,4,auto-compounding,1,0
+R0145,4,tax reports,0,1
+R0145,4,insurance cover,0,0
+R0145,4,staking rewards,0,0
+R0145,5,tax reports,0,0
+R0145,5,staking rewards,1,0
+R0145,5,instant withdrawal,0,0
+R0145,5,auto-compounding,0,1
+R0145,6,tax reports,0,1
+R0145,6,insurance cover,1,0
+R0145,6,hardware wallet support,0,0
+R0145,6,staking rewards,0,0
+R0145,7,price alerts,1,0
+R0145,7,staking rewards,0,1
+R0145,7,instant withdrawal,0,0
+R0145,7,insurance cover,0,0
+R0145,8,price alerts,0,1
+R0145,8,copy trading,0,0
+R0145,8,staking rewards,0,0
+R0145,8,hardware wallet support,1,0
+R0146,1,hardware wallet support,0,1
+R0146,1,instant withdrawal,1,0
+R0146,1,auto-compounding,0,0
+R0146,1,staking rewards,0,0
+R0146,2,copy trading,0,1
+R0146,2,hardware wallet support,0,0
+R0146,2,insurance cover,0,0
+R0146,2,instant withdrawal,1,0
+R0146,3,insurance cover,0,0
+R0146,3,staking rewards,0,0
+R0146,3,auto-compounding,1,0
+R0146,3,copy trading,0,1
+R0146,4,instant withdrawal,0,0
+R0146,4,insurance cover,1,0
+R0146,4,tax reports,0,1
+R0146,4,auto-compounding,0,0
+R0146,5,copy trading,0,1
+R0146,5,price alerts,0,0
+R0146,5,staking rewards,1,0
+R0146,5,tax reports,0,0
+R0146,6,copy trading,0,1
+R0146,6,price alerts,1,0
+R0146,6,staking rewards,0,0
+R0146,6,hardware wallet support,0,0
+R0146,7,hardware wallet support,0,1
+R0146,7,instant withdrawal,0,0
+R0146,7,auto-compounding,0,0
+R0146,7,insurance cover,1,0
+R0146,8,instant withdrawal,1,0
+R0146,8,auto-compounding,0,0
+R0146,8,price alerts,0,0
+R0146,8,insurance cover,0,1
+R0147,1,insurance cover,0,0
+R0147,1,copy trading,0,0
+R0147,1,price alerts,0,1
+R0147,1,instant withdrawal,1,0
+R0147,2,staking rewards,0,0
+R0147,2,tax reports,0,0
+R0147,2,hardware wallet support,1,0
+R0147,2,insurance cover,0,1
+R0147,3,tax reports,0,1
+R0147,3,instant withdrawal,0,0
+R0147,3,staking rewards,1,0
+R0147,3,insurance cover,0,0
+R0147,4,copy trading,0,1
+R0147,4,instant withdrawal,0,0
+R0147,4,hardware wallet support,0,0
+R0147,4,auto-compounding,1,0
+R0147,5,auto-compounding,0,0
+R0147,5,insurance cover,1,0
+R0147,5,tax reports,0,0
+R0147,5,hardware wallet support,0,1
+R0147,6,insurance cover,0,0
+R0147,6,price alerts,0,1
+R0147,6,staking rewards,1,0
+R0147,6,instant withdrawal,0,0
+R0147,7,auto-compounding,0,0
+R0147,7,instant withdrawal,0,0
+R0147,7,hardware wallet support,1,0
+R0147,7,copy trading,0,1
+R0147,8,instant withdrawal,0,0
+R0147,8,hardware wallet support,0,1
+R0147,8,price alerts,0,0
+R0147,8,tax reports,1,0
+R0148,1,hardware wallet support,0,0
+R0148,1,instant withdrawal,0,0
+R0148,1,auto-compounding,1,0
+R0148,1,copy trading,0,1
+R0148,2,copy trading,0,1
+R0148,2,staking rewards,0,0
+R0148,2,insurance cover,0,0
+R0148,2,tax reports,1,0
+R0148,3,hardware wallet support,0,1
+R0148,3,auto-compounding,0,0
+R0148,3,instant withdrawal,1,0
+R0148,3,price alerts,0,0
+R0148,4,price alerts,0,0
+R0148,4,copy trading,0,1
+R0148,4,auto-compounding,1,0
+R0148,4,hardware wallet support,0,0
+R0148,5,instant withdrawal,1,0
+R0148,5,hardware wallet support,0,0
+R0148,5,copy trading,0,1
+R0148,5,tax reports,0,0
+R0148,6,hardware wallet support,0,0
+R0148,6,tax reports,0,0
+R0148,6,copy trading,0,1
+R0148,6,auto-compounding,1,0
+R0148,7,hardware wallet support,0,0
+R0148,7,auto-compounding,1,0
+R0148,7,tax reports,0,1
+R0148,7,staking rewards,0,0
+R0148,8,insurance cover,1,0
+R0148,8,price alerts,0,1
+R0148,8,staking rewards,0,0
+R0148,8,instant withdrawal,0,0
+R0149,1,insurance cover,0,0
+R0149,1,price alerts,0,0
+R0149,1,staking rewards,0,1
+R0149,1,instant withdrawal,1,0
+R0149,2,price alerts,0,0
+R0149,2,copy trading,0,1
+R0149,2,instant withdrawal,0,0
+R0149,2,auto-compounding,1,0
+R0149,3,hardware wallet support,1,0
+R0149,3,tax reports,0,0
+R0149,3,staking rewards,0,0
+R0149,3,insurance cover,0,1
+R0149,4,tax reports,0,0
+R0149,4,instant withdrawal,1,0
+R0149,4,copy trading,0,0
+R0149,4,price alerts,0,1
+R0149,5,insurance cover,1,0
+R0149,5,staking rewards,0,1
+R0149,5,instant withdrawal,0,0
+R0149,5,price alerts,0,0
+R0149,6,hardware wallet support,0,1
+R0149,6,insurance cover,1,0
+R0149,6,tax reports,0,0
+R0149,6,auto-compounding,0,0
+R0149,7,tax reports,0,0
+R0149,7,staking rewards,0,1
+R0149,7,instant withdrawal,1,0
+R0149,7,hardware wallet support,0,0
+R0149,8,tax reports,0,1
+R0149,8,copy trading,1,0
+R0149,8,auto-compounding,0,0
+R0149,8,price alerts,0,0
+R0150,1,staking rewards,0,1
+R0150,1,auto-compounding,1,0
+R0150,1,hardware wallet support,0,0
+R0150,1,tax reports,0,0
+R0150,2,price alerts,1,0
+R0150,2,copy trading,0,0
+R0150,2,hardware wallet support,0,1
+R0150,2,insurance cover,0,0
+R0150,3,price alerts,0,1
+R0150,3,hardware wallet support,1,0
+R0150,3,insurance cover,0,0
+R0150,3,tax reports,0,0
+R0150,4,auto-compounding,1,0
+R0150,4,tax reports,0,0
+R0150,4,hardware wallet support,0,0
+R0150,4,copy trading,0,1
+R0150,5,tax reports,0,0
+R0150,5,instant withdrawal,1,0
+R0150,5,copy trading,0,1
+R0150,5,insurance cover,0,0
+R0150,6,tax reports,0,0
+R0150,6,instant withdrawal,1,0
+R0150,6,hardware wallet support,0,0
+R0150,6,copy trading,0,1
+R0150,7,insurance cover,1,0
+R0150,7,copy trading,0,1
+R0150,7,hardware wallet support,0,0
+R0150,7,instant withdrawal,0,0
+R0150,8,staking rewards,0,0
+R0150,8,insurance cover,0,0
+R0150,8,auto-compounding,1,0
+R0150,8,hardware wallet support,0,1
+R0151,1,price alerts,0,0
+R0151,1,tax reports,0,0
+R0151,1,auto-compounding,1,0
+R0151,1,copy trading,0,1
+R0151,2,price alerts,0,0
+R0151,2,auto-compounding,0,0
+R0151,2,staking rewards,1,0
+R0151,2,hardware wallet support,0,1
+R0151,3,price alerts,0,0
+R0151,3,copy trading,0,1
+R0151,3,instant withdrawal,1,0
+R0151,3,hardware wallet support,0,0
+R0151,4,tax reports,1,0
+R0151,4,staking rewards,0,0
+R0151,4,hardware wallet support,0,1
+R0151,4,insurance cover,0,0
+R0151,5,copy trading,0,0
+R0151,5,staking rewards,0,0
+R0151,5,tax reports,0,1
+R0151,5,instant withdrawal,1,0
+R0151,6,price alerts,0,1
+R0151,6,hardware wallet support,0,0
+R0151,6,auto-compounding,1,0
+R0151,6,tax reports,0,0
+R0151,7,copy trading,0,1
+R0151,7,staking rewards,0,0
+R0151,7,hardware wallet support,0,0
+R0151,7,tax reports,1,0
+R0151,8,insurance cover,0,0
+R0151,8,tax reports,1,0
+R0151,8,copy trading,0,1
+R0151,8,auto-compounding,0,0
+R0152,1,copy trading,0,1
+R0152,1,tax reports,1,0
+R0152,1,auto-compounding,0,0
+R0152,1,price alerts,0,0
+R0152,2,instant withdrawal,0,0
+R0152,2,hardware wallet support,0,0
+R0152,2,copy trading,0,1
+R0152,2,staking rewards,1,0
+R0152,3,auto-compounding,1,0
+R0152,3,insurance cover,0,0
+R0152,3,price alerts,0,1
+R0152,3,instant withdrawal,0,0
+R0152,4,staking rewards,1,0
+R0152,4,auto-compounding,0,0
+R0152,4,tax reports,0,1
+R0152,4,instant withdrawal,0,0
+R0152,5,tax reports,0,1
+R0152,5,price alerts,0,0
+R0152,5,hardware wallet support,0,0
+R0152,5,instant withdrawal,1,0
+R0152,6,copy trading,0,1
+R0152,6,staking rewards,0,0
+R0152,6,hardware wallet support,0,0
+R0152,6,tax reports,1,0
+R0152,7,hardware wallet support,0,1
+R0152,7,staking rewards,1,0
+R0152,7,auto-compounding,0,0
+R0152,7,tax reports,0,0
+R0152,8,hardware wallet support,0,1
+R0152,8,auto-compounding,0,0
+R0152,8,staking rewards,1,0
+R0152,8,copy trading,0,0
+R0153,1,price alerts,0,1
+R0153,1,insurance cover,0,0
+R0153,1,staking rewards,1,0
+R0153,1,instant withdrawal,0,0
+R0153,2,tax reports,0,0
+R0153,2,insurance cover,0,0
+R0153,2,auto-compounding,0,1
+R0153,2,price alerts,1,0
+R0153,3,copy trading,0,1
+R0153,3,price alerts,1,0
+R0153,3,hardware wallet support,0,0
+R0153,3,staking rewards,0,0
+R0153,4,insurance cover,0,0
+R0153,4,hardware wallet support,0,1
+R0153,4,price alerts,0,0
+R0153,4,instant withdrawal,1,0
+R0153,5,staking rewards,0,1
+R0153,5,hardware wallet support,0,0
+R0153,5,tax reports,1,0
+R0153,5,copy trading,0,0
+R0153,6,hardware wallet support,0,1
+R0153,6,auto-compounding,0,0
+R0153,6,tax reports,0,0
+R0153,6,staking rewards,1,0
+R0153,7,insurance cover,0,0
+R0153,7,staking rewards,0,1
+R0153,7,instant withdrawal,1,0
+R0153,7,auto-compounding,0,0
+R0153,8,instant withdrawal,1,0
+R0153,8,insurance cover,0,0
+R0153,8,copy trading,0,0
+R0153,8,price alerts,0,1
+R0154,1,staking rewards,0,0
+R0154,1,copy trading,0,1
+R0154,1,tax reports,1,0
+R0154,1,hardware wallet support,0,0
+R0154,2,insurance cover,0,0
+R0154,2,price alerts,0,1
+R0154,2,instant withdrawal,0,0
+R0154,2,auto-compounding,1,0
+R0154,3,auto-compounding,0,0
+R0154,3,tax reports,1,0
+R0154,3,staking rewards,0,1
+R0154,3,hardware wallet support,0,0
+R0154,4,insurance cover,1,0
+R0154,4,auto-compounding,0,0
+R0154,4,hardware wallet support,0,1
+R0154,4,tax reports,0,0
+R0154,5,hardware wallet support,0,1
+R0154,5,instant withdrawal,1,0
+R0154,5,tax reports,0,0
+R0154,5,copy trading,0,0
+R0154,6,staking rewards,0,0
+R0154,6,insurance cover,0,0
+R0154,6,price alerts,0,1
+R0154,6,instant withdrawal,1,0
+R0154,7,tax reports,0,1
+R0154,7,instant withdrawal,0,0
+R0154,7,staking rewards,0,0
+R0154,7,auto-compounding,1,0
+R0154,8,tax reports,0,1
+R0154,8,price alerts,0,0
+R0154,8,hardware wallet support,1,0
+R0154,8,copy trading,0,0
+R0155,1,tax reports,1,0
+R0155,1,instant withdrawal,0,0
+R0155,1,auto-compounding,0,1
+R0155,1,insurance cover,0,0
+R0155,2,instant withdrawal,0,0
+R0155,2,price alerts,0,0
+R0155,2,auto-compounding,0,1
+R0155,2,insurance cover,1,0
+R0155,3,tax reports,0,0
+R0155,3,price alerts,1,0
+R0155,3,staking rewards,0,1
+R0155,3,insurance cover,0,0
+R0155,4,hardware wallet support,0,0
+R0155,4,tax reports,0,0
+R0155,4,staking rewards,1,0
+R0155,4,copy trading,0,1
+R0155,5,tax reports,0,1
+R0155,5,copy trading,0,0
+R0155,5,insurance cover,0,0
+R0155,5,auto-compounding,1,0
+R0155,6,copy trading,0,0
+R0155,6,price alerts,0,1
+R0155,6,auto-compounding,1,0
+R0155,6,tax reports,0,0
+R0155,7,auto-compounding,1,0
+R0155,7,price alerts,0,1
+R0155,7,hardware wallet support,0,0
+R0155,7,instant withdrawal,0,0
+R0155,8,hardware wallet support,0,1
+R0155,8,copy trading,1,0
+R0155,8,staking rewards,0,0
+R0155,8,tax reports,0,0
+R0156,1,copy trading,0,0
+R0156,1,auto-compounding,1,0
+R0156,1,tax reports,0,0
+R0156,1,hardware wallet support,0,1
+R0156,2,tax reports,1,0
+R0156,2,auto-compounding,0,0
+R0156,2,staking rewards,0,0
+R0156,2,copy trading,0,1
+R0156,3,tax reports,0,1
+R0156,3,instant withdrawal,0,0
+R0156,3,hardware wallet support,0,0
+R0156,3,auto-compounding,1,0
+R0156,4,copy trading,0,1
+R0156,4,auto-compounding,0,0
+R0156,4,insurance cover,1,0
+R0156,4,price alerts,0,0
+R0156,5,auto-compounding,0,0
+R0156,5,insurance cover,0,0
+R0156,5,instant withdrawal,1,0
+R0156,5,staking rewards,0,1
+R0156,6,copy trading,0,0
+R0156,6,price alerts,0,1
+R0156,6,instant withdrawal,1,0
+R0156,6,insurance cover,0,0
+R0156,7,insurance cover,1,0
+R0156,7,price alerts,0,1
+R0156,7,instant withdrawal,0,0
+R0156,7,copy trading,0,0
+R0156,8,instant withdrawal,1,0
+R0156,8,staking rewards,0,1
+R0156,8,insurance cover,0,0
+R0156,8,tax reports,0,0
+R0157,1,auto-compounding,0,0
+R0157,1,price alerts,0,1
+R0157,1,instant withdrawal,1,0
+R0157,1,hardware wallet support,0,0
+R0157,2,staking rewards,0,0
+R0157,2,hardware wallet support,0,0
+R0157,2,insurance cover,0,1
+R0157,2,auto-compounding,1,0
+R0157,3,copy trading,0,1
+R0157,3,insurance cover,1,0
+R0157,3,staking rewards,0,0
+R0157,3,hardware wallet support,0,0
+R0157,4,insurance cover,1,0
+R0157,4,price alerts,0,1
+R0157,4,copy trading,0,0
+R0157,4,staking rewards,0,0
+R0157,5,instant withdrawal,0,0
+R0157,5,staking rewards,1,0
+R0157,5,price alerts,0,0
+R0157,5,copy trading,0,1
+R0157,6,copy trading,0,0
+R0157,6,hardware wallet support,1,0
+R0157,6,staking rewards,0,0
+R0157,6,tax reports,0,1
+R0157,7,copy trading,0,1
+R0157,7,auto-compounding,0,0
+R0157,7,hardware wallet support,0,0
+R0157,7,staking rewards,1,0
+R0157,8,staking rewards,0,0
+R0157,8,price alerts,0,1
+R0157,8,hardware wallet support,0,0
+R0157,8,auto-compounding,1,0
+R0158,1,copy trading,0,1
+R0158,1,insurance cover,1,0
+R0158,1,staking rewards,0,0
+R0158,1,instant withdrawal,0,0
+R0158,2,insurance cover,0,0
+R0158,2,auto-compounding,0,0
+R0158,2,copy trading,0,1
+R0158,2,staking rewards,1,0
+R0158,3,hardware wallet support,0,1
+R0158,3,staking rewards,0,0
+R0158,3,price alerts,0,0
+R0158,3,instant withdrawal,1,0
+R0158,4,price alerts,0,0
+R0158,4,hardware wallet support,0,0
+R0158,4,staking rewards,1,0
+R0158,4,copy trading,0,1
+R0158,5,staking rewards,0,0
+R0158,5,hardware wallet support,0,1
+R0158,5,price alerts,0,0
+R0158,5,instant withdrawal,1,0
+R0158,6,price alerts,0,0
+R0158,6,hardware wallet support,0,0
+R0158,6,copy trading,1,0
+R0158,6,tax reports,0,1
+R0158,7,tax reports,0,1
+R0158,7,insurance cover,0,0
+R0158,7,auto-compounding,1,0
+R0158,7,staking rewards,0,0
+R0158,8,hardware wallet support,0,0
+R0158,8,tax reports,0,0
+R0158,8,staking rewards,1,0
+R0158,8,price alerts,0,1
+R0159,1,insurance cover,0,1
+R0159,1,staking rewards,0,0
+R0159,1,tax reports,0,0
+R0159,1,auto-compounding,1,0
+R0159,2,staking rewards,0,0
+R0159,2,tax reports,0,0
+R0159,2,price alerts,0,1
+R0159,2,instant withdrawal,1,0
+R0159,3,price alerts,1,0
+R0159,3,auto-compounding,0,0
+R0159,3,instant withdrawal,0,0
+R0159,3,insurance cover,0,1
+R0159,4,staking rewards,1,0
+R0159,4,insurance cover,0,0
+R0159,4,hardware wallet support,0,1
+R0159,4,instant withdrawal,0,0
+R0159,5,price alerts,0,1
+R0159,5,auto-compounding,1,0
+R0159,5,tax reports,0,0
+R0159,5,hardware wallet support,0,0
+R0159,6,instant withdrawal,1,0
+R0159,6,tax reports,0,0
+R0159,6,staking rewards,0,0
+R0159,6,insurance cover,0,1
+R0159,7,copy trading,0,0
+R0159,7,auto-compounding,0,0
+R0159,7,instant withdrawal,1,0
+R0159,7,price alerts,0,1
+R0159,8,insurance cover,1,0
+R0159,8,staking rewards,0,0
+R0159,8,copy trading,0,0
+R0159,8,price alerts,0,1
+R0160,1,copy trading,0,0
+R0160,1,hardware wallet support,0,1
+R0160,1,auto-compounding,0,0
+R0160,1,tax reports,1,0
+R0160,2,auto-compounding,1,0
+R0160,2,copy trading,0,0
+R0160,2,instant withdrawal,0,0
+R0160,2,price alerts,0,1
+R0160,3,copy trading,0,0
+R0160,3,hardware wallet support,0,0
+R0160,3,instant withdrawal,1,0
+R0160,3,tax reports,0,1
+R0160,4,hardware wallet support,0,0
+R0160,4,insurance cover,0,0
+R0160,4,staking rewards,0,1
+R0160,4,instant withdrawal,1,0
+R0160,5,auto-compounding,1,0
+R0160,5,tax reports,0,1
+R0160,5,insurance cover,0,0
+R0160,5,hardware wallet support,0,0
+R0160,6,staking rewards,1,0
+R0160,6,tax reports,0,0
+R0160,6,insurance cover,0,0
+R0160,6,copy trading,0,1
+R0160,7,tax reports,0,0
+R0160,7,auto-compounding,0,0
+R0160,7,staking rewards,0,1
+R0160,7,copy trading,1,0
+R0160,8,instant withdrawal,1,0
+R0160,8,insurance cover,0,1
+R0160,8,hardware wallet support,0,0
+R0160,8,staking rewards,0,0
+R0161,1,hardware wallet support,0,0
+R0161,1,tax reports,1,0
+R0161,1,copy trading,0,1
+R0161,1,staking rewards,0,0
+R0161,2,hardware wallet support,0,1
+R0161,2,instant withdrawal,0,0
+R0161,2,auto-compounding,1,0
+R0161,2,price alerts,0,0
+R0161,3,price alerts,0,0
+R0161,3,hardware wallet support,0,1
+R0161,3,tax reports,0,0
+R0161,3,instant withdrawal,1,0
+R0161,4,hardware wallet support,0,1
+R0161,4,instant withdrawal,1,0
+R0161,4,tax reports,0,0
+R0161,4,auto-compounding,0,0
+R0161,5,tax reports,0,0
+R0161,5,instant withdrawal,0,0
+R0161,5,hardware wallet support,0,1
+R0161,5,copy trading,1,0
+R0161,6,staking rewards,1,0
+R0161,6,price alerts,0,0
+R0161,6,insurance cover,0,1
+R0161,6,auto-compounding,0,0
+R0161,7,instant withdrawal,1,0
+R0161,7,tax reports,0,0
+R0161,7,insurance cover,0,0
+R0161,7,hardware wallet support,0,1
+R0161,8,staking rewards,0,0
+R0161,8,price alerts,0,0
+R0161,8,instant withdrawal,1,0
+R0161,8,copy trading,0,1
+R0162,1,tax reports,0,1
+R0162,1,hardware wallet support,0,0
+R0162,1,insurance cover,0,0
+R0162,1,auto-compounding,1,0
+R0162,2,hardware wallet support,1,0
+R0162,2,copy trading,0,1
+R0162,2,tax reports,0,0
+R0162,2,instant withdrawal,0,0
+R0162,3,price alerts,0,1
+R0162,3,tax reports,0,0
+R0162,3,hardware wallet support,1,0
+R0162,3,instant withdrawal,0,0
+R0162,4,insurance cover,1,0
+R0162,4,copy trading,0,1
+R0162,4,price alerts,0,0
+R0162,4,hardware wallet support,0,0
+R0162,5,price alerts,0,0
+R0162,5,insurance cover,1,0
+R0162,5,auto-compounding,0,0
+R0162,5,copy trading,0,1
+R0162,6,copy trading,0,1
+R0162,6,tax reports,0,0
+R0162,6,instant withdrawal,0,0
+R0162,6,staking rewards,1,0
+R0162,7,copy trading,0,1
+R0162,7,auto-compounding,0,0
+R0162,7,insurance cover,0,0
+R0162,7,tax reports,1,0
+R0162,8,copy trading,0,1
+R0162,8,insurance cover,0,0
+R0162,8,tax reports,1,0
+R0162,8,staking rewards,0,0
+R0163,1,auto-compounding,0,0
+R0163,1,instant withdrawal,0,0
+R0163,1,insurance cover,1,0
+R0163,1,hardware wallet support,0,1
+R0163,2,hardware wallet support,0,0
+R0163,2,staking rewards,1,0
+R0163,2,tax reports,0,1
+R0163,2,auto-compounding,0,0
+R0163,3,copy trading,0,0
+R0163,3,price alerts,0,1
+R0163,3,insurance cover,1,0
+R0163,3,auto-compounding,0,0
+R0163,4,auto-compounding,1,0
+R0163,4,hardware wallet support,0,0
+R0163,4,instant withdrawal,0,0
+R0163,4,staking rewards,0,1
+R0163,5,auto-compounding,0,1
+R0163,5,instant withdrawal,1,0
+R0163,5,hardware wallet support,0,0
+R0163,5,staking rewards,0,0
+R0163,6,tax reports,0,0
+R0163,6,staking rewards,0,0
+R0163,6,copy trading,0,1
+R0163,6,price alerts,1,0
+R0163,7,instant withdrawal,1,0
+R0163,7,copy trading,0,0
+R0163,7,tax reports,0,0
+R0163,7,price alerts,0,1
+R0163,8,hardware wallet support,0,0
+R0163,8,copy trading,0,1
+R0163,8,staking rewards,0,0
+R0163,8,instant withdrawal,1,0
+R0164,1,instant withdrawal,1,0
+R0164,1,copy trading,0,1
+R0164,1,price alerts,0,0
+R0164,1,staking rewards,0,0
+R0164,2,hardware wallet support,0,0
+R0164,2,price alerts,0,1
+R0164,2,auto-compounding,1,0
+R0164,2,copy trading,0,0
+R0164,3,price alerts,0,0
+R0164,3,hardware wallet support,0,0
+R0164,3,copy trading,0,1
+R0164,3,insurance cover,1,0
+R0164,4,hardware wallet support,0,0
+R0164,4,auto-compounding,1,0
+R0164,4,copy trading,0,1
+R0164,4,instant withdrawal,0,0
+R0164,5,insurance cover,1,0
+R0164,5,staking rewards,0,0
+R0164,5,instant withdrawal,0,0
+R0164,5,hardware wallet support,0,1
+R0164,6,price alerts,0,0
+R0164,6,copy trading,0,1
+R0164,6,tax reports,1,0
+R0164,6,hardware wallet support,0,0
+R0164,7,tax reports,0,1
+R0164,7,instant withdrawal,1,0
+R0164,7,hardware wallet support,0,0
+R0164,7,staking rewards,0,0
+R0164,8,auto-compounding,0,0
+R0164,8,copy trading,0,1
+R0164,8,staking rewards,1,0
+R0164,8,instant withdrawal,0,0
+R0165,1,tax reports,0,0
+R0165,1,hardware wallet support,0,1
+R0165,1,auto-compounding,1,0
+R0165,1,copy trading,0,0
+R0165,2,instant withdrawal,0,0
+R0165,2,auto-compounding,1,0
+R0165,2,staking rewards,0,0
+R0165,2,hardware wallet support,0,1
+R0165,3,instant withdrawal,0,0
+R0165,3,hardware wallet support,0,1
+R0165,3,insurance cover,1,0
+R0165,3,price alerts,0,0
+R0165,4,instant withdrawal,1,0
+R0165,4,auto-compounding,0,0
+R0165,4,staking rewards,0,0
+R0165,4,copy trading,0,1
+R0165,5,copy trading,0,0
+R0165,5,auto-compounding,0,1
+R0165,5,price alerts,0,0
+R0165,5,hardware wallet support,1,0
+R0165,6,auto-compounding,0,0
+R0165,6,copy trading,0,1
+R0165,6,insurance cover,1,0
+R0165,6,staking rewards,0,0
+R0165,7,insurance cover,0,0
+R0165,7,auto-compounding,1,0
+R0165,7,copy trading,0,1
+R0165,7,instant withdrawal,0,0
+R0165,8,hardware wallet support,0,1
+R0165,8,staking rewards,0,0
+R0165,8,instant withdrawal,0,0
+R0165,8,auto-compounding,1,0
+R0166,1,copy trading,0,0
+R0166,1,hardware wallet support,0,1
+R0166,1,tax reports,0,0
+R0166,1,instant withdrawal,1,0
+R0166,2,instant withdrawal,0,0
+R0166,2,tax reports,1,0
+R0166,2,insurance cover,0,0
+R0166,2,staking rewards,0,1
+R0166,3,price alerts,0,1
+R0166,3,tax reports,0,0
+R0166,3,auto-compounding,0,0
+R0166,3,instant withdrawal,1,0
+R0166,4,insurance cover,0,0
+R0166,4,instant withdrawal,1,0
+R0166,4,auto-compounding,0,0
+R0166,4,copy trading,0,1
+R0166,5,copy trading,0,1
+R0166,5,price alerts,0,0
+R0166,5,tax reports,1,0
+R0166,5,staking rewards,0,0
+R0166,6,tax reports,0,1
+R0166,6,auto-compounding,0,0
+R0166,6,price alerts,0,0
+R0166,6,copy trading,1,0
+R0166,7,tax reports,0,0
+R0166,7,hardware wallet support,0,0
+R0166,7,auto-compounding,1,0
+R0166,7,price alerts,0,1
+R0166,8,staking rewards,1,0
+R0166,8,auto-compounding,0,0
+R0166,8,instant withdrawal,0,0
+R0166,8,price alerts,0,1
+R0167,1,auto-compounding,0,0
+R0167,1,copy trading,0,0
+R0167,1,instant withdrawal,1,0
+R0167,1,tax reports,0,1
+R0167,2,staking rewards,1,0
+R0167,2,insurance cover,0,0
+R0167,2,instant withdrawal,0,0
+R0167,2,auto-compounding,0,1
+R0167,3,copy trading,1,0
+R0167,3,staking rewards,0,0
+R0167,3,hardware wallet support,0,0
+R0167,3,price alerts,0,1
+R0167,4,tax reports,0,1
+R0167,4,price alerts,0,0
+R0167,4,instant withdrawal,1,0
+R0167,4,staking rewards,0,0
+R0167,5,copy trading,0,0
+R0167,5,price alerts,0,1
+R0167,5,staking rewards,1,0
+R0167,5,insurance cover,0,0
+R0167,6,price alerts,0,1
+R0167,6,tax reports,1,0
+R0167,6,staking rewards,0,0
+R0167,6,copy trading,0,0
+R0167,7,instant withdrawal,1,0
+R0167,7,copy trading,0,1
+R0167,7,tax reports,0,0
+R0167,7,insurance cover,0,0
+R0167,8,insurance cover,0,0
+R0167,8,instant withdrawal,0,0
+R0167,8,tax reports,0,1
+R0167,8,auto-compounding,1,0
+R0168,1,price alerts,0,0
+R0168,1,tax reports,0,0
+R0168,1,instant withdrawal,0,1
+R0168,1,staking rewards,1,0
+R0168,2,insurance cover,0,0
+R0168,2,instant withdrawal,1,0
+R0168,2,copy trading,0,1
+R0168,2,hardware wallet support,0,0
+R0168,3,hardware wallet support,0,0
+R0168,3,price alerts,0,0
+R0168,3,auto-compounding,1,0
+R0168,3,tax reports,0,1
+R0168,4,copy trading,1,0
+R0168,4,hardware wallet support,0,0
+R0168,4,insurance cover,0,0
+R0168,4,tax reports,0,1
+R0168,5,instant withdrawal,1,0
+R0168,5,auto-compounding,0,0
+R0168,5,hardware wallet support,0,1
+R0168,5,copy trading,0,0
+R0168,6,auto-compounding,0,0
+R0168,6,tax reports,0,1
+R0168,6,insurance cover,0,0
+R0168,6,price alerts,1,0
+R0168,7,copy trading,0,0
+R0168,7,price alerts,0,1
+R0168,7,tax reports,0,0
+R0168,7,staking rewards,1,0
+R0168,8,auto-compounding,0,0
+R0168,8,hardware wallet support,1,0
+R0168,8,price alerts,0,0
+R0168,8,copy trading,0,1
+R0169,1,copy trading,0,1
+R0169,1,insurance cover,1,0
+R0169,1,price alerts,0,0
+R0169,1,auto-compounding,0,0
+R0169,2,instant withdrawal,0,1
+R0169,2,auto-compounding,1,0
+R0169,2,insurance cover,0,0
+R0169,2,staking rewards,0,0
+R0169,3,hardware wallet support,0,0
+R0169,3,price alerts,1,0
+R0169,3,copy trading,0,1
+R0169,3,tax reports,0,0
+R0169,4,price alerts,0,0
+R0169,4,auto-compounding,1,0
+R0169,4,tax reports,0,1
+R0169,4,instant withdrawal,0,0
+R0169,5,staking rewards,0,0
+R0169,5,copy trading,0,0
+R0169,5,insurance cover,1,0
+R0169,5,price alerts,0,1
+R0169,6,hardware wallet support,0,0
+R0169,6,tax reports,0,1
+R0169,6,insurance cover,0,0
+R0169,6,auto-compounding,1,0
+R0169,7,price alerts,0,0
+R0169,7,hardware wallet support,0,1
+R0169,7,auto-compounding,1,0
+R0169,7,copy trading,0,0
+R0169,8,instant withdrawal,0,0
+R0169,8,tax reports,0,0
+R0169,8,copy trading,0,1
+R0169,8,hardware wallet support,1,0
+R0170,1,staking rewards,0,0
+R0170,1,tax reports,1,0
+R0170,1,auto-compounding,0,1
+R0170,1,insurance cover,0,0
+R0170,2,tax reports,0,1
+R0170,2,instant withdrawal,0,0
+R0170,2,staking rewards,1,0
+R0170,2,copy trading,0,0
+R0170,3,hardware wallet support,0,0
+R0170,3,copy trading,0,1
+R0170,3,auto-compounding,0,0
+R0170,3,instant withdrawal,1,0
+R0170,4,staking rewards,0,1
+R0170,4,tax reports,0,0
+R0170,4,insurance cover,1,0
+R0170,4,hardware wallet support,0,0
+R0170,5,instant withdrawal,1,0
+R0170,5,price alerts,0,1
+R0170,5,insurance cover,0,0
+R0170,5,tax reports,0,0
+R0170,6,tax reports,0,0
+R0170,6,staking rewards,0,0
+R0170,6,hardware wallet support,0,1
+R0170,6,insurance cover,1,0
+R0170,7,auto-compounding,0,0
+R0170,7,copy trading,0,1
+R0170,7,staking rewards,0,0
+R0170,7,insurance cover,1,0
+R0170,8,hardware wallet support,0,0
+R0170,8,tax reports,0,1
+R0170,8,price alerts,0,0
+R0170,8,staking rewards,1,0
+R0171,1,hardware wallet support,0,1
+R0171,1,instant withdrawal,1,0
+R0171,1,copy trading,0,0
+R0171,1,insurance cover,0,0
+R0171,2,tax reports,0,0
+R0171,2,insurance cover,1,0
+R0171,2,price alerts,0,1
+R0171,2,auto-compounding,0,0
+R0171,3,hardware wallet support,1,0
+R0171,3,price alerts,0,0
+R0171,3,insurance cover,0,0
+R0171,3,copy trading,0,1
+R0171,4,price alerts,0,1
+R0171,4,hardware wallet support,1,0
+R0171,4,tax reports,0,0
+R0171,4,copy trading,0,0
+R0171,5,hardware wallet support,0,0
+R0171,5,price alerts,0,1
+R0171,5,tax reports,1,0
+R0171,5,auto-compounding,0,0
+R0171,6,copy trading,0,0
+R0171,6,hardware wallet support,0,1
+R0171,6,auto-compounding,1,0
+R0171,6,staking rewards,0,0
+R0171,7,tax reports,0,0
+R0171,7,staking rewards,0,1
+R0171,7,insurance cover,0,0
+R0171,7,hardware wallet support,1,0
+R0171,8,tax reports,0,1
+R0171,8,copy trading,0,0
+R0171,8,hardware wallet support,0,0
+R0171,8,price alerts,1,0
+R0172,1,staking rewards,0,0
+R0172,1,hardware wallet support,0,0
+R0172,1,copy trading,0,1
+R0172,1,instant withdrawal,1,0
+R0172,2,instant withdrawal,1,0
+R0172,2,price alerts,0,0
+R0172,2,staking rewards,0,1
+R0172,2,tax reports,0,0
+R0172,3,tax reports,0,1
+R0172,3,price alerts,0,0
+R0172,3,hardware wallet support,0,0
+R0172,3,insurance cover,1,0
+R0172,4,tax reports,0,0
+R0172,4,price alerts,0,0
+R0172,4,hardware wallet support,0,1
+R0172,4,insurance cover,1,0
+R0172,5,instant withdrawal,0,0
+R0172,5,staking rewards,0,0
+R0172,5,hardware wallet support,0,1
+R0172,5,insurance cover,1,0
+R0172,6,price alerts,0,0
+R0172,6,instant withdrawal,1,0
+R0172,6,auto-compounding,0,1
+R0172,6,copy trading,0,0
+R0172,7,price alerts,0,1
+R0172,7,copy trading,1,0
+R0172,7,tax reports,0,0
+R0172,7,auto-compounding,0,0
+R0172,8,auto-compounding,0,0
+R0172,8,copy trading,0,1
+R0172,8,instant withdrawal,1,0
+R0172,8,price alerts,0,0
+R0173,1,auto-compounding,1,0
+R0173,1,insurance cover,0,0
+R0173,1,copy trading,0,1
+R0173,1,tax reports,0,0
+R0173,2,copy trading,0,1
+R0173,2,insurance cover,0,0
+R0173,2,staking rewards,1,0
+R0173,2,tax reports,0,0
+R0173,3,staking rewards,0,0
+R0173,3,price alerts,0,1
+R0173,3,instant withdrawal,0,0
+R0173,3,auto-compounding,1,0
+R0173,4,staking rewards,0,0
+R0173,4,auto-compounding,0,0
+R0173,4,instant withdrawal,1,0
+R0173,4,tax reports,0,1
+R0173,5,price alerts,0,1
+R0173,5,instant withdrawal,1,0
+R0173,5,auto-compounding,0,0
+R0173,5,tax reports,0,0
+R0173,6,tax reports,1,0
+R0173,6,insurance cover,0,0
+R0173,6,copy trading,0,1
+R0173,6,instant withdrawal,0,0
+R0173,7,instant withdrawal,0,0
+R0173,7,insurance cover,0,0
+R0173,7,tax reports,1,0
+R0173,7,copy trading,0,1
+R0173,8,staking rewards,1,0
+R0173,8,copy trading,0,1
+R0173,8,tax reports,0,0
+R0173,8,insurance cover,0,0
+R0174,1,tax reports,0,1
+R0174,1,instant withdrawal,1,0
+R0174,1,copy trading,0,0
+R0174,1,staking rewards,0,0
+R0174,2,hardware wallet support,0,1
+R0174,2,insurance cover,0,0
+R0174,2,copy trading,0,0
+R0174,2,staking rewards,1,0
+R0174,3,copy trading,0,1
+R0174,3,price alerts,1,0
+R0174,3,auto-compounding,0,0
+R0174,3,hardware wallet support,0,0
+R0174,4,tax reports,0,0
+R0174,4,hardware wallet support,0,0
+R0174,4,price alerts,0,1
+R0174,4,instant withdrawal,1,0
+R0174,5,instant withdrawal,0,0
+R0174,5,tax reports,0,0
+R0174,5,insurance cover,1,0
+R0174,5,price alerts,0,1
+R0174,6,tax reports,0,0
+R0174,6,copy trading,0,1
+R0174,6,insurance cover,1,0
+R0174,6,price alerts,0,0
+R0174,7,auto-compounding,0,0
+R0174,7,staking rewards,0,0
+R0174,7,price alerts,0,1
+R0174,7,insurance cover,1,0
+R0174,8,insurance cover,0,0
+R0174,8,price alerts,1,0
+R0174,8,staking rewards,0,0
+R0174,8,copy trading,0,1
+R0175,1,price alerts,0,0
+R0175,1,staking rewards,0,0
+R0175,1,insurance cover,0,1
+R0175,1,auto-compounding,1,0
+R0175,2,auto-compounding,1,0
+R0175,2,hardware wallet support,0,1
+R0175,2,copy trading,0,0
+R0175,2,price alerts,0,0
+R0175,3,insurance cover,0,0
+R0175,3,hardware wallet support,0,1
+R0175,3,tax reports,0,0
+R0175,3,auto-compounding,1,0
+R0175,4,auto-compounding,0,0
+R0175,4,hardware wallet support,0,0
+R0175,4,insurance cover,1,0
+R0175,4,price alerts,0,1
+R0175,5,insurance cover,1,0
+R0175,5,price alerts,0,1
+R0175,5,copy trading,0,0
+R0175,5,auto-compounding,0,0
+R0175,6,instant withdrawal,0,0
+R0175,6,price alerts,0,1
+R0175,6,tax reports,0,0
+R0175,6,hardware wallet support,1,0
+R0175,7,staking rewards,1,0
+R0175,7,copy trading,0,1
+R0175,7,price alerts,0,0
+R0175,7,hardware wallet support,0,0
+R0175,8,hardware wallet support,0,0
+R0175,8,instant withdrawal,1,0
+R0175,8,staking rewards,0,1
+R0175,8,auto-compounding,0,0
+R0176,1,tax reports,0,1
+R0176,1,copy trading,0,0
+R0176,1,instant withdrawal,1,0
+R0176,1,price alerts,0,0
+R0176,2,tax reports,0,1
+R0176,2,price alerts,0,0
+R0176,2,insurance cover,0,0
+R0176,2,staking rewards,1,0
+R0176,3,hardware wallet support,0,0
+R0176,3,price alerts,0,0
+R0176,3,instant withdrawal,0,1
+R0176,3,insurance cover,1,0
+R0176,4,staking rewards,1,0
+R0176,4,instant withdrawal,0,0
+R0176,4,auto-compounding,0,0
+R0176,4,hardware wallet support,0,1
+R0176,5,price alerts,0,1
+R0176,5,tax reports,0,0
+R0176,5,hardware wallet support,0,0
+R0176,5,insurance cover,1,0
+R0176,6,staking rewards,1,0
+R0176,6,insurance cover,0,0
+R0176,6,copy trading,0,0
+R0176,6,hardware wallet support,0,1
+R0176,7,staking rewards,0,1
+R0176,7,hardware wallet support,0,0
+R0176,7,insurance cover,0,0
+R0176,7,instant withdrawal,1,0
+R0176,8,copy trading,0,1
+R0176,8,auto-compounding,0,0
+R0176,8,staking rewards,1,0
+R0176,8,insurance cover,0,0
+R0177,1,auto-compounding,0,0
+R0177,1,staking rewards,0,1
+R0177,1,instant withdrawal,1,0
+R0177,1,insurance cover,0,0
+R0177,2,copy trading,0,1
+R0177,2,instant withdrawal,0,0
+R0177,2,insurance cover,1,0
+R0177,2,price alerts,0,0
+R0177,3,hardware wallet support,0,0
+R0177,3,copy trading,0,0
+R0177,3,price alerts,0,1
+R0177,3,instant withdrawal,1,0
+R0177,4,hardware wallet support,0,1
+R0177,4,copy trading,0,0
+R0177,4,price alerts,0,0
+R0177,4,tax reports,1,0
+R0177,5,instant withdrawal,1,0
+R0177,5,insurance cover,0,0
+R0177,5,price alerts,0,1
+R0177,5,hardware wallet support,0,0
+R0177,6,auto-compounding,0,0
+R0177,6,price alerts,0,0
+R0177,6,copy trading,0,1
+R0177,6,instant withdrawal,1,0
+R0177,7,insurance cover,0,0
+R0177,7,staking rewards,0,0
+R0177,7,hardware wallet support,0,1
+R0177,7,instant withdrawal,1,0
+R0177,8,price alerts,0,1
+R0177,8,copy trading,0,0
+R0177,8,tax reports,1,0
+R0177,8,insurance cover,0,0
+R0178,1,auto-compounding,0,0
+R0178,1,insurance cover,1,0
+R0178,1,copy trading,0,0
+R0178,1,tax reports,0,1
+R0178,2,instant withdrawal,1,0
+R0178,2,copy trading,0,0
+R0178,2,tax reports,0,0
+R0178,2,auto-compounding,0,1
+R0178,3,price alerts,0,0
+R0178,3,insurance cover,0,0
+R0178,3,hardware wallet support,1,0
+R0178,3,copy trading,0,1
+R0178,4,tax reports,0,0
+R0178,4,copy trading,0,1
+R0178,4,price alerts,1,0
+R0178,4,instant withdrawal,0,0
+R0178,5,auto-compounding,1,0
+R0178,5,price alerts,0,1
+R0178,5,instant withdrawal,0,0
+R0178,5,hardware wallet support,0,0
+R0178,6,staking rewards,0,0
+R0178,6,instant withdrawal,1,0
+R0178,6,auto-compounding,0,0
+R0178,6,hardware wallet support,0,1
+R0178,7,hardware wallet support,1,0
+R0178,7,insurance cover,0,0
+R0178,7,staking rewards,0,1
+R0178,7,copy trading,0,0
+R0178,8,instant withdrawal,0,0
+R0178,8,insurance cover,1,0
+R0178,8,copy trading,0,1
+R0178,8,price alerts,0,0
+R0179,1,staking rewards,1,0
+R0179,1,copy trading,0,1
+R0179,1,auto-compounding,0,0
+R0179,1,instant withdrawal,0,0
+R0179,2,instant withdrawal,1,0
+R0179,2,copy trading,0,0
+R0179,2,price alerts,0,1
+R0179,2,hardware wallet support,0,0
+R0179,3,auto-compounding,0,0
+R0179,3,instant withdrawal,1,0
+R0179,3,tax reports,0,1
+R0179,3,insurance cover,0,0
+R0179,4,price alerts,0,1
+R0179,4,instant withdrawal,1,0
+R0179,4,staking rewards,0,0
+R0179,4,insurance cover,0,0
+R0179,5,hardware wallet support,0,1
+R0179,5,copy trading,0,0
+R0179,5,staking rewards,1,0
+R0179,5,auto-compounding,0,0
+R0179,6,tax reports,1,0
+R0179,6,instant withdrawal,0,0
+R0179,6,price alerts,0,1
+R0179,6,hardware wallet support,0,0
+R0179,7,instant withdrawal,0,0
+R0179,7,staking rewards,1,0
+R0179,7,price alerts,0,1
+R0179,7,auto-compounding,0,0
+R0179,8,price alerts,0,1
+R0179,8,instant withdrawal,0,0
+R0179,8,staking rewards,1,0
+R0179,8,copy trading,0,0
+R0180,1,tax reports,0,0
+R0180,1,price alerts,0,1
+R0180,1,staking rewards,1,0
+R0180,1,hardware wallet support,0,0
+R0180,2,hardware wallet support,0,0
+R0180,2,auto-compounding,1,0
+R0180,2,tax reports,0,0
+R0180,2,copy trading,0,1
+R0180,3,instant withdrawal,0,0
+R0180,3,hardware wallet support,0,0
+R0180,3,copy trading,0,1
+R0180,3,auto-compounding,1,0
+R0180,4,auto-compounding,0,0
+R0180,4,instant withdrawal,0,0
+R0180,4,insurance cover,1,0
+R0180,4,price alerts,0,1
+R0180,5,price alerts,0,0
+R0180,5,copy trading,0,1
+R0180,5,insurance cover,0,0
+R0180,5,staking rewards,1,0
+R0180,6,staking rewards,0,0
+R0180,6,copy trading,0,1
+R0180,6,tax reports,1,0
+R0180,6,auto-compounding,0,0
+R0180,7,price alerts,0,1
+R0180,7,staking rewards,0,0
+R0180,7,instant withdrawal,0,0
+R0180,7,auto-compounding,1,0
+R0180,8,insurance cover,0,0
+R0180,8,staking rewards,1,0
+R0180,8,copy trading,0,0
+R0180,8,hardware wallet support,0,1
+R0181,1,price alerts,0,0
+R0181,1,auto-compounding,0,0
+R0181,1,instant withdrawal,1,0
+R0181,1,staking rewards,0,1
+R0181,2,price alerts,0,1
+R0181,2,copy trading,1,0
+R0181,2,staking rewards,0,0
+R0181,2,auto-compounding,0,0
+R0181,3,copy trading,0,1
+R0181,3,instant withdrawal,1,0
+R0181,3,staking rewards,0,0
+R0181,3,price alerts,0,0
+R0181,4,staking rewards,0,1
+R0181,4,tax reports,0,0
+R0181,4,price alerts,1,0
+R0181,4,instant withdrawal,0,0
+R0181,5,hardware wallet support,0,0
+R0181,5,staking rewards,0,0
+R0181,5,copy trading,1,0
+R0181,5,instant withdrawal,0,1
+R0181,6,copy trading,0,1
+R0181,6,insurance cover,1,0
+R0181,6,hardware wallet support,0,0
+R0181,6,price alerts,0,0
+R0181,7,auto-compounding,0,0
+R0181,7,price alerts,0,0
+R0181,7,insurance cover,1,0
+R0181,7,copy trading,0,1
+R0181,8,copy trading,0,1
+R0181,8,price alerts,0,0
+R0181,8,instant withdrawal,0,0
+R0181,8,tax reports,1,0
+R0182,1,auto-compounding,1,0
+R0182,1,price alerts,0,1
+R0182,1,tax reports,0,0
+R0182,1,staking rewards,0,0
+R0182,2,auto-compounding,1,0
+R0182,2,insurance cover,0,0
+R0182,2,instant withdrawal,0,0
+R0182,2,price alerts,0,1
+R0182,3,instant withdrawal,1,0
+R0182,3,hardware wallet support,0,0
+R0182,3,price alerts,0,0
+R0182,3,tax reports,0,1
+R0182,4,copy trading,0,0
+R0182,4,staking rewards,0,0
+R0182,4,insurance cover,1,0
+R0182,4,tax reports,0,1
+R0182,5,price alerts,0,0
+R0182,5,tax reports,1,0
+R0182,5,copy trading,0,1
+R0182,5,auto-compounding,0,0
+R0182,6,auto-compounding,1,0
+R0182,6,staking rewards,0,0
+R0182,6,price alerts,0,1
+R0182,6,hardware wallet support,0,0
+R0182,7,staking rewards,0,0
+R0182,7,instant withdrawal,1,0
+R0182,7,copy trading,0,1
+R0182,7,hardware wallet support,0,0
+R0182,8,price alerts,0,1
+R0182,8,copy trading,0,0
+R0182,8,instant withdrawal,0,0
+R0182,8,staking rewards,1,0
+R0183,1,price alerts,0,1
+R0183,1,copy trading,1,0
+R0183,1,staking rewards,0,0
+R0183,1,instant withdrawal,0,0
+R0183,2,auto-compounding,1,0
+R0183,2,staking rewards,0,0
+R0183,2,insurance cover,0,0
+R0183,2,hardware wallet support,0,1
+R0183,3,copy trading,0,1
+R0183,3,tax reports,0,0
+R0183,3,auto-compounding,1,0
+R0183,3,price alerts,0,0
+R0183,4,tax reports,0,0
+R0183,4,staking rewards,1,0
+R0183,4,copy trading,0,1
+R0183,4,price alerts,0,0
+R0183,5,hardware wallet support,1,0
+R0183,5,tax reports,0,0
+R0183,5,price alerts,0,0
+R0183,5,copy trading,0,1
+R0183,6,tax reports,1,0
+R0183,6,copy trading,0,0
+R0183,6,insurance cover,0,0
+R0183,6,hardware wallet support,0,1
+R0183,7,price alerts,0,0
+R0183,7,instant withdrawal,1,0
+R0183,7,insurance cover,0,0
+R0183,7,copy trading,0,1
+R0183,8,tax reports,1,0
+R0183,8,auto-compounding,0,0
+R0183,8,copy trading,0,1
+R0183,8,staking rewards,0,0
+R0184,1,tax reports,0,0
+R0184,1,staking rewards,0,0
+R0184,1,copy trading,1,0
+R0184,1,hardware wallet support,0,1
+R0184,2,auto-compounding,1,0
+R0184,2,instant withdrawal,0,0
+R0184,2,price alerts,0,0
+R0184,2,copy trading,0,1
+R0184,3,insurance cover,1,0
+R0184,3,price alerts,0,0
+R0184,3,instant withdrawal,0,0
+R0184,3,copy trading,0,1
+R0184,4,auto-compounding,1,0
+R0184,4,instant withdrawal,0,0
+R0184,4,price alerts,0,0
+R0184,4,staking rewards,0,1
+R0184,5,copy trading,0,0
+R0184,5,price alerts,0,0
+R0184,5,hardware wallet support,0,1
+R0184,5,instant withdrawal,1,0
+R0184,6,instant withdrawal,0,0
+R0184,6,price alerts,1,0
+R0184,6,tax reports,0,1
+R0184,6,insurance cover,0,0
+R0184,7,staking rewards,1,0
+R0184,7,tax reports,0,0
+R0184,7,price alerts,0,1
+R0184,7,instant withdrawal,0,0
+R0184,8,tax reports,0,1
+R0184,8,copy trading,0,0
+R0184,8,hardware wallet support,0,0
+R0184,8,auto-compounding,1,0
+R0185,1,hardware wallet support,0,0
+R0185,1,tax reports,0,1
+R0185,1,insurance cover,0,0
+R0185,1,instant withdrawal,1,0
+R0185,2,insurance cover,1,0
+R0185,2,tax reports,0,0
+R0185,2,copy trading,0,0
+R0185,2,price alerts,0,1
+R0185,3,price alerts,0,1
+R0185,3,tax reports,0,0
+R0185,3,auto-compounding,1,0
+R0185,3,staking rewards,0,0
+R0185,4,hardware wallet support,0,0
+R0185,4,copy trading,0,1
+R0185,4,insurance cover,0,0
+R0185,4,tax reports,1,0
+R0185,5,hardware wallet support,0,0
+R0185,5,instant withdrawal,1,0
+R0185,5,copy trading,0,0
+R0185,5,price alerts,0,1
+R0185,6,auto-compounding,0,0
+R0185,6,staking rewards,1,0
+R0185,6,tax reports,0,1
+R0185,6,price alerts,0,0
+R0185,7,auto-compounding,0,0
+R0185,7,hardware wallet support,0,1
+R0185,7,insurance cover,0,0
+R0185,7,instant withdrawal,1,0
+R0185,8,insurance cover,0,0
+R0185,8,auto-compounding,1,0
+R0185,8,instant withdrawal,0,0
+R0185,8,price alerts,0,1
+R0186,1,copy trading,0,1
+R0186,1,hardware wallet support,0,0
+R0186,1,instant withdrawal,1,0
+R0186,1,staking rewards,0,0
+R0186,2,copy trading,0,1
+R0186,2,price alerts,0,0
+R0186,2,staking rewards,0,0
+R0186,2,insurance cover,1,0
+R0186,3,instant withdrawal,0,0
+R0186,3,price alerts,0,0
+R0186,3,copy trading,0,1
+R0186,3,staking rewards,1,0
+R0186,4,instant withdrawal,1,0
+R0186,4,price alerts,0,1
+R0186,4,tax reports,0,0
+R0186,4,staking rewards,0,0
+R0186,5,copy trading,0,1
+R0186,5,insurance cover,0,0
+R0186,5,staking rewards,1,0
+R0186,5,hardware wallet support,0,0
+R0186,6,hardware wallet support,0,0
+R0186,6,instant withdrawal,1,0
+R0186,6,insurance cover,0,1
+R0186,6,tax reports,0,0
+R0186,7,staking rewards,0,0
+R0186,7,insurance cover,1,0
+R0186,7,hardware wallet support,0,0
+R0186,7,price alerts,0,1
+R0186,8,tax reports,0,0
+R0186,8,hardware wallet support,0,1
+R0186,8,insurance cover,1,0
+R0186,8,copy trading,0,0
+R0187,1,copy trading,0,1
+R0187,1,staking rewards,0,0
+R0187,1,instant withdrawal,1,0
+R0187,1,tax reports,0,0
+R0187,2,instant withdrawal,0,0
+R0187,2,insurance cover,0,0
+R0187,2,auto-compounding,1,0
+R0187,2,price alerts,0,1
+R0187,3,tax reports,0,0
+R0187,3,copy trading,0,1
+R0187,3,staking rewards,0,0
+R0187,3,auto-compounding,1,0
+R0187,4,tax reports,0,1
+R0187,4,instant withdrawal,0,0
+R0187,4,auto-compounding,0,0
+R0187,4,insurance cover,1,0
+R0187,5,price alerts,0,0
+R0187,5,instant withdrawal,0,0
+R0187,5,auto-compounding,1,0
+R0187,5,copy trading,0,1
+R0187,6,instant withdrawal,0,0
+R0187,6,hardware wallet support,1,0
+R0187,6,auto-compounding,0,0
+R0187,6,copy trading,0,1
+R0187,7,insurance cover,0,0
+R0187,7,copy trading,1,0
+R0187,7,hardware wallet support,0,1
+R0187,7,price alerts,0,0
+R0187,8,copy trading,0,1
+R0187,8,tax reports,0,0
+R0187,8,price alerts,1,0
+R0187,8,hardware wallet support,0,0
+R0188,1,insurance cover,0,0
+R0188,1,instant withdrawal,1,0
+R0188,1,tax reports,0,0
+R0188,1,price alerts,0,1
+R0188,2,price alerts,0,0
+R0188,2,hardware wallet support,0,0
+R0188,2,auto-compounding,1,0
+R0188,2,copy trading,0,1
+R0188,3,tax reports,0,1
+R0188,3,insurance cover,1,0
+R0188,3,auto-compounding,0,0
+R0188,3,price alerts,0,0
+R0188,4,staking rewards,0,0
+R0188,4,hardware wallet support,0,1
+R0188,4,insurance cover,0,0
+R0188,4,instant withdrawal,1,0
+R0188,5,copy trading,0,1
+R0188,5,insurance cover,0,0
+R0188,5,staking rewards,0,0
+R0188,5,instant withdrawal,1,0
+R0188,6,price alerts,0,1
+R0188,6,tax reports,0,0
+R0188,6,auto-compounding,1,0
+R0188,6,copy trading,0,0
+R0188,7,insurance cover,0,0
+R0188,7,copy trading,1,0
+R0188,7,tax reports,0,0
+R0188,7,price alerts,0,1
+R0188,8,insurance cover,1,0
+R0188,8,copy trading,0,1
+R0188,8,hardware wallet support,0,0
+R0188,8,tax reports,0,0
+R0189,1,staking rewards,0,0
+R0189,1,copy trading,0,1
+R0189,1,price alerts,1,0
+R0189,1,auto-compounding,0,0
+R0189,2,copy trading,0,0
+R0189,2,hardware wallet support,0,1
+R0189,2,insurance cover,1,0
+R0189,2,price alerts,0,0
+R0189,3,hardware wallet support,0,0
+R0189,3,copy trading,0,1
+R0189,3,tax reports,0,0
+R0189,3,price alerts,1,0
+R0189,4,staking rewards,0,0
+R0189,4,price alerts,0,1
+R0189,4,insurance cover,1,0
+R0189,4,auto-compounding,0,0
+R0189,5,tax reports,1,0
+R0189,5,price alerts,0,1
+R0189,5,copy trading,0,0
+R0189,5,auto-compounding,0,0
+R0189,6,price alerts,0,0
+R0189,6,auto-compounding,0,0
+R0189,6,instant withdrawal,1,0
+R0189,6,copy trading,0,1
+R0189,7,staking rewards,0,1
+R0189,7,price alerts,0,0
+R0189,7,hardware wallet support,1,0
+R0189,7,instant withdrawal,0,0
+R0189,8,instant withdrawal,1,0
+R0189,8,hardware wallet support,0,0
+R0189,8,copy trading,0,1
+R0189,8,staking rewards,0,0
+R0190,1,copy trading,1,0
+R0190,1,instant withdrawal,0,0
+R0190,1,staking rewards,0,0
+R0190,1,price alerts,0,1
+R0190,2,price alerts,0,1
+R0190,2,staking rewards,0,0
+R0190,2,auto-compounding,1,0
+R0190,2,hardware wallet support,0,0
+R0190,3,instant withdrawal,0,0
+R0190,3,price alerts,0,0
+R0190,3,staking rewards,1,0
+R0190,3,copy trading,0,1
+R0190,4,copy trading,0,1
+R0190,4,insurance cover,1,0
+R0190,4,hardware wallet support,0,0
+R0190,4,auto-compounding,0,0
+R0190,5,price alerts,0,0
+R0190,5,staking rewards,1,0
+R0190,5,copy trading,0,1
+R0190,5,instant withdrawal,0,0
+R0190,6,copy trading,1,0
+R0190,6,staking rewards,0,0
+R0190,6,instant withdrawal,0,0
+R0190,6,hardware wallet support,0,1
+R0190,7,instant withdrawal,0,0
+R0190,7,staking rewards,0,0
+R0190,7,insurance cover,1,0
+R0190,7,price alerts,0,1
+R0190,8,instant withdrawal,1,0
+R0190,8,hardware wallet support,0,1
+R0190,8,tax reports,0,0
+R0190,8,price alerts,0,0
+R0191,1,tax reports,0,0
+R0191,1,price alerts,0,0
+R0191,1,insurance cover,0,1
+R0191,1,copy trading,1,0
+R0191,2,hardware wallet support,0,1
+R0191,2,instant withdrawal,1,0
+R0191,2,auto-compounding,0,0
+R0191,2,insurance cover,0,0
+R0191,3,tax reports,0,1
+R0191,3,price alerts,0,0
+R0191,3,hardware wallet support,1,0
+R0191,3,staking rewards,0,0
+R0191,4,insurance cover,1,0
+R0191,4,hardware wallet support,0,0
+R0191,4,copy trading,0,1
+R0191,4,instant withdrawal,0,0
+R0191,5,staking rewards,0,1
+R0191,5,tax reports,1,0
+R0191,5,price alerts,0,0
+R0191,5,hardware wallet support,0,0
+R0191,6,hardware wallet support,0,0
+R0191,6,tax reports,0,1
+R0191,6,instant withdrawal,1,0
+R0191,6,copy trading,0,0
+R0191,7,instant withdrawal,0,0
+R0191,7,tax reports,0,1
+R0191,7,price alerts,0,0
+R0191,7,insurance cover,1,0
+R0191,8,tax reports,1,0
+R0191,8,price alerts,0,1
+R0191,8,instant withdrawal,0,0
+R0191,8,copy trading,0,0
+R0192,1,instant withdrawal,1,0
+R0192,1,insurance cover,0,0
+R0192,1,copy trading,0,0
+R0192,1,tax reports,0,1
+R0192,2,hardware wallet support,0,0
+R0192,2,instant withdrawal,1,0
+R0192,2,price alerts,0,1
+R0192,2,insurance cover,0,0
+R0192,3,instant withdrawal,1,0
+R0192,3,auto-compounding,0,0
+R0192,3,copy trading,0,1
+R0192,3,price alerts,0,0
+R0192,4,staking rewards,0,0
+R0192,4,insurance cover,1,0
+R0192,4,copy trading,0,1
+R0192,4,tax reports,0,0
+R0192,5,price alerts,0,1
+R0192,5,instant withdrawal,1,0
+R0192,5,auto-compounding,0,0
+R0192,5,insurance cover,0,0
+R0192,6,instant withdrawal,0,0
+R0192,6,auto-compounding,1,0
+R0192,6,tax reports,0,0
+R0192,6,copy trading,0,1
+R0192,7,tax reports,0,0
+R0192,7,auto-compounding,1,0
+R0192,7,hardware wallet support,0,1
+R0192,7,copy trading,0,0
+R0192,8,hardware wallet support,0,1
+R0192,8,insurance cover,1,0
+R0192,8,instant withdrawal,0,0
+R0192,8,copy trading,0,0
+R0193,1,hardware wallet support,0,0
+R0193,1,auto-compounding,1,0
+R0193,1,tax reports,0,0
+R0193,1,copy trading,0,1
+R0193,2,instant withdrawal,1,0
+R0193,2,staking rewards,0,0
+R0193,2,auto-compounding,0,0
+R0193,2,copy trading,0,1
+R0193,3,price alerts,1,0
+R0193,3,auto-compounding,0,1
+R0193,3,copy trading,0,0
+R0193,3,instant withdrawal,0,0
+R0193,4,insurance cover,0,0
+R0193,4,price alerts,1,0
+R0193,4,copy trading,0,1
+R0193,4,instant withdrawal,0,0
+R0193,5,price alerts,0,0
+R0193,5,insurance cover,1,0
+R0193,5,staking rewards,0,0
+R0193,5,copy trading,0,1
+R0193,6,instant withdrawal,1,0
+R0193,6,copy trading,0,0
+R0193,6,price alerts,0,1
+R0193,6,staking rewards,0,0
+R0193,7,staking rewards,0,0
+R0193,7,tax reports,1,0
+R0193,7,hardware wallet support,0,0
+R0193,7,copy trading,0,1
+R0193,8,instant withdrawal,1,0
+R0193,8,tax reports,0,1
+R0193,8,staking rewards,0,0
+R0193,8,hardware wallet support,0,0
+R0194,1,price alerts,0,1
+R0194,1,copy trading,0,0
+R0194,1,auto-compounding,1,0
+R0194,1,staking rewards,0,0
+R0194,2,copy trading,0,1
+R0194,2,hardware wallet support,1,0
+R0194,2,insurance cover,0,0
+R0194,2,tax reports,0,0
+R0194,3,tax reports,1,0
+R0194,3,hardware wallet support,0,1
+R0194,3,copy trading,0,0
+R0194,3,auto-compounding,0,0
+R0194,4,staking rewards,0,0
+R0194,4,tax reports,0,0
+R0194,4,price alerts,0,1
+R0194,4,instant withdrawal,1,0
+R0194,5,hardware wallet support,0,1
+R0194,5,insurance cover,0,0
+R0194,5,instant withdrawal,1,0
+R0194,5,tax reports,0,0
+R0194,6,auto-compounding,1,0
+R0194,6,hardware wallet support,0,0
+R0194,6,copy trading,0,1
+R0194,6,insurance cover,0,0
+R0194,7,copy trading,0,1
+R0194,7,price alerts,0,0
+R0194,7,staking rewards,1,0
+R0194,7,hardware wallet support,0,0
+R0194,8,hardware wallet support,0,1
+R0194,8,copy trading,0,0
+R0194,8,insurance cover,1,0
+R0194,8,tax reports,0,0
+R0195,1,hardware wallet support,0,0
+R0195,1,auto-compounding,0,1
+R0195,1,price alerts,0,0
+R0195,1,instant withdrawal,1,0
+R0195,2,auto-compounding,1,0
+R0195,2,instant withdrawal,0,0
+R0195,2,hardware wallet support,0,1
+R0195,2,copy trading,0,0
+R0195,3,auto-compounding,1,0
+R0195,3,insurance cover,0,1
+R0195,3,instant withdrawal,0,0
+R0195,3,hardware wallet support,0,0
+R0195,4,copy trading,0,1
+R0195,4,price alerts,0,0
+R0195,4,staking rewards,1,0
+R0195,4,instant withdrawal,0,0
+R0195,5,auto-compounding,1,0
+R0195,5,staking rewards,0,1
+R0195,5,price alerts,0,0
+R0195,5,insurance cover,0,0
+R0195,6,instant withdrawal,1,0
+R0195,6,auto-compounding,0,0
+R0195,6,hardware wallet support,0,1
+R0195,6,staking rewards,0,0
+R0195,7,instant withdrawal,0,0
+R0195,7,staking rewards,0,1
+R0195,7,auto-compounding,0,0
+R0195,7,insurance cover,1,0
+R0195,8,auto-compounding,1,0
+R0195,8,tax reports,0,0
+R0195,8,insurance cover,0,0
+R0195,8,copy trading,0,1
+R0196,1,auto-compounding,0,0
+R0196,1,tax reports,0,0
+R0196,1,hardware wallet support,1,0
+R0196,1,insurance cover,0,1
+R0196,2,price alerts,1,0
+R0196,2,hardware wallet support,0,0
+R0196,2,auto-compounding,0,0
+R0196,2,insurance cover,0,1
+R0196,3,insurance cover,1,0
+R0196,3,copy trading,0,1
+R0196,3,auto-compounding,0,0
+R0196,3,staking rewards,0,0
+R0196,4,auto-compounding,1,0
+R0196,4,price alerts,0,0
+R0196,4,copy trading,0,1
+R0196,4,hardware wallet support,0,0
+R0196,5,auto-compounding,0,0
+R0196,5,staking rewards,0,0
+R0196,5,hardware wallet support,0,1
+R0196,5,instant withdrawal,1,0
+R0196,6,hardware wallet support,0,0
+R0196,6,price alerts,1,0
+R0196,6,copy trading,0,1
+R0196,6,instant withdrawal,0,0
+R0196,7,insurance cover,0,0
+R0196,7,copy trading,0,1
+R0196,7,hardware wallet support,0,0
+R0196,7,instant withdrawal,1,0
+R0196,8,staking rewards,0,1
+R0196,8,auto-compounding,1,0
+R0196,8,price alerts,0,0
+R0196,8,tax reports,0,0
+R0197,1,copy trading,0,1
+R0197,1,instant withdrawal,1,0
+R0197,1,staking rewards,0,0
+R0197,1,tax reports,0,0
+R0197,2,auto-compounding,0,0
+R0197,2,insurance cover,1,0
+R0197,2,staking rewards,0,0
+R0197,2,price alerts,0,1
+R0197,3,insurance cover,0,0
+R0197,3,auto-compounding,0,1
+R0197,3,hardware wallet support,1,0
+R0197,3,staking rewards,0,0
+R0197,4,hardware wallet support,0,0
+R0197,4,staking rewards,0,0
+R0197,4,auto-compounding,1,0
+R0197,4,copy trading,0,1
+R0197,5,staking rewards,1,0
+R0197,5,insurance cover,0,0
+R0197,5,hardware wallet support,0,0
+R0197,5,copy trading,0,1
+R0197,6,price alerts,0,0
+R0197,6,hardware wallet support,0,1
+R0197,6,staking rewards,0,0
+R0197,6,auto-compounding,1,0
+R0197,7,tax reports,1,0
+R0197,7,price alerts,0,0
+R0197,7,copy trading,0,1
+R0197,7,staking rewards,0,0
+R0197,8,instant withdrawal,0,0
+R0197,8,auto-compounding,1,0
+R0197,8,hardware wallet support,0,1
+R0197,8,tax reports,0,0
+R0198,1,auto-compounding,0,1
+R0198,1,copy trading,0,0
+R0198,1,instant withdrawal,1,0
+R0198,1,tax reports,0,0
+R0198,2,staking rewards,0,0
+R0198,2,insurance cover,0,0
+R0198,2,tax reports,0,1
+R0198,2,instant withdrawal,1,0
+R0198,3,insurance cover,1,0
+R0198,3,auto-compounding,0,1
+R0198,3,copy trading,0,0
+R0198,3,instant withdrawal,0,0
+R0198,4,copy trading,0,0
+R0198,4,tax reports,0,0
+R0198,4,instant withdrawal,1,0
+R0198,4,price alerts,0,1
+R0198,5,tax reports,0,1
+R0198,5,insurance cover,0,0
+R0198,5,hardware wallet support,0,0
+R0198,5,instant withdrawal,1,0
+R0198,6,insurance cover,0,1
+R0198,6,price alerts,1,0
+R0198,6,tax reports,0,0
+R0198,6,hardware wallet support,0,0
+R0198,7,insurance cover,0,0
+R0198,7,hardware wallet support,0,1
+R0198,7,auto-compounding,0,0
+R0198,7,tax reports,1,0
+R0198,8,insurance cover,1,0
+R0198,8,hardware wallet support,0,1
+R0198,8,price alerts,0,0
+R0198,8,tax reports,0,0
+R0199,1,copy trading,0,0
+R0199,1,price alerts,0,1
+R0199,1,auto-compounding,0,0
+R0199,1,instant withdrawal,1,0
+R0199,2,auto-compounding,0,0
+R0199,2,insurance cover,0,1
+R0199,2,price alerts,0,0
+R0199,2,instant withdrawal,1,0
+R0199,3,staking rewards,0,0
+R0199,3,copy trading,0,1
+R0199,3,insurance cover,0,0
+R0199,3,instant withdrawal,1,0
+R0199,4,tax reports,0,1
+R0199,4,hardware wallet support,1,0
+R0199,4,copy trading,0,0
+R0199,4,instant withdrawal,0,0
+R0199,5,price alerts,0,1
+R0199,5,tax reports,0,0
+R0199,5,instant withdrawal,0,0
+R0199,5,auto-compounding,1,0
+R0199,6,instant withdrawal,1,0
+R0199,6,copy trading,0,1
+R0199,6,insurance cover,0,0
+R0199,6,price alerts,0,0
+R0199,7,price alerts,0,1
+R0199,7,hardware wallet support,0,0
+R0199,7,auto-compounding,1,0
+R0199,7,staking rewards,0,0
+R0199,8,staking rewards,0,0
+R0199,8,auto-compounding,1,0
+R0199,8,instant withdrawal,0,0
+R0199,8,copy trading,0,1

@@ -1,0 +1,10 @@
+# real data never goes to git - keep folder structure only
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+memory/2ndbrain

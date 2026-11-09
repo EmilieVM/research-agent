@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run python scripts/*)",
+      "Bash(uv run pytest*)",
+      "Bash(.venv/bin/python scripts/*)"
+    ],
+    "deny": [
+      "Read(./data/raw/**)"
+    ]
+  }
+}

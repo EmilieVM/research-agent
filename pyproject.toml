@@ -1,0 +1,17 @@
+[project]
+name = "research-agent"
+version = "0.1.0"
+description = "Quant UX research toolkit driven by Claude Code"
+requires-python = ">=3.11"
+dependencies = [
+    "factor-analyzer>=0.5.1",
+    "krippendorff>=0.6",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "pingouin>=0.5.4",
+    "pytest>=8.0",
+    "scikit-learn>=1.5,<1.8",  # factor-analyzer breaks on 1.8+
+    "scipy>=1.11",
+    "statsmodels>=0.14",
+    "xlogit>=0.2.7",
+]
